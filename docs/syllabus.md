@@ -2,35 +2,8 @@
 layout: page
 title: Syllabus
 permalink: /syllabus/
+toc: true
 ---
-
-# Syllabus
-
-- [Inclusivity in Learning](#inclusivity-in-learning)
-  - [Content warning](#content-warning)
-  - [Community Agreements](#community-agreements)
-- [Instructor Information](#instructor-information)
-  - [One-on-one appointments](#one-on-one-appointments)
-  - [Tutoring](#tutoring)
-- [Course Information](#course-information)
-  - [Meetings](#meetings)
-  - [Learning Objectives](#learning-objectives)
-  - [Course Materials](#course-materials)
-  - [Microsoft Teams (chat)](#microsoft-teams-chat)
-- [Grading](#grading)
-- [Attendance](#attendance)
-- [Assignments](#assignments)
-  - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
-  - [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
-  - [Graded projects](#graded-projects)
-- [Course Overview](#course-overview)
-  - [Brief Calendar](#brief-calendar)
-  - [Important Dates](#important-dates)
-- [Mason Policies](#mason-policies)
-  - [Honor Code](#honor-code)
-  - [Title IX](#title-ix)
-  - [Privacy](#privacy)
-
 
 ## Inclusivity in Learning
 
@@ -50,9 +23,39 @@ Anyone should feel free to take a break from class at any point, and especially 
 
 ### Community Agreements
 
-_[Adopted by Mason School of Music faculty on August 17, 2022](https://music.gmu.edu/resources/faculty/)_
+_[Adopted by Mason School of Music faculty on August 17, 2022](https://music.gmu.edu/about/diversity-equity-and-inclusion)_
 
-I am committed to being respectful I am committed to respecting the personhood of all community members across sociocultural identities, social status, and affiliation in the School of Music, CVPA, and at Mason. This includes using community members’ preferred names and pronouns. I am committed to respecting others’ artistic professionalism with open and timely communication and input on decision-making whenever appropriate. This atmosphere of respect applies both in-person and across digital media platforms. I am committed to being an active participant I am committed to participating as actively as I can and will communicate when something is taking away my attention. I understand that active participation may look different for each community member and I trust that each member is showing up to the best of their capacity. I am committed to using “I” statements and hearing “I” statements I am committed to speaking from my own experience and feelings by using “I” statements rather than generalizing. (I think, I feel, I believe) I am committed to practicing hearing the experiences of historically and institutionally marginalized community members individually. And seeing each community member as individuals who represent themselves and not the whole socio-cultural groups to which they belong. I am committed to practicing empathy I am committed to appreciating how others may be feeling and thinking. Practicing empathy also means considering how internal and external context, such as societal issues, affects how community members may show up. I am committed to acknowledging intent, and addressing impact Not all harm that is experienced comes from an intentionally harmful place, often bias-based harm is rooted in stereotypes and prejudice formed through socialization. This doesn’t mean that the harm feels any less hurtful. I am committed to acknowledging the harm intentional or unintentional, tending to the hurt person, and working to prevent future harm. I recognize that there is both burden and value in the contribution of community members with historically marginalized identities. I am committed to acknowledging the liveliness of language Language and the way we engage with language are contextual and constantly evolving. Our community includes individuals with various cultural identities, ethnic and racial identities, religions, sexual orientation, gender identity, gender expression, and intersecting backgrounds. Having sensitivity to language is essential in cultivating the conditions of inclusion for all community members. As an example, “guys” is often used in addressing groups of people however the phrase is not gender-neutral and may feel exclusionary to some non-binary members in our community (recommended replacements, folks, y’all, everyone). I am committed to being okay with agreeing and disagreeing respectfully and challenging my assumptions I am committed to the practice of separating the point of view or statement with which I disagree from the person when actively engaging in moments of disagreement. I am committed to the practice of calling in (suspending judgment without shame) instead of calling out (shaming). I will lead with curiosity, listen to understand, and ask for clarity. I recognize that meeting people where they are, requires each of us to do the internal work to challenge our assumptions and build self-awareness of our socialization that is connected to those assumptions. I am committed to seeking harmony While I will do my best to show up for and with other, I understand that there may be moments of disharmony. I am committed to self-reflection and concern for others and being an instrument of positive change. When moments of discord, dissent, or disagreement happen, I am committed to doing the individual internal work for the co-creation of peace.
+#### I am committed to being respectful
+
+I am committed to respecting the personhood of all community members across sociocultural identities, social status, and affiliation in the Dewberry School of Music, CVPA, and at Mason. This includes using community members’ preferred names and pronouns. I am committed to respecting others’ artistic professionalism with open and timely communication and input on decision-making whenever appropriate. This atmosphere of respect applies both in-person and across digital media platforms.
+
+#### I am committed to being an active participant
+
+I am committed to participating as actively as I can and will communicate when something is taking away my attention. I understand that active participation may look different for each community member and I trust that each member is showing up to the best of their capacity.
+
+#### I am committed to using “I” statements and hearing “I” statements
+
+I am committed to speaking from my own experience and feelings by using “I” statements rather than generalizing. (I think, I feel, I believe.) I am committed to practicing hearing the experiences of historically and institutionally marginalized community members individually. And seeing each community member as individuals who represent themselves and not the whole socio-cultural groups to which they belong.
+
+#### I am committed to practicing empathy
+
+I am committed to appreciating how others may be feeling and thinking. Practicing empathy also means considering how internal and external context, such as societal issues, affects how community members may show up.
+
+#### I am committed to acknowledging intent, and addressing impact
+
+Not all harm that is experienced comes from an intentionally harmful place, often bias-based harm is rooted in stereotypes and prejudice formed through socialization. This doesn’t mean that the harm feels any less hurtful. I am committed to acknowledging the harm intentional or unintentional, tending to the hurt person, and working to prevent future harm. I recognize that there is both burden and value in the contribution of community members with historically marginalized identities.
+
+#### I am committed to acknowledging the liveliness of language
+
+Language and the way we engage with language are contextual and constantly evolving. Our community includes individuals with various cultural identities, ethnic and racial identities, religions, sexual orientation, gender identity, gender expression, and intersecting backgrounds. Having sensitivity to language is essential in cultivating the conditions of inclusion for all community members. As an example, “guys” is often used in addressing groups of people however the phrase is not gender-neutral and may feel exclusionary to some non-binary members in our community (recommended replacements, folks, y’all, everyone).
+
+#### I am committed to being okay with agreeing and disagreeing respectfully and challenging my assumptions
+
+I am committed to the practice of separating the point of view or statement with which I disagree from the person when actively engaging in moments of disagreement. I am committed to the practice of calling in (suspending judgment without shame) instead of calling out (shaming). I will lead with curiosity, listen to understand, and ask for clarity. I recognize that meeting people where they are, requires each of us to do the internal work to challenge our assumptions and build self-awareness of our socialization that is connected to those assumptions.
+
+#### I am committed to seeking harmony
+
+While I will do my best to show up for and with other, I understand that there may be moments of disharmony. I am committed to self-reflection and concern for others and being an instrument of positive change. When moments of discord, dissent, or disagreement happen, I am committed to doing the individual internal work for the co-creation of peace.
 
 Instructor Information
 ----------------------

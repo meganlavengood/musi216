@@ -1,5 +1,9 @@
 /* global styles */
 
+:root {
+    --preset-box-shadow: 2px 2px 5px gray;
+}
+
 a.site-title {
     font-weight: 900;
 }
@@ -18,10 +22,14 @@ h2 {
     text-align: center;
 }
 
+li > ol {
+    list-style-type: lower-alpha;
+}
+
 /* card */
 
 .card {
-    box-shadow: 2px 2px 5px gray;
+    box-shadow: var(--preset-box-shadow);
     padding: 1em;
     border-radius: 5px;
     margin-bottom: 3em;
@@ -42,22 +50,27 @@ h2 {
 
 /* previous/next buttons */
 
-.PageNavigation {
-  font-size: 14px;
+.post-nav {
   display: block;
   width: auto;
   overflow: hidden;
 }
 
-.PageNavigation a {
+.post-nav a {
   display: block;
-  width: 50%;
+  width: 30%;
   float: left;
-  margin: 1em 0;
+  font-size: 1.25rem;
+  margin: 1em 1em;
+  padding: 1em;
+  text-align: center;
+  border: 2px solid #2a7ae2;
+  border-radius: 5px;
+  color: #2a7ae2;
 }
 
-.PageNavigation .next {
-  text-align: right;
+.post-nav .next {
+  /* text-align: right; */
 }
 
 /* flex row */
