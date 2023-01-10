@@ -14,7 +14,8 @@ layout: default
     {% assign filtered_posts = site.posts | where_exp: "post", "post.date >= site.time" %}
     {% assign sorted-posts = filtered_posts | sort: 'post_date' | reverse %}
     {% for post in sorted-posts limit:2 offset:0 %}
-    <div class="column-40 card">
+    <div class="col-40 card">
+      <div class="class-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
       {{ post.content }}
     </div>
     {% endfor %}

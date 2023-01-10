@@ -1,0 +1,21 @@
+---
+layout: default
+title: List of classes
+toc: true
+---
+
+<header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+</header>
+
+{% assign sorted-posts = site.posts | sort: 'post_date' | reverse %}
+
+<div class="flex-row justify-space responsive">
+    {% for post in sorted-posts %}
+    <div class="col-40 card">
+        <div class="class-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+        {{ post.content }}
+    </div>
+    {% endfor %}
+</div>
+</ul>

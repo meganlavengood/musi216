@@ -7,8 +7,6 @@ excerpt: "Class topic: [{r-title}]({r-url})
   Homework due: [{d-title}]({d-url})"
 ---
 
-# {post-name}
-
 ## Homework due
 
 [{d-title}]({d-url})

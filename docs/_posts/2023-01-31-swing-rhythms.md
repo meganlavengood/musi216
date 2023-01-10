@@ -7,8 +7,6 @@ excerpt: "Class topic: [Swing rhythms](https://viva.pressbooks.pub/openmusictheo
   Homework due: [worksheet](www.google.com)"
 ---
 
-# Tue, Jan 31
-
 ## Homework due
 
 [worksheet](www.google.com)

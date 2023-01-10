@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-permalink: /syllabus-s23/
+permalink: /syllabus/
 ---
 
 # Syllabus

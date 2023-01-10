@@ -7,8 +7,6 @@ excerpt: "Class topic: [Chord Symbols](https://viva.pressbooks.pub/openmusictheo
   Homework due: "
 ---
 
-# Tue, Jan 24
-
 ## Homework due
 
 

@@ -7,8 +7,6 @@ excerpt: "Class topic: [Notation software workshop]()
   Homework due: [Chord symbols basics worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)"
 ---
 
-# Thu, Jan 26
-
 ## Homework due
 
 [Chord symbols basics worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)

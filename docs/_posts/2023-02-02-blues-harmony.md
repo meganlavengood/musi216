@@ -7,8 +7,6 @@ excerpt: "Class topic: [Blues harmony](https://viva.pressbooks.pub/openmusictheo
   Homework due: [Swing Rhythms video](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/#assignments)"
 ---
 
-# Thu, Feb 2
-
 ## Homework due
 
 [Swing Rhythms video](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/#assignments)

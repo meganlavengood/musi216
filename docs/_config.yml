@@ -19,21 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Theory for Pop and Jazz
-email: your-email@example.com
+email: mlavengo@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://musi215.meganlavengood.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  This is the course website for MUSI 215: Theory for Pop and Jazz. Spring 2023.
+baseurl: "/musi215" # the subpath of your site, e.g. /blog
+url: "https://meganlavengood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+mastodon:
+- username: meganlavengood
+  instance: zirk.us
+instagram_username: lobsterandsmudge
+github_username:  meganlavengood
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-toc
 future: true
 
 # Exclude from processing.
