@@ -1,3 +1,30 @@
+/* global styles */
+
+a.site-title {
+    font-weight: 900;
+}
+
+h1 {
+    font-weight: 700;
+}
+h2 {
+    margin-top: 1.5em;
+}
+
+/* card */
+
+.card {
+    box-shadow: 2px 2px 5px gray;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.card p {
+    margin-left: 1rem;
+}
+
+/* previous/next buttons */
+
 .PageNavigation {
   font-size: 14px;
   display: block;
@@ -14,4 +41,32 @@
 
 .PageNavigation .next {
   text-align: right;
+}
+
+/* flex row */
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.justify-space {
+    justify-content: space-between;
+    margin: auto;
+}
+
+.column-40 {
+    width: 40%;
+}
+
+@media screen and (max-width: 768px) {
+    .flex-row.responsive {
+        flex-direction: column;
+        align-content: center;
+    }
+    .column-40 {
+        width: 60%;
+        margin-bottom: 2em;
+    }
 }
