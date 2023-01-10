@@ -1,0 +1,18 @@
+---
+layout: default
+title: Classes
+---
+
+{% assign sorted-posts = site.posts | sort: 'post_date' | reverse %}
+
+<h1>All Classes</h1>
+
+<ul>
+    {% for post in sorted-posts %}
+    <li>
+
+        <h2><a href="/musi215{{ post.url }}">{{ post.title }}</a></h2>
+        {{ post.content }}
+    </li>
+    {% endfor %}
+</ul>
