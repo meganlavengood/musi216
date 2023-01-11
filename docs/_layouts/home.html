@@ -16,7 +16,7 @@ layout: default
 
   <div class="flex-row justify-space responsive">
     <!-- {% assign filtered_posts = site.posts | where_exp: "post", "post.date >= site.time" %} -->
-    {% assign sorted-posts = site.posts | sort: 'post_date' | reverse %}
+    {% assign sorted-posts = site.posts | sort: 'date' %}
     {% for post in sorted-posts %}
     <div class="col-40 card" date="{{ post.date | date: '%F' }}">
       <div class="class-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
