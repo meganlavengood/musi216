@@ -1,114 +1,132 @@
 /* global styles */
 
 :root {
-    --preset-box-shadow: 2px 2px 5px gray;
+	--preset-box-shadow: 2px 2px 5px gray;
 }
 
 a.site-title {
-    font-weight: 900;
+	font-weight: 900;
 }
 
 h1 {
-    font-weight: 700;
+	font-weight: 700;
 }
 
 h2 {
-    margin-top: 1.5em;
+	margin-top: 1.5em;
 }
 
 .class-title {
-    font-size: 2rem;
-    font-weight: 700;
-    text-align: center;
+	font-size: 2rem;
+	font-weight: 700;
+	text-align: center;
 }
 
 li > ol {
-    list-style-type: lower-alpha;
+	list-style-type: lower-alpha;
 }
 
 .site-nav div {
-    font-size: .9rem;
-    font-weight: 300;
+	font-size: 0.9rem;
+	font-weight: 300;
+}
+
+.header-wrapper {
+    max-width: 80%;
+    margin: auto;
+}
+
+.header-wrapper .favicon {
+    margin-right: .5rem;
+    height: 36px;
 }
 
 /* card */
 
 .card {
-    box-shadow: var(--preset-box-shadow);
-    padding: 1em;
-    border-radius: 5px;
-    margin-bottom: 3em;
+	box-shadow: var(--preset-box-shadow);
+	padding: 1em;
+	border-radius: 5px;
+	margin-bottom: 3em;
 }
 
 .card p {
-    margin-left: 1rem;
+	margin-left: 1rem;
 }
 
 .card h1 {
-    font-size: 1.5rem;
-    border-bottom: 2px solid lightgray;
+	font-size: 1.5rem;
+	border-bottom: 2px solid lightgray;
 }
 
 .card h2 {
-    font-size: 1.25rem;
+	font-size: 1.25rem;
 }
 
 /* previous/next buttons */
 
 .post-nav {
-  display: block;
-  width: auto;
-  overflow: hidden;
+	display: block;
+	width: auto;
+	overflow: hidden;
 }
 
 .post-nav a {
-  display: block;
-  width: 30%;
-  float: left;
-  font-size: 1.25rem;
-  margin: 1em 1em;
-  padding: 1em;
-  text-align: center;
-  border: 2px solid #2a7ae2;
-  border-radius: 5px;
-  color: #2a7ae2;
+	display: block;
+	width: 30%;
+	float: left;
+	font-size: 1.25rem;
+	margin: 1em 1em;
+	padding: 1em;
+	text-align: center;
+	border: 2px solid #2a7ae2;
+	border-radius: 5px;
+	color: #2a7ae2;
 }
 
 /* flex row */
 
 .flex-row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 }
 
 .justify-space {
-    justify-content: space-between;
-    margin: auto;
+	justify-content: space-between;
+}
+
+.justify-around {
+	justify-content: space-around;
 }
 
 .align-center {
-    align-content: center;
+	align-content: center;
 }
 
 .col {
-    width: auto;
+	width: auto;
 }
 
 .col-40 {
-    width: 40%;
+	width: 40%;
+}
+
+.no-wrap {
+    flex-wrap: nowrap;
 }
 
 @media screen and (max-width: 768px) {
-    .flex-row.responsive {
-        flex-direction: column;
-        align-content: center;
-    }
-    .col-40 {
-        width: 60%;
-    }
+	.flex-row.responsive {
+		flex-direction: column;
+		align-content: center;
+        align-items: center;
+	}
+	.col-40 {
+		width: 60%;
+	}
 
-    .card {
-        margin-bottom: 2em;
-    }
+	.card {
+		margin-bottom: 2em;
+	}
 }
