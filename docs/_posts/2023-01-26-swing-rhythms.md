@@ -2,7 +2,7 @@
 layout: post
 date:   2023-01-26 00:00:00 -0500
 title:  "Thu, Jan 26"
-excerpt: "Class topic: [Notation software workshop]()
+excerpt: "Class topic: [Swing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/)
   
   Homework due: [Chord symbols basics worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)"
 ---
@@ -13,12 +13,11 @@ excerpt: "Class topic: [Notation software workshop]()
 
 ## Class topic
 
-[Notation software workshop]()
+[Swing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/)
 
 ## Homework assigned
 
-[worksheet](www.google.com)
+[Swing Rhythms video]()
 
 ## Notes
 
-This isn’t a real homework assignment.

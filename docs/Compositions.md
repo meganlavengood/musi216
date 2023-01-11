@@ -7,14 +7,23 @@ order: 3
 
 ## Blues
 
-* [Instructions](https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-blues.pdf)
-* Due 
+* Instructions
+* Due XXX
 
 ## Bebop
 
+* Instructions
+* Due XXX
+
 ## Wedding arrangement
 
+* Instructions
+* Due XXX
+
 ## Songwriting
+
+* Instructions
+* Due XXX
 
 ## Submitting and revising
 
