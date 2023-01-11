@@ -3,6 +3,7 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 toc: true
+order: 4
 ---
 
 ## Inclusivity in Learning

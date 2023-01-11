@@ -2,6 +2,7 @@
 layout: page
 title: Compositions
 permalink: /compositions/
+order: 3
 ---
 
 ## Blues
