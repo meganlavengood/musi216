@@ -13,10 +13,10 @@ layout: default
 
   <div class="post-nav flex-row justify-space responsive">
     {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url | relative_url }}">&laquo; Previous class</a>
+    <a class="prev button button-fill" href="{{page.previous.url | relative_url }}">&laquo; Previous class</a>
     {% endif %}
     {% if page.next.url %}
-    <a class="next" href="{{page.next.url | relative_url }}">Next class &raquo;</a>
+    <a class="next button button-fill" href="{{page.next.url | relative_url }}">Next class &raquo;</a>
     {% endif %}
   </div>
 

@@ -2,7 +2,6 @@
 layout: page
 title: Compositions
 permalink: /compositions/
-toc: false
 order: 3
 ---
 
