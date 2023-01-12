@@ -18,6 +18,5 @@ $(function () {
 		if (postDate < yesterdayEpoch) $(this).hide();
 	});
 
-	// hide Notes section when empty
-	$( "h2[id=notes]").not("h2[id=notes] ~ p" ).hide();
+
 });

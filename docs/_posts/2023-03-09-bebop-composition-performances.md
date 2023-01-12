@@ -2,9 +2,6 @@
 layout: post
 date:   2023-03-09 00:00:00 -0500
 title:  "Thu, Mar 9"
-excerpt: "Class topic: [Bebop composition performances]()
-  
-  Homework due: [Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)"
 ---
 
 ## Homework due

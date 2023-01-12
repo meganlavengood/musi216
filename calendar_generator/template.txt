@@ -2,9 +2,6 @@
 layout: post
 date:   {date} 00:00:00 -0500
 title:  "{post-name}"
-excerpt: "Class topic: [{r-title}]({r-url})
-  
-  Homework due: [{d-title}]({d-url})"
 ---
 
 ## Homework due

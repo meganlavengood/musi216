@@ -2,9 +2,6 @@
 layout: post
 date:   2023-04-25 00:00:00 -0500
 title:  "Tue, Apr 25"
-excerpt: "Class topic: [Pentatonic harmony](https://viva.pressbooks.pub/openmusictheory/chapter/pentatonic-harmony/)
-  
-  Homework due: [Blues-based schemas](https://viva.pressbooks.pub/openmusictheory/chapter/blues-based-schemas/#assignments)"
 ---
 
 ## Homework due

@@ -2,9 +2,6 @@
 layout: post
 date:   2023-04-27 00:00:00 -0500
 title:  "Thu, Apr 27"
-excerpt: "Class topic: [Fragile, Absent, and Emergent Tonics](https://viva.pressbooks.pub/openmusictheory/chapter/fragile-absent-and-emergent-tonics/)
-  
-  Homework due: [None—work on your compositions!]()"
 ---
 
 ## Homework due
