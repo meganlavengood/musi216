@@ -104,7 +104,7 @@ li > ol {
 }
 
 @media screen and (max-width: 500px) {
-	.favicon {
+	.header-wrapper .favicon {
 		display:none;
 	}
 }
