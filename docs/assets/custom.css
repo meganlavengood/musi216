@@ -91,7 +91,22 @@ li > ol {
 
 .header-wrapper .favicon {
 	margin-right: 0.5rem;
-	height: 36px;
+}
+
+@media screen and (max-width: 600px) {
+	.header:nth-child(1) {
+		max-width: 75% !important;
+	}
+	.site-title {
+		line-height: normal;
+		margin-left:1rem;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.favicon {
+		display:none;
+	}
 }
 
 /* 
@@ -254,6 +269,7 @@ a.button-fill:hover {
 
 .align-center {
 	align-content: center;
+	align-items: center;
 }
 
 .col {

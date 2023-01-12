@@ -4,7 +4,14 @@
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       <div class="col">
-        <a class="site-title" rel="author" href="{{ '/' | relative_url }}"><img class="favicon" src="{{ '/favicon.png' | relative_url }}"> {{ site.title | escape }}</a>
+        <div class="flex-row align-center no-wrap">
+          <div class="col">
+            <a class="site-title" rel="author" href="{{ '/' | relative_url }}"><img class="favicon" src="{{ '/favicon.png' | relative_url }}" height="36px" width="36px"></a>
+          </div>
+          <div class="col">
+            <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+          </div>
+        </div>
       </div>
       <div class="col">
         <nav class="site-nav">
