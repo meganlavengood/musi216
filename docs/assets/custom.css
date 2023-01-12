@@ -5,22 +5,30 @@
 	--accent: #ff42a1;
 	--accent-dark: #cc0066;
 	--footer-gray: #828282;
+	--main-bg: #f9f9f9;
 }
 
-a.site-title {
+a.site-title, a.site-title:visited {
 	font-weight: 900;
+	color: black;
 }
 
-main a {
+body {
+	background-color: var(--main-bg);
+}
+header a {
+	color: black;
+}
+footer a {
+	color: var(--footer-gray);
+}
+main a, main a:visited  {
 	color: var(--accent-dark);
 }
 main a:hover {
 	color: var(--accent);
 }
-a:hover,
-.social-media-list a:hover .username {
-	text-decoration: underline var(--accent);
-}
+
 a:visited {
 	color: inherit;
 }
@@ -43,10 +51,10 @@ code {
 	font-weight: 700;
 	text-align: center;
 }
-.class-title a {
+.class-title a, .class-title a:hover, .class-title a:visited {
 	color: black;
 }
-.class-title a:hover {
+.class-title a:hover, a.site-title:hover {
 	text-decoration-color: var(--accent);
 }
 
@@ -100,10 +108,20 @@ footer a {
 	}
 }
 
+html {
+	scroll-behavior: smooth;
+}
+@media screen and (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+}
+
 /* card */
 
 .card {
 	box-shadow: var(--preset-box-shadow);
+	background: white;
 	padding: 1em;
 	border-radius: 5px;
 	margin-bottom: 3em;
