@@ -12,6 +12,7 @@ body {
 	background-color: var(--main-bg);
 }
 
+
 /*
 *
 * links*/
@@ -99,7 +100,10 @@ li > ol {
 .footer-col-wrapper {
 	margin-left: 0;
 }
-@media screen and (min-width: 768px) {
+.footer-col-wrapper .flex-row {
+	margin-bottom: 1em;
+}
+/* @media screen and (min-width: 768px) {
 	.footer-col-wrapper div.col:nth-child(1) {
 		text-align: left;
 		width: 40%;
@@ -112,7 +116,7 @@ li > ol {
 		text-align: right;
 		width: 40%;
 	}
-}
+} */
 footer a {
 	color: var(--footer-gray);
 }
@@ -243,6 +247,11 @@ a.button-fill:hover {
 	align-items: center;
 }
 
+.justify-center {
+	justify-content: center;
+	gap: 2em;
+}
+
 .align-center {
 	align-content: center;
 }
@@ -264,9 +273,11 @@ a.button-fill:hover {
 		flex-direction: column;
 		align-content: center;
 		align-items: center;
+		gap: unset;
 	}
 	.col-40 {
-		width: 60%;
+		width: 80%;
+		max-width: 350px;
 	}
 
 	.card {
