@@ -4,31 +4,34 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper flex-row justify-space responsive">
-      <div class="footer-col col">
+      <div class="col">
 
-        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
         <ul class="contact-list">
-          <li class="p-name">
+          <li>
+            MUSI 215: Theory for Pop and Jazz
+          </li>
+          <li>
             Dr. Megan L. Lavengood
           </li>
-          {%- if site.email -%}
-          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {%- endif -%}
+          <li>
+            Spring 2023
+          </li>
         </ul>
       </div>
 
-      <div class="footer-col col">
+      <div class="col">
 
-        <p>Spring 2023</p>
+        <p style="text-align:center;"><a href="{{ '/' | relative_url }}"><img class="favicon" src="{{ '/favicon.png' | relative_url }}" height="36px"></a></p>
       </div>
 
-      <div class="footer-col col">
+      <div class="col">
         {%- include social.html -%}
       </div>
 
     </div>
-
+    
   </div>
 
 </footer>
