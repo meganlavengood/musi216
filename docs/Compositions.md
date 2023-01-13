@@ -17,7 +17,7 @@ order: 3
 
 ## Wedding arrangement
 
-* [Instructions](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/#assignments)
+* [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
 * Due: Thu, Mar 30
 
 ## Songwriting

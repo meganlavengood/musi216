@@ -93,14 +93,30 @@ If you have to miss class, you are welcome to attend the other class if that tim
 
 ### Course Materials
 
-*   **You won’t have to pay for any materials for this course!** You need internet access for _Open Music Theory_, Blackboard, etc, and in class you should have staff paper, pens, pencils, etc. Smartphones, tablets, and computers are welcome in the classroom since you need them to access the textbook.
-*   I recommend you download an app for making black-and-white .pdf scans from your phone. I recommend [ABBYY FineScanner](http://www.finescanner.com/en/), which has a free version suitable for our purposes. I have also used [CamScanner](https://www.camscanner.com/). Tutorials available [here](https://meganlavengood.com/how-to-scan/).
+  **You won’t have to pay for any texts for this course!** Our textbook is [*Open Music Theory*](https://viva.pressbooks.pub/openmusictheory/), which is free.
+
+  #### Required 
+  
+  * Internet access for _Open Music Theory_, Blackboard, etc.
+  * A three-ring binder for homework packets
+  * Staff paper, pens, pencils, etc. 
+  * [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat)
+
+
+#### Recommended
+*  An app for making black-and-white .pdf scans from your phone.
+   *  I recommend [ABBYY FineScanner](http://www.finescanner.com/en/), which has a free version suitable for our purposes. 
+   *  I have also used [CamScanner](https://www.camscanner.com/). 
+   *  Most phones have them built in natively, too.
+   *  Tutorials available [here](https://meganlavengood.com/how-to-scan/).
 *   [Spotify](https://viva.pressbooks.pub/openmusictheory/front-matter/statement-on-spotify-usage/) is also useful for accessing worksheet playlists.
+
+Smartphones, tablets, and computers are welcome in the classroom since you need them to access the textbook.
 
 Grading
 -------
 
-Due to the ongoing pandemic, I have significantly pared back the required work for this semester. **Your grade in this course will be based solely on model compositions and a final project.** The first composition (set theory) is worth 20 points, the second composition (triadic post-tonal) is worth 30 points, and the final project is worth 50 points, for a total of 100 points in your grade. This is visualized in the following chart.
+Due to the ongoing pandemic, I have significantly pared back the required work for this semester. **Your grade in this course will be based solely on four composition projects.** Compositions get progressively more involved, so each is worth progressively more than the last. The first composition (blues) is worth 10 points; the second (bebop) is worth 20 points; the third (wedding arrangement) is worth 30 points; and the songwriting project is worth 40 points.
 
 Letter grades are given as follows:
 

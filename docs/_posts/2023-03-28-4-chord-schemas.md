@@ -18,4 +18,3 @@ title:  "Tue, Mar 28"
 
 ## Notes
 
-Download .mp3 files here.

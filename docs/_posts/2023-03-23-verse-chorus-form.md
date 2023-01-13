@@ -18,3 +18,4 @@ title:  "Thu, Mar 23"
 
 ## Notes
 
+[Download .mp3 files](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Eu2QoZ6R_ANFkYOmjWO6YBoBd_EldZRYjv0Y_zq6JcGS0A?e=8Wg2t8)

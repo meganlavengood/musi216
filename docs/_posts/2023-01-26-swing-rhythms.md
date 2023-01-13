@@ -14,7 +14,7 @@ title:  "Thu, Jan 26"
 
 ## Homework assigned
 
-[Swing Rhythms video]()
+[Swing Rhythms video](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/#assignments)
 
 ## Notes
 

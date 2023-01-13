@@ -6,7 +6,7 @@ title:  "Thu, Feb 2"
 
 ## Homework due
 
-[Blues worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/#assignments)
+[Blues worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
 
 ## Class topic
 
@@ -14,7 +14,7 @@ title:  "Thu, Feb 2"
 
 ## Homework assigned
 
-[Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
+[Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
 
 ## Notes
 

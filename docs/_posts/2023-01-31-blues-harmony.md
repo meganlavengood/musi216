@@ -6,7 +6,7 @@ title:  "Tue, Jan 31"
 
 ## Homework due
 
-[Swing Rhythms video](0)
+[Swing Rhythms video](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/#assignments)
 
 ## Class topic
 
@@ -14,7 +14,7 @@ title:  "Tue, Jan 31"
 
 ## Homework assigned
 
-[Blues worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/#assignments)
+[Blues worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
 
 ## Notes
 

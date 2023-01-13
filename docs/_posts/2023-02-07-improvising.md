@@ -6,7 +6,7 @@ title:  "Tue, Feb 7"
 
 ## Homework due
 
-[Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
+[Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
 
 ## Class topic
 
@@ -18,3 +18,4 @@ title:  "Tue, Feb 7"
 
 ## Notes
 
+Special guests! John Kocur (9:00) and Paul Bratcher (1:30)

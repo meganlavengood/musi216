@@ -6,7 +6,7 @@ title:  "Thu, Mar 2"
 
 ## Homework due
 
-[part of Bebop composition](https://drive.google.com/file/d/1q7lKLO_WbfmnEsFIhtTb4889YYKF9f8Q/view)
+[part of Bebop composition](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 
 ## Class topic
 
