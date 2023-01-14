@@ -14,8 +14,7 @@ title:  "Thu, Mar 23"
 
 ## Homework assigned
 
-[Listening to pop forms](https://viva.pressbooks.pub/openmusictheory/chapter/verse-chorus-form/#assignments)
+[Listening to pop forms](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQ7q-ebuWKVCtHRMhwdqdiwBVkx3F3p-KUvtuG-v9dCVQQ?e=2Vbxuv)
 
 ## Notes
 
-[Download .mp3 files](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Eu2QoZ6R_ANFkYOmjWO6YBoBd_EldZRYjv0Y_zq6JcGS0A?e=8Wg2t8)

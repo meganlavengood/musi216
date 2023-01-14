@@ -14,7 +14,7 @@ title:  "Thu, Feb 9"
 
 ## Homework assigned
 
-[Lead sheet symbols with extensions worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)
+[Chord symbols with extensions worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)
 
 ## Notes
 

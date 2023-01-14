@@ -18,12 +18,12 @@ order: 3
 ## Wedding arrangement
 
 * [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
-* Due: Thu, Mar 30
+* Due: Thu, Apr 6
 
 ## Songwriting
 
 * [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7)
-* Due: Tue, Apr 25
+* Due: Thu, Apr 27
 
 ## Submitting and revising
 

@@ -6,7 +6,7 @@ title:  "Tue, Feb 14"
 
 ## Homework due
 
-[Lead sheet symbols with extensions worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)
+[Chord symbols with extensions worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)
 
 ## Class topic
 

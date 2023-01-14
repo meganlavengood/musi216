@@ -6,7 +6,7 @@ title:  "Thu, Apr 13"
 
 ## Homework due
 
-[Section structures](https://viva.pressbooks.pub/openmusictheory/chapter/melody-and-phrasing/#assignments)
+[Wedding arrangement project](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
 
 ## Class topic
 
