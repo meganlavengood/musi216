@@ -2,9 +2,33 @@
 layout: page
 title: Syllabus
 permalink: /syllabus/
-toc: true
+toc: false
 order: 4
 ---
+
+- [Inclusivity in Learning](#inclusivity-in-learning)
+  - [Content warning](#content-warning)
+  - [Community Agreements](#community-agreements)
+- [Instructor Information](#instructor-information)
+  - [One-on-one appointments](#one-on-one-appointments)
+- [Course Information](#course-information)
+  - [Meetings](#meetings)
+  - [Learning Objectives](#learning-objectives)
+  - [Course Materials](#course-materials)
+- [Grading](#grading)
+- [Attendance](#attendance)
+- [Assignments](#assignments)
+  - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
+  - [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
+  - [Graded projects](#graded-projects)
+- [Course Overview](#course-overview)
+  - [Brief Calendar](#brief-calendar)
+  - [Important Dates](#important-dates)
+- [Mason Policies](#mason-policies)
+  - [Honor Code](#honor-code)
+  - [Title IX](#title-ix)
+  - [Privacy](#privacy)
+
 
 ## Inclusivity in Learning
 
