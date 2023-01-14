@@ -12,6 +12,13 @@ body {
 	background-color: var(--main-bg);
 }
 
+hr {
+border: 0;
+height: 0;
+border-bottom: 1px solid var(--accentr);
+width: 50%;
+margin: 3em auto;
+}
 
 /*
 *
@@ -222,22 +229,6 @@ a.button-fill:hover {
 	overflow: hidden;
 }
 
-/* .post-nav a {
-	display: block;
-	font-size: 1.25rem;
-	margin: 1em 1em;
-	padding: 1em;
-	text-align: center;
-	border: 2px solid var(--accent-dark);
-	border-radius: 5px;
-	color: var(--accent-dark);
-}
-
-.post-nav a:hover {
-	border-color: var(--accent);
-	color: var(--accent);
-} */
-
 @media screen and (min-width: 768px) {
 	.post-nav a {
 		width: 30%;
@@ -299,4 +290,16 @@ a.button-fill:hover {
 	.card {
 		margin-bottom: 2em;
 	}
+}
+
+/*
+*
+* TOC */
+
+#table-of-contents + ol li a {
+	color: black;
+}
+#table-of-contents + ol li a:hover {
+	text-decoration: underline;
+	text-decoration-color: var(--accent);
 }
