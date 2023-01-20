@@ -8,28 +8,28 @@ order: 4
 
 ## Table of Contents
 
-1. [Inclusivity in Learning](#inclusivity-in-learning)
-   1. [Content warning](#content-warning)
-   2. [Community Agreements](#community-agreements)
-2. [Instructor Information](#instructor-information)
-   1. [One-on-one appointments](#one-on-one-appointments)
-3. [Course Information](#course-information)
-   1. [Meetings](#meetings)
-   2. [Learning Objectives](#learning-objectives)
-   3. [Course Materials](#course-materials)
-4. [Grading](#grading)
-5. [Attendance](#attendance)
-6. [Assignments](#assignments)
-   1. [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
-   2. [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
-   3. [Graded projects](#graded-projects)
-7. [Course Overview](#course-overview)
-   1. [Brief Calendar](#brief-calendar)
-   2. [Important Dates](#important-dates)
-8. [Mason Policies](#mason-policies)
-   1. [Honor Code](#honor-code)
-   2. [Title IX](#title-ix)
-   3. [Privacy](#privacy)
+- [Inclusivity in Learning](#inclusivity-in-learning)
+  - [Content warning](#content-warning)
+  - [Community Agreements](#community-agreements)
+- [Instructor Information](#instructor-information)
+  - [One-on-one appointments](#one-on-one-appointments)
+- [Course Information](#course-information)
+  - [Meetings](#meetings)
+  - [Learning Objectives](#learning-objectives)
+  - [Course Materials](#course-materials)
+- [Grading](#grading)
+- [Attendance](#attendance)
+- [Assignments](#assignments)
+  - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
+  - [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
+  - [Graded projects](#graded-projects)
+- [Course Overview](#course-overview)
+  - [Brief Calendar](#brief-calendar)
+  - [Important Dates](#important-dates)
+- [Mason Policies](#mason-policies)
+  - [Honor Code](#honor-code)
+  - [Title IX](#title-ix)
+  - [Privacy](#privacy)
 
 ---
 
@@ -95,7 +95,7 @@ Instructor Information
 
 ### One-on-one appointments
 
-*   Available Tuesdays from 2:30–4:30 PM.
+*   Available Tuesdays from 3:00–5:00 PM.
 *   No appointment is needed, but if you like, you can [schedule a time here](https://outlook.office365.com/owa/calendar/OfficeHours2@gmuedu.onmicrosoft.com/bookings/) so that I expect you.
 *   We can meet in person or [on Zoom](https://gmu.zoom.us/j/98156896249?pwd=dVFHSmF3Q0t0aEd2SWxjdW1QSUpvdz09​​​​​​​).
 
@@ -127,7 +127,7 @@ If you have to miss class, you are welcome to attend the other class if that tim
   * Internet access for [_Open Music Theory_](https://viva.pressbooks.pub/openmusictheory/), Blackboard, etc.
   * A three-ring binder for homework packets
   * Staff paper, pens, pencils, etc. 
-  * [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat)
+  * [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat). **Note that as of this writing (January 14), MuseScore 4 is still quite buggy. You may want to use [MuseScore 3](https://ftp.osuosl.org/pub/musescore/releases/MuseScore-3.2/) instead.
 
 
 #### Recommended
