@@ -4,12 +4,15 @@ import re
 
 TEMPLATE_FILE_NAME = "template.txt"
 COMPOSITION_TEMPLATE_FILE_NAME = "composition_template.txt"
+SYLLABUS_TEMPLATE_FILE_NAME = "syllabus_template.txt"
 DATA_FILE_NAME = "data.csv"
 POST_OUTPUT_DIRECTORY = "../docs/_posts"
 COMPOSITION_OUTPUT_DIRECTORY = "../docs"
+SYLLABUS_OUTPUT_DIRECTORY = "../docs"
 
 template = pathlib.Path(TEMPLATE_FILE_NAME).read_text()
 composition_template = pathlib.Path(COMPOSITION_TEMPLATE_FILE_NAME).read_text()
+syllabus_template = pathlib.Path(SYLLABUS_TEMPLATE_FILE_NAME).read_text()
 
 data = pd.read_csv(DATA_FILE_NAME)
 
@@ -52,6 +55,35 @@ def delete_sections(day):
 
 
 def build_compositions(data, composition_template):
+    # comp_keywords = parse_composition_keywords(composition_template)
+    # comp_dict = {}
+    # for row in data.iterrows():
+    #     row_dict = row[1].to_dict()
+    #     title = row_dict["a-title"].lower()
+    #     if "project" in title:
+    #         for kw in comp_keywords:
+    #             if kw in title:
+    #                 comp_keywords.remove(kw)
+    #                 comp_dict[f"{kw}_url"] = row_dict["a-url"]
+    #                 comp_dict[f"{kw}_date"] = row_dict["post-name"]
+    comp_dict = get_composition_details(data, composition_template)
+    compositions_footer = composition_template.split("\n")[-1]
+    compositions = (
+        composition_template[: composition_template.rfind("\n")].format(**comp_dict)
+        + compositions_footer
+    )
+    pathlib.Path(f"{COMPOSITION_OUTPUT_DIRECTORY}/compositions.md").write_text(
+        compositions
+    )
+
+
+def build_syllabus(data, syllabus_template, composition_template):
+    comp_dict = get_composition_details(data, composition_template)
+    syllabus = syllabus_template.format(**comp_dict)
+    pathlib.Path(f"{SYLLABUS_OUTPUT_DIRECTORY}/syllabus.md").write_text(syllabus)
+
+
+def get_composition_details(data, composition_template):
     comp_keywords = parse_composition_keywords(composition_template)
     comp_dict = {}
     for row in data.iterrows():
@@ -63,14 +95,7 @@ def build_compositions(data, composition_template):
                     comp_keywords.remove(kw)
                     comp_dict[f"{kw}_url"] = row_dict["a-url"]
                     comp_dict[f"{kw}_date"] = row_dict["post-name"]
-    compositions_footer = composition_template.split("\n")[-1]
-    compositions = (
-        composition_template[: composition_template.rfind("\n")].format(**comp_dict)
-        + compositions_footer
-    )
-    pathlib.Path(f"{COMPOSITION_OUTPUT_DIRECTORY}/compositions.md").write_text(
-        compositions
-    )
+    return comp_dict
 
 
 def parse_composition_keywords(template):
@@ -85,3 +110,4 @@ def parse_composition_keywords(template):
 
 build_posts(data)
 build_compositions(data, composition_template)
+build_syllabus(data, syllabus_template, composition_template)
