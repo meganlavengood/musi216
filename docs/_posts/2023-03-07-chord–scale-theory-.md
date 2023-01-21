@@ -6,7 +6,7 @@ title:  "Tue, Mar 7"
 
 ## Homework due
 
-[None—work on your compositions!]()
+None—work on your compositions!
 
 ## Class topic
 
@@ -15,6 +15,4 @@ title:  "Tue, Mar 7"
 ## Homework assigned
 
 [Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
-
-## Notes
 

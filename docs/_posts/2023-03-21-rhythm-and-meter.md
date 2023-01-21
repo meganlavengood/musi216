@@ -16,5 +16,3 @@ title:  "Tue, Mar 21"
 
 [Transcribing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/#assignments)
 
-## Notes
-

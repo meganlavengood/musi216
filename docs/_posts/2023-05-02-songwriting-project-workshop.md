@@ -10,11 +10,9 @@ title:  "Tue, May 2"
 
 ## Class topic
 
-[Songwriting project workshop]()
+Songwriting project workshop
 
 ## Homework assigned
 
 [Songwriting composition project](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7)
-
-## Notes
 

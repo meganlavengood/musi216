@@ -6,7 +6,7 @@ title:  "Thu, Apr 27"
 
 ## Homework due
 
-[0](0)
+[Reharmonizing to avoid tonic](https://viva.pressbooks.pub/openmusictheory/chapter/fragile-absent-and-emergent-tonics#assignments)
 
 ## Class topic
 

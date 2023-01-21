@@ -16,5 +16,3 @@ title:  "Thu, Feb 2"
 
 [Blues scales worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
 
-## Notes
-

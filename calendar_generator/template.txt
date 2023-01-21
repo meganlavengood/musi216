@@ -6,15 +6,15 @@ title:  "{post-name}"
 
 ## Homework due
 
-[{d-title}]({d-url})
+{d-links}
 
 ## Class topic
 
-[{r-title}]({r-url})
+{r-links}
 
 ## Homework assigned
 
-[{a-title}]({a-url})
+{a-links}
 
 ## Notes
 

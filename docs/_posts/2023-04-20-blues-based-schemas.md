@@ -16,5 +16,3 @@ title:  "Thu, Apr 20"
 
 [Blues-based schemas](https://viva.pressbooks.pub/openmusictheory/chapter/blues-based-schemas/#assignments)
 
-## Notes
-

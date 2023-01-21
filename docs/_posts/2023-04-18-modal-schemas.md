@@ -16,5 +16,3 @@ title:  "Tue, Apr 18"
 
 [Modal reharmonization composition exercise](https://viva.pressbooks.pub/openmusictheory/chapter/modal-schemas/#assignments)
 
-## Notes
-

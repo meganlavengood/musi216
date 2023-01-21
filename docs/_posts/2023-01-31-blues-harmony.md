@@ -16,5 +16,3 @@ title:  "Tue, Jan 31"
 
 [Blues worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
 
-## Notes
-

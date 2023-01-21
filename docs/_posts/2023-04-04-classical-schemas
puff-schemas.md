@@ -20,5 +20,3 @@ https://viva.pressbooks.pub/openmusictheory/chapter/puff-schemas/)
 Puff Schemas](https://viva.pressbooks.pub/openmusictheory/chapter/classical-schemas#assignments
 https://viva.pressbooks.pub/openmusictheory/chapter/puff-schemas#assignments)
 
-## Notes
-

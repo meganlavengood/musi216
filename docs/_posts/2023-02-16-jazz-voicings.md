@@ -16,5 +16,3 @@ title:  "Thu, Feb 16"
 
 [Jazz voicings worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-voicings/#assignments)
 
-## Notes
-

@@ -10,7 +10,7 @@ title:  "Thu, Mar 9"
 
 ## Class topic
 
-[Bebop composition performances]()
+Bebop composition performances
 
 ## Homework assigned
 

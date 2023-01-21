@@ -16,5 +16,3 @@ title:  "Tue, Mar 28"
 
 [Section structures](https://viva.pressbooks.pub/openmusictheory/chapter/melody-and-phrasing/#assignments)
 
-## Notes
-

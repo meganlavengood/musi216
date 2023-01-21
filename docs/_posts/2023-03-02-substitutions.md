@@ -16,5 +16,3 @@ title:  "Thu, Mar 2"
 
 [Bebop composition project](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 
-## Notes
-

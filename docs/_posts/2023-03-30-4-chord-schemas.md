@@ -16,5 +16,3 @@ title:  "Thu, Mar 30"
 
 [Variations on 4-chord schemas](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments)
 
-## Notes
-

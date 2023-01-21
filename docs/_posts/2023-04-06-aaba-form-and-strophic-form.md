@@ -16,5 +16,3 @@ title:  "Thu, Apr 6"
 
 [Wedding arrangement project](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
 
-## Notes
-

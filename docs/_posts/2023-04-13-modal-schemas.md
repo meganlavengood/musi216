@@ -16,5 +16,3 @@ title:  "Thu, Apr 13"
 
 [Identifying Modal Schemas](https://viva.pressbooks.pub/openmusictheory/chapter/modal-schemas/#assignments)
 
-## Notes
-

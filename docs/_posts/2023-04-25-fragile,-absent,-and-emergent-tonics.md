@@ -14,7 +14,5 @@ title:  "Tue, Apr 25"
 
 ## Homework assigned
 
-
-
-## Notes
+[Reharmonizing to avoid tonic](https://viva.pressbooks.pub/openmusictheory/chapter/fragile-absent-and-emergent-tonics#assignments)
 
