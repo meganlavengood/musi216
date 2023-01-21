@@ -245,7 +245,6 @@ a.button-fill:hover {
 
 .justify-space {
 	justify-content: space-between;
-	align-items: center;
 }
 
 .justify-around {
