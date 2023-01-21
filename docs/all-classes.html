@@ -9,7 +9,7 @@ toc: true
     <h1 class="post-title">{{ page.title | escape }}</h1>
 </header>
 
-{% assign sorted-posts = site.posts | sort: 'post_date' | reverse %}
+{% assign sorted-posts = site.posts | sort: 'date' %}
 
 <div class="flex-row justify-space responsive">
     {% for post in sorted-posts %}
