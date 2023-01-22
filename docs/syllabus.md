@@ -219,7 +219,7 @@ Mason Policies
 
 ### Honor Code
 
-Mason is an honor code university. Read the honor code here: [http://oai.gmu.edu/mason-honor-code/](http://oai.gmu.edu/mason-honor-code/)
+Mason is an honor code university. [Read the honor code.](http://oai.gmu.edu/mason-honor-code/)
 
 ### Title IX
 
