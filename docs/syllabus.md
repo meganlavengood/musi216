@@ -167,7 +167,7 @@ I have no attendance policy. However, studies show that attendance directly corr
 
 **Please do not come to class if you feel at all sick or have been exposed to someone with COVID.** Don’t hesitate to reach out to me to figure out the best way for you to keep up with class while you are gone, and/or send a message on Teams to connect with other students for a copy of their class notes.
 
-I am unable to offer virtual access to the class. If you want to keep up with coursework, you should do the readings and homework as indicated on the [course website](musi215.meganlavengood.com).
+I am unable to offer virtual access to the class. If you want to keep up with coursework, you should do the readings and homework as indicated on the [course website](../).
 
 Assignments
 -----------
@@ -179,7 +179,7 @@ I am very fussy about scanned documents. Whenever you are sending me a scan, ple
 ### Daily Homework (not for a grade)
 
 *   You will have homework daily. 
-*   Homework is assigned via the [course website](musi215.meganlavengood.com). 
+*   Homework is assigned via the [course website](../). 
 *   Homework is **not required and does not contribute to your grade.** Instead the homework is a way for you to check your understanding of a topic. 
 *   If you want feedback on your homework, you may turn it in for me to look over.
 *   You can email me homework if you won’t be in class (not projects, though—please always submit those on Blackboard).
