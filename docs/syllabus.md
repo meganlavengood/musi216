@@ -97,7 +97,7 @@ Instructor Information
 
 *   Available Tuesdays from 3:00–5:00 PM.
 *   No appointment is needed, but if you like, you can [schedule a time here](https://outlook.office365.com/owa/calendar/OfficeHours2@gmuedu.onmicrosoft.com/bookings/) so that I expect you.
-*   We can meet in person or [on Zoom](https://gmu.zoom.us/j/98156896249?pwd=dVFHSmF3Q0t0aEd2SWxjdW1QSUpvdz09​​​​​​​).
+*   We can meet in person or [meet on Zoom](https://gmu.zoom.us/j/98156896249?pwd=dVFHSmF3Q0t0aEd2SWxjdW1QSUpvdz09​​​​​​​).
 
 Course Information
 ------------------
@@ -135,7 +135,7 @@ If you have to miss class, you are welcome to attend the other class if that tim
    *  I recommend [ABBYY FineScanner](http://www.finescanner.com/en/), which has a free version suitable for our purposes. 
    *  I have also used [CamScanner](https://www.camscanner.com/). 
    *  Most phones have them built in natively, too.
-   *  Tutorials available [here](https://meganlavengood.com/how-to-scan/).
+   *  [Scanning Tutorials available here](https://meganlavengood.com/how-to-scan/).
 *   [Spotify](https://viva.pressbooks.pub/openmusictheory/front-matter/statement-on-spotify-usage/) is also useful for accessing worksheet playlists.
 
 Smartphones, tablets, and computers are welcome in the classroom since you need them to access the textbook.
@@ -174,7 +174,7 @@ Assignments
 
 ### Digital submission of assignments: how to scan
 
-I am very fussy about scanned documents. Whenever you are sending me a scan, please send it in **.pdf format, all combined into a single .pdf, in black-and-white** (not color or grayscale). I have tutorials on how to create scans [here](https://meganlavengood.com/how-to-scan/)—it’s simple and a good skill to learn. 
+I am very fussy about scanned documents. Whenever you are sending me a scan, please send it in **.pdf format, all combined into a single .pdf, in black-and-white** (not color or grayscale). I have [tutorials on how to create scans](https://meganlavengood.com/how-to-scan/)—it’s simple and a good skill to learn. 
 
 ### Daily Homework (not for a grade)
 
@@ -186,7 +186,7 @@ I am very fussy about scanned documents. Whenever you are sending me a scan, ple
 
 ### Composition projects
 
-*   **About the projects:** Four model compositions are used to demonstrate your understanding of pop and jazz theory. [Instructions can be found on the course website.](/compositions)
+*   **About the projects:** Four model compositions are used to demonstrate your understanding of pop and jazz theory. [View project instructions.](/compositions)
 *   **Prep work:** Projects have preparatory assignments that are designed to help you succeed in your graded submission. These assignments are especially important to complete, even though they are still not counted toward your final grade.
 *   **Submitting, revising, and earning a grade:** Each project will be graded and returned; next, you are given the option to revise or expand as directed and submit a second version. The two grades are averaged for your total grade. All revisions are given a “best by” date, one week after the original due date. If you wait longer than this to submit, that’s okay, but I might not grade it promptly.
 *   **Late work:** If you need to submit a project late, discuss this with me, ideally before the due date. Be aware that I may not be able to give feedback for revisions in a timely manner if you submit late, especially if we didn’t discuss in advance.
