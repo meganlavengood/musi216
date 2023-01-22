@@ -186,7 +186,7 @@ I am very fussy about scanned documents. Whenever you are sending me a scan, ple
 
 ### Composition projects
 
-*   **About the projects:** Four model compositions are used to demonstrate your understanding of pop and jazz theory. [Instructions can be found on the course website.](musi215.meganlavengood.com/compositions)
+*   **About the projects:** Four model compositions are used to demonstrate your understanding of pop and jazz theory. [Instructions can be found on the course website.](/compositions)
 *   **Prep work:** Projects have preparatory assignments that are designed to help you succeed in your graded submission. These assignments are especially important to complete, even though they are still not counted toward your final grade.
 *   **Submitting, revising, and earning a grade:** Each project will be graded and returned; next, you are given the option to revise or expand as directed and submit a second version. The two grades are averaged for your total grade. All revisions are given a “best by” date, one week after the original due date. If you wait longer than this to submit, that’s okay, but I might not grade it promptly.
 *   **Late work:** If you need to submit a project late, discuss this with me, ideally before the due date. Be aware that I may not be able to give feedback for revisions in a timely manner if you submit late, especially if we didn’t discuss in advance.
@@ -197,9 +197,9 @@ Course Overview
 
 ### Brief Calendar
 
-The following course outline is a general overview of how I anticipate the class will progress. For a detailed list of topics and assignments, see the [course website](musi215.meganlavengood.com).
+The following course outline is a general overview of how I anticipate the class will progress. For a detailed list of topics and assignments, see the [course website](../).
 
-| Weeks | Unit | [Composition Projects](musi215.meganlavengood.com/compositions) |
+| Weeks | Unit | [Composition Projects](/compositions) |
 | --- | --- | --- |
 | 1–7 | Jazz | Blues composition<br>Bebop composition|
 | 8 | Spring Break | | 
