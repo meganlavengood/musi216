@@ -28,4 +28,4 @@ order: 3
 ## Submitting and revising
 
 All compositions should be submitted on Blackboard as **PDFs**. You may also submit sound files.
-All compositions may be revised. See [Syllabus]({{ '/syllabus/#graded-projects' | relative_url}}) for more information.
+All compositions may be revised. See [Syllabus]({{ '/syllabus/#composition-projects' | relative_url}}) for more information.

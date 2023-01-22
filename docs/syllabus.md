@@ -22,7 +22,7 @@ order: 4
 - [Assignments](#assignments)
   - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
   - [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
-  - [Graded projects](#graded-projects)
+  - [Composition projects](#composition-projects)
 - [Course Overview](#course-overview)
   - [Brief Calendar](#brief-calendar)
   - [Important Dates](#important-dates)
@@ -184,7 +184,7 @@ I am very fussy about scanned documents. Whenever you are sending me a scan, ple
 *   If you want feedback on your homework, you may turn it in for me to look over.
 *   You can email me homework if you won’t be in class (not projects, though—please always submit those on Blackboard).
 
-### Graded projects
+### Composition projects
 
 *   **About the projects:** Four model compositions are used to demonstrate your understanding of pop and jazz theory. [Instructions can be found on the course website.](musi215.meganlavengood.com/compositions)
 *   **Prep work:** Projects have preparatory assignments that are designed to help you succeed in your graded submission. These assignments are especially important to complete, even though they are still not counted toward your final grade.
