@@ -22,7 +22,7 @@ order: 4
 - [Assignments](#assignments)
   - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
   - [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
-  - [Graded projects](#graded-projects)
+  - [Composition projects](#composition-projects)
 - [Course Overview](#course-overview)
   - [Brief Calendar](#brief-calendar)
   - [Important Dates](#important-dates)
@@ -97,7 +97,7 @@ Instructor Information
 
 *   Available Tuesdays from 3:00–5:00 PM.
 *   No appointment is needed, but if you like, you can [schedule a time here](https://outlook.office365.com/owa/calendar/OfficeHours2@gmuedu.onmicrosoft.com/bookings/) so that I expect you.
-*   We can meet in person or [on Zoom](https://gmu.zoom.us/j/98156896249?pwd=dVFHSmF3Q0t0aEd2SWxjdW1QSUpvdz09​​​​​​​).
+*   We can meet in person or [meet on Zoom](https://gmu.zoom.us/j/98156896249?pwd=dVFHSmF3Q0t0aEd2SWxjdW1QSUpvdz09​​​​​​​).
 
 Course Information
 ------------------
@@ -135,7 +135,7 @@ If you have to miss class, you are welcome to attend the other class if that tim
    *  I recommend [ABBYY FineScanner](http://www.finescanner.com/en/), which has a free version suitable for our purposes. 
    *  I have also used [CamScanner](https://www.camscanner.com/). 
    *  Most phones have them built in natively, too.
-   *  Tutorials available [here](https://meganlavengood.com/how-to-scan/).
+   *  [Scanning Tutorials available here](https://meganlavengood.com/how-to-scan/).
 *   [Spotify](https://viva.pressbooks.pub/openmusictheory/front-matter/statement-on-spotify-usage/) is also useful for accessing worksheet playlists.
 
 Smartphones, tablets, and computers are welcome in the classroom since you need them to access the textbook.
@@ -143,14 +143,19 @@ Smartphones, tablets, and computers are welcome in the classroom since you need 
 Grading
 -------
 
-Due to the ongoing pandemic, I have significantly pared back the required work for this semester. **Your grade in this course will be based solely on four composition projects.** Compositions get progressively more involved, so each is worth progressively more than the last. The first composition (blues) is worth 10 points; the second (bebop) is worth 20 points; the third (wedding arrangement) is worth 30 points; and the songwriting project is worth 40 points.
+**Your grade in this course will be based solely on four [composition projects](/compositions).** Compositions get progressively more involved, so each is worth progressively more than the last, as follows: 
+
+1. [Blues]({blues_url}): 10 points
+2. [Bebop]({bebop_url}): 20 points
+3. [Wedding arrangement]({wedding_url}: 30 points
+4. [Songwriting]{songwriting_url}: 40 points
 
 Letter grades are given as follows:
 
 | Percentage/Points | Letter Grade |
 | --- | --- |
 | 93–100% | A |
-| 90–92% | A- | 
+| 90–92% | A– | 
 | 87–89% | B+ | 
 | 83–86% | B |
 | 80–82% | B– |
@@ -167,26 +172,26 @@ I have no attendance policy. However, studies show that attendance directly corr
 
 **Please do not come to class if you feel at all sick or have been exposed to someone with COVID.** Don’t hesitate to reach out to me to figure out the best way for you to keep up with class while you are gone, and/or send a message on Teams to connect with other students for a copy of their class notes.
 
-I am unable to offer virtual access to the class. If you want to keep up with coursework, you should do the readings and homework as indicated on the [course website](musi215.meganlavengood.com).
+I am unable to offer virtual access to the class. If you want to keep up with coursework, you should do the readings and homework as indicated on the [course website](../).
 
 Assignments
 -----------
 
 ### Digital submission of assignments: how to scan
 
-I am very fussy about scanned documents. Whenever you are sending me a scan, please send it in **.pdf format, all combined into a single .pdf, in black-and-white** (not color or grayscale). I have tutorials on how to create scans [here](https://meganlavengood.com/how-to-scan/)—it’s simple and a good skill to learn. 
+I am very fussy about scanned documents. Whenever you are sending me a scan, please send it in **.pdf format, all combined into a single .pdf, in black-and-white** (not color or grayscale). I have [tutorials on how to create scans](https://meganlavengood.com/how-to-scan/)—it’s simple and a good skill to learn. 
 
 ### Daily Homework (not for a grade)
 
 *   You will have homework daily. 
-*   Homework is assigned via the [course website](musi215.meganlavengood.com). 
+*   Homework is assigned via the [course website](../). 
 *   Homework is **not required and does not contribute to your grade.** Instead the homework is a way for you to check your understanding of a topic. 
 *   If you want feedback on your homework, you may turn it in for me to look over.
 *   You can email me homework if you won’t be in class (not projects, though—please always submit those on Blackboard).
 
-### Graded projects
+### Composition projects
 
-*   **About the projects:** Four model compositions are used to demonstrate your understanding of pop and jazz theory. [Instructions can be found on the course website.](musi215.meganlavengood.com/compositions)
+*   **About the projects:** Four model compositions are used to demonstrate your understanding of pop and jazz theory. [View project instructions.](/compositions)
 *   **Prep work:** Projects have preparatory assignments that are designed to help you succeed in your graded submission. These assignments are especially important to complete, even though they are still not counted toward your final grade.
 *   **Submitting, revising, and earning a grade:** Each project will be graded and returned; next, you are given the option to revise or expand as directed and submit a second version. The two grades are averaged for your total grade. All revisions are given a “best by” date, one week after the original due date. If you wait longer than this to submit, that’s okay, but I might not grade it promptly.
 *   **Late work:** If you need to submit a project late, discuss this with me, ideally before the due date. Be aware that I may not be able to give feedback for revisions in a timely manner if you submit late, especially if we didn’t discuss in advance.
@@ -197,9 +202,9 @@ Course Overview
 
 ### Brief Calendar
 
-The following course outline is a general overview of how I anticipate the class will progress. For a detailed list of topics and assignments, see the [course website](musi215.meganlavengood.com).
+The following course outline is a general overview of how I anticipate the class will progress. For a detailed list of topics and assignments, see the [course website](../).
 
-| Weeks | Unit | [Composition Projects](musi215.meganlavengood.com/compositions) |
+| Weeks | Unit | [Composition Projects](/compositions) |
 | --- | --- | --- |
 | 1–7 | Jazz | Blues composition<br>Bebop composition|
 | 8 | Spring Break | | 
@@ -219,7 +224,7 @@ Mason Policies
 
 ### Honor Code
 
-Mason is an honor code university. Read the honor code here: [http://oai.gmu.edu/mason-honor-code/](http://oai.gmu.edu/mason-honor-code/)
+Mason is an honor code university. [Read the honor code.](http://oai.gmu.edu/mason-honor-code/)
 
 ### Title IX
 

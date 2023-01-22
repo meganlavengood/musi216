@@ -143,14 +143,19 @@ Smartphones, tablets, and computers are welcome in the classroom since you need 
 Grading
 -------
 
-Due to the ongoing pandemic, I have significantly pared back the required work for this semester. **Your grade in this course will be based solely on four composition projects.** Compositions get progressively more involved, so each is worth progressively more than the last. The first composition (blues) is worth 10 points; the second (bebop) is worth 20 points; the third (wedding arrangement) is worth 30 points; and the songwriting project is worth 40 points.
+**Your grade in this course will be based solely on four [composition projects](/compositions).** Compositions get progressively more involved, so each is worth progressively more than the last, as follows: 
+
+1. [Blues](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments): 10 points
+2. [Bebop](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments): 20 points
+3. [Wedding arrangement](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u: 30 points
+4. [Songwriting]https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7: 40 points
 
 Letter grades are given as follows:
 
 | Percentage/Points | Letter Grade |
 | --- | --- |
 | 93–100% | A |
-| 90–92% | A- | 
+| 90–92% | A– | 
 | 87–89% | B+ | 
 | 83–86% | B |
 | 80–82% | B– |
