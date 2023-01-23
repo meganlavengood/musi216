@@ -212,12 +212,13 @@ The following course outline is a general overview of how I anticipate the class
 
 ### Important Dates
 
-* Tue, Feb 7: [Blues composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
-* Thu, Mar 2: [Bebop composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
+* Thu, Feb 9: [Blues composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
+* Thu, Mar 9: [Bebop composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 * March 13–17: Spring break
-* Thu, Apr 6: [Wedding arrangement project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
-* Thu, Apr 27: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7)
+* Tue, Apr 11: [Wedding arrangement project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
 * May 4 (last class): Song performances
+* May 5–8<br/>Finals week: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7)
+* May 12: **Hard deadline** for submitting any coursework
 
 Mason Policies
 --------------

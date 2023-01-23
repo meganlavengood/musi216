@@ -55,17 +55,6 @@ def delete_sections(day):
 
 
 def build_compositions(data, composition_template):
-    # comp_keywords = parse_composition_keywords(composition_template)
-    # comp_dict = {}
-    # for row in data.iterrows():
-    #     row_dict = row[1].to_dict()
-    #     title = row_dict["a-title"].lower()
-    #     if "project" in title:
-    #         for kw in comp_keywords:
-    #             if kw in title:
-    #                 comp_keywords.remove(kw)
-    #                 comp_dict[f"{kw}_url"] = row_dict["a-url"]
-    #                 comp_dict[f"{kw}_date"] = row_dict["post-name"]
     comp_dict = get_composition_details(data, composition_template)
     compositions_footer = composition_template.split("\n")[-1]
     compositions = (
@@ -88,12 +77,12 @@ def get_composition_details(data, composition_template):
     comp_dict = {}
     for row in data.iterrows():
         row_dict = row[1].to_dict()
-        title = row_dict["a-title"].lower()
+        title = row_dict["d-title"].lower()
         if "project" in title:
             for kw in comp_keywords:
                 if kw in title:
                     comp_keywords.remove(kw)
-                    comp_dict[f"{kw}_url"] = row_dict["a-url"]
+                    comp_dict[f"{kw}_url"] = row_dict["d-url"]
                     comp_dict[f"{kw}_date"] = row_dict["post-name"]
     return comp_dict
 

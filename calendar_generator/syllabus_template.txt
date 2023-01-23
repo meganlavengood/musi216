@@ -216,8 +216,9 @@ The following course outline is a general overview of how I anticipate the class
 * {bebop_date}: [Bebop composition project due]({bebop_url})
 * March 13–17: Spring break
 * {wedding_date}: [Wedding arrangement project due]({wedding_url})
-* {songwriting_date}: [Songwriting project due]({songwriting_url})
 * May 4 (last class): Song performances
+* {songwriting_date}: [Songwriting project due]({songwriting_url})
+* May 12: **Hard deadline** for submitting any coursework
 
 Mason Policies
 --------------

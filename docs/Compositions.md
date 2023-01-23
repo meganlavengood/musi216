@@ -8,22 +8,22 @@ order: 3
 ## Blues
 
 * [Instructions](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
-* Due: Tue, Feb 7
+* Due: Thu, Feb 9
 
 ## Bebop
 
 * [Instructions](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
-* Due: Thu, Mar 2
+* Due: Thu, Mar 9
 
 ## Wedding arrangement
 
 * [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
-* Due: Thu, Apr 6
+* Due: Tue, Apr 11
 
 ## Songwriting
 
 * [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7)
-* Due: Thu, Apr 27
+* Due: May 5–8<br/>Finals week
 
 ## Submitting and revising
 
