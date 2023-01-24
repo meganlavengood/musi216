@@ -16,3 +16,6 @@ title:  "Thu, Jan 26"
 
 [Swing Rhythms video](https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/#assignments)
 
+## Notes
+
+Fill out the [getting-to-know-you form](https://forms.office.com/Pages/ResponsePage.aspx?id=VXKFnlffR0ygwAVGRgOAy-R6DEGoI95Pu0sh7qW5mvpUNFg5MVRBRTJPVUlQOVRRTEY3NENJMTZLSS4u) if you haven’t already!
