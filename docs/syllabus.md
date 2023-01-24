@@ -113,7 +113,7 @@ If you have to miss class, you are welcome to attend the other class if that tim
 
 ### Learning Objectives
 
-1.  Students will label and recognize musical elements using set theory terminology and other 20th-/21st-century compositional approaches.
+1.  Students will label and recognize common chord progressions and rhythmic techniques.
 2.  Students will articulate the impact of analytical interpretations on performance practice.
 3.  Students will demonstrate varied compositional techniques.
 4.  Students will differentiate composition techniques within and across pieces of music.

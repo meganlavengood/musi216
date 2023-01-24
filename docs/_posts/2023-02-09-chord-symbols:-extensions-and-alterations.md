@@ -16,3 +16,6 @@ title:  "Thu, Feb 9"
 
 [Chord symbols with extensions worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)
 
+## Notes
+
+Bring laptops to the next class.
