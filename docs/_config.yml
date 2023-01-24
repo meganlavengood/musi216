@@ -36,7 +36,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-toc
-  - jekyll-target-blank
 future: true
 
 # Jekyll-TOC

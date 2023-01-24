@@ -97,7 +97,7 @@ Instructor Information
 
 *   Available Tuesdays from 3:00–5:00 PM.
 *   No appointment is needed, but if you like, you can [schedule a time here](https://outlook.office365.com/owa/calendar/OfficeHours2@gmuedu.onmicrosoft.com/bookings/) so that I expect you.
-*   We can meet in person or [meet on Zoom](https://gmu.zoom.us/j/98156896249?pwd=dVFHSmF3Q0t0aEd2SWxjdW1QSUpvdz09​​​​​​​).
+*   We can meet in person or [meet on Zoom](https://gmu.zoom.us/j/98156896249?pwd=dVFHSmF3Q0t0aEd2SWxjdW1QSUpvdz09​).
 
 Course Information
 ------------------
