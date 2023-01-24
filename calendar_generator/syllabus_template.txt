@@ -147,8 +147,8 @@ Grading
 
 1. [Blues]({blues_url}): 10 points
 2. [Bebop]({bebop_url}): 20 points
-3. [Wedding arrangement]({wedding_url}: 30 points
-4. [Songwriting]{songwriting_url}: 40 points
+3. [Wedding arrangement]({wedding_url}): 30 points
+4. [Songwriting]({songwriting_url}): 40 points
 
 Letter grades are given as follows:
 
