@@ -235,6 +235,10 @@ a.button-fill:hover {
 	}
 }
 
+.post-nav.responsive {
+	flex-direction: column-reverse;
+}
+
 /* flex row */
 
 .flex-row {
