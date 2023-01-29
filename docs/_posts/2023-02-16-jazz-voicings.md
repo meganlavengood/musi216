@@ -16,3 +16,6 @@ title:  "Thu, Feb 16"
 
 [Jazz voicings worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-voicings/#assignments)
 
+## Notes
+
+[Upload your engraving exercise here](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/El8_7yByQapOseLlkEZkem4B9hVkmUNsOd337nwSq_nsuQ).

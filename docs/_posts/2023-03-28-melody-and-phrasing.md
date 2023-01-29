@@ -16,3 +16,6 @@ title:  "Tue, Mar 28"
 
 [Section structures](https://viva.pressbooks.pub/openmusictheory/chapter/melody-and-phrasing/#assignments)
 
+## Notes
+
+[Upload PNGs of your form charts here](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EqlnHFMXhktNs0Z7b5rKaHQBPIVdr78mDZmsfLI97pXXyQ).
