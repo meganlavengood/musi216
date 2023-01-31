@@ -6,7 +6,7 @@ title:  "Thu, Feb 2"
 
 ## Homework due
 
-[Blues worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
+[Blues worksheet (disregard chord extensions)](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
 
 ## Class topic
 

@@ -14,7 +14,7 @@ title:  "Tue, Jan 31"
 
 ## Homework assigned
 
-[Blues worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
+[Blues worksheet (disregard chord extensions)](https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/#assignments)
 
 ## Notes
 
