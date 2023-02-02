@@ -24,10 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Course website for MUSI 215. Spring 2023.
 # baseurl: "/musi215" # the subpath of your site, e.g. /blog
 url: "https://meganlavengood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon:
-- username: meganlavengood
-  instance: zirk.us
-instagram_username: lobsterandsmudge
 github_username:  meganlavengood
 
 # Build settings
