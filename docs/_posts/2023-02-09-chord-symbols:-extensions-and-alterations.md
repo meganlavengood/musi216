@@ -6,7 +6,9 @@ title:  "Thu, Feb 9"
 
 ## Homework due
 
-[Blues composition project](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
+[Blues composition project](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments).
+
+Submit on Blackboard.
 
 ## Class topic
 
