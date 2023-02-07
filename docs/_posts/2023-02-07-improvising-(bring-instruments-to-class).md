@@ -10,7 +10,7 @@ title:  "Tue, Feb 7"
 
 ## Class topic
 
-[Improvising (bring instruments to class)](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EWT6yji6PBBClpDdNgMIVGsBlTPuSW2naxBBWejpgU4WCQ?e=kxJlzQ)
+[Improvising (bring instruments to class)](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EdVuFJRMGMNEnfwrLHbIotsBqBQGxACmANLPsxNTMxEgzA?e=2RZ6ev)
 
 ## Homework assigned
 
