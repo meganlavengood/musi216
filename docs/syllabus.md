@@ -127,7 +127,7 @@ If you have to miss class, you are welcome to attend the other class if that tim
   * Internet access for [_Open Music Theory_](https://viva.pressbooks.pub/openmusictheory/), Blackboard, etc.
   * A three-ring binder for homework packets
   * Staff paper, pens, pencils, etc. 
-  * [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat). **Note that as of this writing (January 14), MuseScore 4 is still quite buggy. You may want to use [MuseScore 3](https://ftp.osuosl.org/pub/musescore/releases/MuseScore-3.2/) instead.
+  * [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat). **Note that as of this writing (January 14), MuseScore 4 is still quite buggy. You may want to use [MuseScore 3](https://musescore.org/en/3.6.2) instead.
 
 
 #### Recommended
