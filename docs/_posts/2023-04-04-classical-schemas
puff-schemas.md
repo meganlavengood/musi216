@@ -10,13 +10,12 @@ title:  "Tue, Apr 4"
 
 ## Class topic
 
-[Classical schemas
-Puff schemas](https://viva.pressbooks.pub/openmusictheory/chapter/classical-schemas/
-https://viva.pressbooks.pub/openmusictheory/chapter/puff-schemas/)
+[Classical schemas](https://viva.pressbooks.pub/openmusictheory/chapter/classical-schemas/)
+
+[Puff schemas](https://viva.pressbooks.pub/openmusictheory/chapter/puff-schemas/)
 
 ## Homework assigned
 
-[Classical schemas
-Puff Schemas](https://viva.pressbooks.pub/openmusictheory/chapter/classical-schemas#assignments
-https://viva.pressbooks.pub/openmusictheory/chapter/puff-schemas#assignments)
+[Classical schemas](https://viva.pressbooks.pub/openmusictheory/chapter/classical-schemas#assignments)
 
+[Puff Schemas](https://viva.pressbooks.pub/openmusictheory/chapter/puff-schemas#assignments)
