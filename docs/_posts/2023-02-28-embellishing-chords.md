@@ -6,7 +6,7 @@ title:  "Tue, Feb 28"
 
 ## Homework due
 
-[ii–V–I worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/ii-v-i/#assignments)
+[ii–V–I worksheet](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Eaf9LmXW8jVPuFoXfBrSN50Bv4dnOjl_hoWpm8XyB42c9g?e=zlAcoi)
 
 ## Class topic
 
