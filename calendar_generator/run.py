@@ -32,8 +32,21 @@ def build_posts(data):
         day = delete_sections(day)
 
         pathlib.Path(
-            f'{POST_OUTPUT_DIRECTORY}/{row_dict["date"]}-{row_dict["r-title"].replace(" ", "-").lower()}.md'
+            f'{POST_OUTPUT_DIRECTORY}/{row_dict["date"]}-{format_title(row_dict["r-title"])}.md'
         ).write_text(day)
+
+
+def format_title(title):
+    return (
+        title.rstrip()
+        .replace(" ", "-")
+        .replace("\r\n", "-")
+        .replace("\n", "-")
+        .replace("\r", "-")
+        .replace(",", "")
+        .replace("?", "")
+        .lower()
+    )
 
 
 def make_links(titles, urls):
