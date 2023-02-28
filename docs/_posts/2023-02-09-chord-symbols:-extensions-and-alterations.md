@@ -18,4 +18,5 @@ title:  "Thu, Feb 9"
 
 ## Notes
 
-Bring laptops to the next class
+Bring laptops to the next class.
+Submit 

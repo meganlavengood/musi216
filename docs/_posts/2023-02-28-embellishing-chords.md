@@ -18,4 +18,4 @@ title:  "Tue, Feb 28"
 
 ## Notes
 
-Of the components listed on the Bebop Composition instructions, complete **2, 3, 4a, 4b, and the B section of 5.** Bring this with you to our next class, where I will check it in-class.
+Of the components listed on the Bebop Composition instructions, complete **2, 3, 4a, and 4b.** Bring this with you to our next class, where I will check it in-class.

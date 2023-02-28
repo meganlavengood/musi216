@@ -14,6 +14,7 @@ order: 3
 
 * [Instructions](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 * Due: Thu, Mar 9
+* [Example tunes](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EWGPlGIcGJ5LincLGm0elcwBwgEaYqe-wGhiQQ82gZ6_aQ?e=ZXxIUt)
 
 ## Wedding arrangement
 
