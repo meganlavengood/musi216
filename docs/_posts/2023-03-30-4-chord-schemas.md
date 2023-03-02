@@ -6,7 +6,7 @@ title:  "Thu, Mar 30"
 
 ## Homework due
 
-[Section structures](https://viva.pressbooks.pub/openmusictheory/chapter/melody-and-phrasing/#assignments)
+[Listening to pop forms](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQ7q-ebuWKVCtHRMhwdqdiwBVkx3F3p-KUvtuG-v9dCVQQ?e=2Vbxuv)
 
 ## Class topic
 
