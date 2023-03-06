@@ -6,7 +6,7 @@ title:  "Thu, Mar 23"
 
 ## Homework due
 
-[Transcribing rhythms](https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/#assignments)
+[Variations on 4-chord schemas](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments)
 
 ## Class topic
 

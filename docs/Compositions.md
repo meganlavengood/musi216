@@ -19,7 +19,7 @@ order: 3
 ## Wedding arrangement
 
 * [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
-* Due: Tue, Apr 11
+* Due: Tue, Apr 4
 
 ## Songwriting
 
