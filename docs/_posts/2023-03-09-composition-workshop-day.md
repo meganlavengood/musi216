@@ -10,9 +10,12 @@ title:  "Thu, Mar 9"
 
 ## Class topic
 
-Composition workshop day
+[Meeting on Zoom](https://gmu.zoom.us/j/98253438734?pwd=aURQNmwvN05nVkpRNHMwOEp5TzlIUT09) to help everyone with their bebop compositions. No new lesson material. Please log on to share your composition and/or ask for advice.
 
 ## Homework assigned
 
 [Optional bebop composition revisions](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 
+## Zoom link 
+
+[https://gmu.zoom.us/j/98253438734?pwd=aURQNmwvN05nVkpRNHMwOEp5TzlIUT09](https://gmu.zoom.us/j/98253438734?pwd=aURQNmwvN05nVkpRNHMwOEp5TzlIUT09)
