@@ -18,4 +18,4 @@ title:  "Thu, Mar 9"
 
 ## Zoom link 
 
-[https://gmu.zoom.us/j/98253438734?pwd=aURQNmwvN05nVkpRNHMwOEp5TzlIUT09](https://gmu.zoom.us/j/98253438734?pwd=aURQNmwvN05nVkpRNHMwOEp5TzlIUT09)
+<sup>[https://gmu.zoom.us/j/98253438734?pwd=aURQNmwvN05nVkpRNHMwOEp5TzlIUT09](https://gmu.zoom.us/j/98253438734?pwd=aURQNmwvN05nVkpRNHMwOEp5TzlIUT09)</sup>
