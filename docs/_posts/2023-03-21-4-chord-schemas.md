@@ -14,5 +14,5 @@ title:  "Tue, Mar 21"
 
 ## Homework assigned
 
-[Variations on 4-chord schemas -OR- Four-chord schemas (no variations)](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments)—choose according to your comfort level!
+[Variations on 4-chord schemas -OR- Identifying Four-Chord Schemas](https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/#assignments)—choose according to your comfort level!
 
