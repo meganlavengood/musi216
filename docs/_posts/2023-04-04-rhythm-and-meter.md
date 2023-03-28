@@ -6,7 +6,7 @@ title:  "Tue, Apr 4"
 
 ## Homework due
 
-[Wedding arrangement project](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
+[AABA form and strophic form](https://viva.pressbooks.pub/openmusictheory/chapter/aaba-and-strophic-form/#assignments)
 
 ## Class topic
 
