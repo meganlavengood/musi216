@@ -11,6 +11,7 @@ title:  "Thu, Apr 6"
 ## Class topic
 
 [Classical schemas](https://viva.pressbooks.pub/openmusictheory/chapter/classical-schemas/)
+
 [Puff schemas](https://viva.pressbooks.pub/openmusictheory/chapter/puff-schemas/)
 
 ## Homework assigned
