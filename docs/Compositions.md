@@ -30,4 +30,7 @@ order: 3
 ## Submitting and revising
 
 All compositions should be submitted on Blackboard as **PDFs**. You may also submit sound files.
-All compositions may be revised. See [Syllabus](/syllabus/#graded-projects) for more information.
+
+Feedback is given on Blackboard via the rubric. [Watch a video on how to access this rubric feedback.](https://cdnapisec.kaltura.com/p/1601031/sp/160103100/playManifest/entryId/1_6pnarive/flavorIds/1_1635s0bw,1_ah8yeirv/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9tZWRpYS00Lm15bWFzb25wb3J0YWwuZ211LmVkdQ==&ks=djJ8MTYwMTAzMXyvN8k4UoJ_obiY1BVbKfiHQGwqurC4u5So0VdIUq5O1FjAdq_fVFKnvvwomh1X7z_HmNabHgvmog4mAZ9swNkP6T6f-tc4zkBgxSku2bxhjTB_i_xLnEe2iRttSN67QswwU5FbN0oTFpIAiYjDfziOTKAbgDIgS1KMH_j8N0Z6Pmsa263lWGGMLT_xpWPO1CsB2JEbUbQvT3kMEA6TV5-rUcoLzmrulCq8M1wwjS2SUf6XhtKwyMCZAts6nB5UrhkWrPp2OI30fz7rVW-iaapkMCUmUM5NlTyYcp-8iB9cKXgpy4kZahjJXM2kDd96ldDvgD0aKBa1Ajkm2ZKjgcbCvZugZVMecG4uflOEiNKGwiuF2PnlC-7Hh-aUFKb7_Uc9E9HGqaZYlNuLbYi2lLLvIi1fpC5jZav-H3dyyuQhgqY8g6NXpxDA5kmtg_Ga_nvFp8nKxZiDyfoE9oZl1hiO&playSessionId=c16e3d25-ad6e-869e-1f26-03c888c5ac9b&clientTag=html5:v2.99&playbackContext=230665593&uiConfId=46251571)
+
+All compositions may be revised to address the issues identified in the feedback. See [Syllabus](/syllabus/#graded-projects) for more information.
