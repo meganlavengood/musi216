@@ -24,7 +24,7 @@ order: 3
 
 ## Songwriting
 
-* [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7)
+* [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
 * Due: May 5–8<br/>Finals week
 
 ## Submitting and revising
