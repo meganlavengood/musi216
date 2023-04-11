@@ -1,12 +1,12 @@
 ---
 layout: post
-date:   2023-04-25 00:00:00 -0500
-title:  "Tue, Apr 25"
+date:   2023-04-20 00:00:00 -0500
+title:  "Thu, Apr 20"
 ---
 
 ## Homework due
 
-[Blues-based schemas](https://viva.pressbooks.pub/openmusictheory/chapter/blues-based-schemas/#assignments)
+[Modal reharmonization composition exercise](https://viva.pressbooks.pub/openmusictheory/chapter/modal-schemas/#assignments)
 
 ## Class topic
 
@@ -16,3 +16,6 @@ title:  "Tue, Apr 25"
 
 [Reharmonizing to avoid tonic](https://viva.pressbooks.pub/openmusictheory/chapter/fragile-absent-and-emergent-tonics#assignments)
 
+## Notes
+
+optional wedding arrangement revisions due

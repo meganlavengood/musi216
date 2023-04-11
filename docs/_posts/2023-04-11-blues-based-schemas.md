@@ -10,7 +10,7 @@ title:  "Tue, Apr 11"
 
 ## Class topic
 
-[Drumbeats](https://viva.pressbooks.pub/openmusictheory/chapter/drumbeats/)
+[Blues-based schemas](https://viva.pressbooks.pub/openmusictheory/chapter/blues-based-schemas/)
 
 ## Homework assigned
 

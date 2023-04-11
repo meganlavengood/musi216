@@ -6,7 +6,7 @@ title:  "Thu, Apr 27"
 
 ## Homework due
 
-[Reharmonizing to avoid tonic](https://viva.pressbooks.pub/openmusictheory/chapter/fragile-absent-and-emergent-tonics#assignments)
+[None—work on your compositions!](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
 
 ## Class topic
 
@@ -14,8 +14,5 @@ title:  "Thu, Apr 27"
 
 ## Homework assigned
 
-[Songwriting composition project](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7)
+[Songwriting composition project](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
 
-## Notes
-
-Work on your compositions!

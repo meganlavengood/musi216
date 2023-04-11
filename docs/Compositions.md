@@ -32,5 +32,4 @@ order: 3
 All compositions should be submitted on Blackboard as **PDFs**. You may also submit sound files.
 
 Feedback is given on Blackboard via the rubric. [Watch a video on how to access this rubric feedback.](https://gmuedu-my.sharepoint.com/:v:/g/personal/mlavengo_gmu_edu/EQThiI-cg1FPlNtTbaWl7NYBghj4hZeMUYlFZCWci1c7XA)
-
 All compositions may be revised to address the issues identified in the feedback. See [Syllabus](/syllabus/#graded-projects) for more information.

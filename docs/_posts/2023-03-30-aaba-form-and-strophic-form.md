@@ -14,5 +14,5 @@ title:  "Thu, Mar 30"
 
 ## Homework assigned
 
-[None—work on your compositions!](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
+[AABA Form and Strophic Form](https://viva.pressbooks.pub/openmusictheory/chapter/aaba-and-strophic-form/#assignments)
 

@@ -148,7 +148,7 @@ Grading
 1. [Blues](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments): 10 points
 2. [Bebop](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments): 20 points
 3. [Wedding arrangement](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u): 30 points
-4. [Songwriting](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7): 40 points
+4. [Songwriting](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD): 40 points
 
 Letter grades are given as follows:
 
@@ -215,9 +215,9 @@ The following course outline is a general overview of how I anticipate the class
 * Thu, Feb 9: [Blues composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
 * Thu, Mar 9: [Bebop composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 * March 13–17: Spring break
-* Tue, Apr 4: [Wedding arrangement project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
+* Thu, Apr 13: [Wedding arrangement project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
 * May 4 (last class): Song performances
-* May 5–8<br/>Finals week: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EQXt8bU-pYpMvEC77ZwlMkEBamETDLnvOG28Pq7VYXH_iA?e=eTgPC7)
+* May 5–8<br/>Finals week: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
 * May 12: **Hard deadline** for submitting any coursework
 
 Mason Policies

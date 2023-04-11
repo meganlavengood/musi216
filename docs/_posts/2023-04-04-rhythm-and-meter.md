@@ -6,7 +6,7 @@ title:  "Tue, Apr 4"
 
 ## Homework due
 
-[AABA form and strophic form](https://viva.pressbooks.pub/openmusictheory/chapter/aaba-and-strophic-form/#assignments)
+[AABA Form and Strophic Form](https://viva.pressbooks.pub/openmusictheory/chapter/aaba-and-strophic-form/#assignments)
 
 ## Class topic
 
