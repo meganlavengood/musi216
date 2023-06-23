@@ -9,7 +9,6 @@ order: 4
 ## Table of Contents
 
 - [Inclusivity in Learning](#inclusivity-in-learning)
-  - [Content warning](#content-warning)
   - [Community Agreements](#community-agreements)
 - [Instructor Information](#instructor-information)
   - [One-on-one appointments](#one-on-one-appointments)
@@ -28,6 +27,7 @@ order: 4
   - [Important Dates](#important-dates)
 - [Mason Policies](#mason-policies)
   - [Honor Code](#honor-code)
+  - [ChatGPT and other AI tools](#chatgpt-and-other-ai-tools)
   - [Title IX](#title-ix)
   - [Privacy](#privacy)
 
@@ -38,16 +38,6 @@ order: 4
 Your success in this class is important to me. We will all need accommodations because we all learn differently. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of the course.
 
 I encourage you to visit Disability Services to determine how you could improve your learning as well. If you need official accommodations, you have a right to have these met. If you have a documented learning disability or other condition that may affect academic performance you should: 1) make sure this documentation is on file with Disability Services (SUB I, Rm. 4205; 993-2474; [http://ds.gmu.edu](http://ds.gmu.edu/)) to determine the accommodations you need; and 2) talk with me to discuss your accommodation needs.
-
-### Content warning
-
-Popular music often involves themes that can be offensive and/or upsetting to various groups of people—violence, sexism, racism, explicit language, overt sexuality, transphobia, fatphobia, etc. I recommend you be prepared to encounter these subjects at any point in the course content, as it would be difficult for me to promise to warn you each time something arises.
-
-It can be instructive to feel uncomfortable in your learning to some degree, but at the same time, you can’t learn if you don’t feel safe.
-
-If you have a particular concern along these lines, please let me know so we can work together on how best to deal with this.
-
-Anyone should feel free to take a break from class at any point, and especially if you are feeling distressed to the point that you cannot learn.
 
 ### Community Agreements
 
@@ -91,43 +81,44 @@ Instructor Information
 **Name:** Dr. Lavengood (she/her), pronounced “LAY-ven-good”  
 **Email:** mlavengo@gmu.edu  
 **Office:** deLaski Performing Arts Building (PAB) A-421   
-**Communication:** I will answer emails within 24 hours. I am also happy to use Teams to chat with you in a channel or one-on-one.
+**Communication:** I will answer emails within 24 hours. I am also happy to use Teams to chat with you one-on-one.
 
 ### One-on-one appointments
 
-*   Available Tuesdays from 3:00–5:00 PM.
-*   No appointment is needed, but if you like, you can [schedule a time here](https://outlook.office365.com/owa/calendar/OfficeHours2@gmuedu.onmicrosoft.com/bookings/) so that I expect you.
-*   We can meet in person or [meet on Zoom](https://gmu.zoom.us/j/98156896249?pwd=dVFHSmF3Q0t0aEd2SWxjdW1QSUpvdz09​​​​​​​).
+* Drop-in hours are Tuesdays/Thursdays from 11:45–1 PM.
+* If you need a time outside of those hours, [schedule a time here](https://outlook.office.com/bookwithme/user/882671bfd88f4695a4db9c4a51e3b369@gmu.edu?anonymous&ep=plink). (You can also schedule a time during regular office hours.)
+* If you want to meet via Zoom/Teams, email me and let me know.
 
 Course Information
 ------------------
 
 ### Meetings
 
-There are two sections, both of which meet on Tuesdays/Thursdays in MTB 2018:
+There are two back-to-back sections, both of which meet on Tuesdays/Thursdays in MTB 2018:
 
 * 9:00–10:15 AM
-* 1:30–2:45 PM
+* 10:30–11:45 AM
 
-If you have to miss class, you are welcome to attend the other class if that time works better for you. (But please regularly attend the class you're reigstered for!)
+If you have to miss class, you are welcome to attend the other class if that time works better for you. (But please regularly attend the class you're registered for!)
 
 ### Learning Objectives
 
-1.  Students will label and recognize musical elements using set theory terminology and other 20th-/21st-century compositional approaches.
+1.  Students will label and recognize musical elements using set theory terminology, topic theory, leitmotivic analysis, and other 20th-/21st-century compositional approaches.
 2.  Students will articulate the impact of analytical interpretations on performance practice.
-3.  Students will demonstrate varied compositional techniques.
-4.  Students will differentiate composition techniques within and across pieces of music.
+3.  Students will compose music using specific music-theoretical concepts.
 
 ### Course Materials
 
-  **You won’t have to pay for any texts for this course!** Our textbook is [*Open Music Theory*](https://viva.pressbooks.pub/openmusictheory/), which is free.
+* **You won’t have to pay for any texts for this course!** 
+* Our textbook is [*Open Music Theory*](https://viva.pressbooks.pub/openmusictheory/), which is free. 
+* You will also need to reference some [extra "chapters" on music and media](/mm-lessons) outside the OMT book, which are on this website.
 
 #### Required 
   
   * Internet access for [_Open Music Theory_](https://viva.pressbooks.pub/openmusictheory/), Blackboard, etc.
   * A three-ring binder for homework packets
   * Staff paper, pens, pencils, etc. 
-  * * [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat). **Note that as of this writing (January 14), MuseScore 4 is still quite buggy. You may want to use [MuseScore 3](https://musescore.org/en/3.6.2) instead.
+  * [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat). I still find MuseScore 4 quite buggy, and I personally use [MuseScore 3](https://musescore.org/en/3.6.2) instead.
 
 
 #### Recommended
@@ -143,12 +134,11 @@ Smartphones, tablets, and computers are welcome in the classroom since you need 
 Grading
 -------
 
-**Your grade in this course will be based solely on four [composition projects](/compositions).** Compositions get progressively more involved, so each is worth progressively more than the last, as follows: 
+**Your grade in this course will be based solely on three [composition projects](/compositions) that correspond to the three main units in our course.** Compositions get progressively more involved, so each is worth progressively more than the last, as follows: 
 
-1. [Blues](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments): 10 points
-2. [Bebop](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments): 20 points
-3. [Wedding arrangement](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u): 30 points
-4. [Songwriting](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD): 40 points
+1. [Set Theory]({blues_url}): 20 points
+2. [Debussy-style]({bebop_url}): 30 points
+3. [Music and Media]({wedding_url}): 50 points
 
 Letter grades are given as follows:
 
@@ -191,7 +181,7 @@ I am very fussy about scanned documents. Whenever you are sending me a scan, ple
 
 ### Composition projects
 
-*   **About the projects:** Four model compositions are used to demonstrate your understanding of pop and jazz theory. [View project instructions.](/compositions)
+*   **About the projects:** Three model compositions are used to demonstrate your understanding of the theory concepts we learn in this class. [View project instructions.](/compositions)
 *   **Prep work:** Projects have preparatory assignments that are designed to help you succeed in your graded submission. These assignments are especially important to complete, even though they are still not counted toward your final grade.
 *   **Submitting, revising, and earning a grade:** Each project will be graded and returned; next, you are given the option to revise or expand as directed and submit a second version. The two grades are averaged for your total grade. All revisions are given a “best by” date, one week after the original due date. If you wait longer than this to submit, that’s okay, but I might not grade it promptly.
 *   **Late work:** If you need to submit a project late, discuss this with me, ideally before the due date. Be aware that I may not be able to give feedback for revisions in a timely manner if you submit late, especially if we didn’t discuss in advance.
@@ -206,19 +196,19 @@ The following course outline is a general overview of how I anticipate the class
 
 | Weeks | Unit | [Composition Projects](/compositions) |
 | --- | --- | --- |
-| 1–7 | Jazz | Blues composition<br>Bebop composition|
-| 8 | Spring Break | | 
-| 9–15 | Pop | Wedding arrangement<br>Final songwriting project|
+| 1–4 | Atonality | Set Theory composition project |
+| 5–9 | Triadic Post-Tonality | Debussy-style composition project | 
+| 10–15 | Music and Media | Music and Media project |
 
 ### Important Dates
 
-* Thu, Feb 9: [Blues composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
-* Thu, Mar 9: [Bebop composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
-* March 13–17: Spring break
-* Thu, Apr 13: [Wedding arrangement project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
-* May 4 (last class): Song performances
-* May 5–8<br/>Finals week: [Songwriting project due](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
-* May 12: **Hard deadline** for submitting any coursework
+* {sc_date}: [Set class composition project due]({sc_url})
+* Oct 10: No class (conversion day; Monday classes meet)
+* {debussy_date}: [Debussy-style composition project due]({bebop_url})
+* Nov 23: Thanksgiving
+* Nov 30 (last class): Song performances
+* {mm_date}: [Music and Media project due]({mm_url})
+* Dec 12: **Hard deadline** for submitting any coursework
 
 Mason Policies
 --------------
@@ -226,6 +216,14 @@ Mason Policies
 ### Honor Code
 
 Mason is an honor code university. [Read the honor code.](http://oai.gmu.edu/mason-honor-code/)
+
+### ChatGPT and other AI tools
+
+Please be thoughtful if you choose to use AI tools. I understand that AI tools can aid your learning—for example, checking your grammar and suggesting better phrasing—but it should not be replacing your learning.
+
+AI-produced text likely will not meet the standards of the course, because AI currently doesn’t have the capability to do effective music analysis. 
+
+If you use AI to generate text, you should indicate that clearly in your assignment submission; failure to do so constitutes a violation of academic integrity.
 
 ### Title IX
 
