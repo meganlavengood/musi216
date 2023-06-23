@@ -2,10 +2,13 @@
 
 :root {
 	--preset-box-shadow: 2px 2px 5px gray;
-	--accent: #ff42a1;
-	--accent-dark: #cc0066;
-	--footer-gray: #828282;
-	--main-bg: #f9f9f9;
+	--accent: #9EA300;
+	--accent-bright: #D9E000;
+	--accent-dark: #636600;
+	--footer-gray: #8e8a79;
+	--main-bg: #F9F7F1;
+	--text: #1b2021;
+	
 }
 
 body {
@@ -15,7 +18,7 @@ body {
 hr {
 border: 0;
 height: 0;
-border-bottom: 1px solid var(--accentr);
+border-bottom: 3px solid var(--accent);
 width: 50%;
 margin: 3em auto;
 }
@@ -26,20 +29,20 @@ margin: 3em auto;
 a.site-title,
 a.site-title:visited {
 	font-weight: 900;
-	color: black;
+	color: var(--text);
 }
 header a {
-	color: black;
-}
-footer a {
-	color: var(--footer-gray);
+	color: var(--text);
 }
 main a,
 main a:visited {
 	color: var(--accent-dark);
+	text-decoration: underline;
+	text-decoration-style: dotted;
 }
 main a:hover {
 	color: var(--accent);
+	text-decoration: none;
 }
 a:visited {
 	color: inherit;
@@ -69,11 +72,14 @@ code {
 .class-title a,
 .class-title a:hover,
 .class-title a:visited {
-	color: black;
+	color: var(--text);
+	text-decoration-color: var(--accent);
+	text-decoration-thickness: 2px;
 }
 .class-title a:hover,
 a.site-title:hover {
-	text-decoration-color: var(--accent);
+	text-decoration: none;
+	color: var(--accent);
 }
 
 li > ol {
@@ -89,6 +95,7 @@ li > ol {
 }
 .site-nav a:hover {
 	text-decoration-color: var(--accent);
+	text-decoration-style: dotted;
 }
 
 .header-wrapper {
@@ -99,6 +106,7 @@ li > ol {
 .header-wrapper .favicon {
 	margin-right: 0.5rem;
 }
+
 
 @media screen and (max-width: 600px) {
 	.header:nth-child(1) {
@@ -119,6 +127,7 @@ li > ol {
 /* 
 * 
 * Footer styling */
+
 .footer-col-wrapper {
 	margin-left: 0;
 }
@@ -139,23 +148,22 @@ li > ol {
 		width: 40%;
 	}
 } */
-footer a {
-	color: var(--footer-gray);
-}
+
 @media scren and (max-width: 767px) {
 	.footer-col-wrapper div.col {
 		text-align: center !important;
 	}
 }
 
-/* smooth scroll anchor links */
-html {
-	scroll-behavior: smooth;
+/* tables */
+table, table th, table td {
+	border-style: solid hidden;
 }
-@media screen and (prefers-reduced-motion: reduce) {
-	html {
-		scroll-behavior: auto;
-	}
+
+table th {
+	background-color: transparent;
+	border-top: hidden;
+	border-bottom: 2px solid var(--accent); 
 }
 
 /*
@@ -299,10 +307,23 @@ a.button-fill:hover {
 *
 * TOC */
 
-#table-of-contents + ol li a {
-	color: black;
+#table-of-contents + ul li a {
+	color: var(--text);
+	text-decoration: none;
 }
-#table-of-contents + ol li a:hover {
+#table-of-contents + ul li a:hover {
 	text-decoration: underline;
 	text-decoration-color: var(--accent);
+	text-decoration-style: dotted;
+}
+
+
+/* smooth scroll anchor links */
+html {
+	scroll-behavior: smooth;
+}
+@media screen and (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
 }
