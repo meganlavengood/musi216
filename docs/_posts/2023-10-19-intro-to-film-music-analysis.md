@@ -6,7 +6,7 @@ title:  "Thu, Oct 19"
 
 ## Homework due
 
-[Grouping Dissonance Composition Exercise](0)
+[Grouping Dissonance Composition Exercise](https://www.google.com)
 
 ## Class topic
 

@@ -14,5 +14,5 @@ title:  "Thu, Oct 5"
 
 ## Homework assigned
 
-[<DELETE>](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
+[https://www.google.com](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
 

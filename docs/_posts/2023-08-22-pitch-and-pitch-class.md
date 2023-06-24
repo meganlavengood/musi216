@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2023-08-22 00:00:00 -0500
-title:  "Wed, Aug 23"
+title:  "Tue, Aug 22"
 ---
 
 ## Homework due

@@ -6,7 +6,7 @@ title:  "Tue, Oct 10"
 
 ## Homework due
 
-[0](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
+[https://www.google.com](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
 
 ## Class topic
 

@@ -6,7 +6,7 @@ title:  "Tue, Oct 3"
 
 ## Homework due
 
-[Debussy Analysis](0)
+[Debussy Analysis](https://www.google.com)
 
 ## Class topic
 

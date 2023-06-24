@@ -14,7 +14,7 @@ Grouping dissonance and ostinati (in-class handout, lesson plan)
 
 ## Homework assigned
 
-Grouping Dissonance Composition Exercise
+[Grouping Dissonance Composition Exercise](https://www.google.com)
 
 ## Notes
 
