@@ -136,9 +136,18 @@ Grading
 
 **Your grade in this course will be based solely on three [composition projects](/compositions) that correspond to the three main units in our course.** Compositions get progressively more involved, so each is worth progressively more than the last, as follows: 
 
-1. [Set Theory]({blues_url}): 20 points
-2. [Debussy-style]({bebop_url}): 30 points
-3. [Music and Media]({wedding_url}): 50 points
+1. [Set theory]({set_url}): 20 points
+2. [Debussy-style]({debussy_url}): 30 points
+3. [Music and Media]({mm_url}): 50 points
+
+This is visualized in the pie chart below.
+
+```mermaid!
+pie title Grade calculation
+  "Set theory" : 20
+  "Debussy-style" : 30
+  "Music and Media" : 50
+```
 
 Letter grades are given as follows:
 
@@ -202,9 +211,9 @@ The following course outline is a general overview of how I anticipate the class
 
 ### Important Dates
 
-* {sc_date}: [Set class composition project due]({sc_url})
+* {set_date}: [Set class composition project due]({set_url})
 * Oct 10: No class (conversion day; Monday classes meet)
-* {debussy_date}: [Debussy-style composition project due]({bebop_url})
+* {debussy_date}: [Debussy-style composition project due]({debussy_url})
 * Nov 23: Thanksgiving
 * Nov 30 (last class): Song performances
 * {mm_date}: [Music and Media project due]({mm_url})
@@ -219,11 +228,13 @@ Mason is an honor code university. [Read the honor code.](http://oai.gmu.edu/mas
 
 ### ChatGPT and other AI tools
 
-Please be thoughtful if you choose to use AI tools. I understand that AI tools can aid your learning—for example, checking your grammar and suggesting better phrasing—but it should not be replacing your learning.
+Please be thoughtful if you choose to use AI tools. Basically, it's okay with me if you use AI to generate anything that isn't evaluated in a rubric (e.g., lyrics for a song, character development in the media project), as those things are outside the learning objectives of the course. 
 
-AI-produced text likely will not meet the standards of the course, because AI currently doesn’t have the capability to do effective music analysis. 
+But I **do not** want you to use AI in your analytical writing (beyond things like grammar checking). AI tools cannot perform music analysis and the results will not be satisfactory anyway. 
 
-If you use AI to generate text, you should indicate that clearly in your assignment submission; failure to do so constitutes a violation of academic integrity.
+If you are unsure whether a use of AI is okay, you can always ask me directly.
+
+If you use AI as part of your projects in any capacity, explain how you used it in your analysis. Failure to do so constitutes a violation of academic integrity.
 
 ### Title IX
 
