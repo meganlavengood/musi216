@@ -32,6 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-toc
+  - jekyll-spaceship
 future: true
 
 # Jekyll-TOC

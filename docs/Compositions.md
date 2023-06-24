@@ -5,32 +5,19 @@ permalink: /compositions/
 order: 3
 ---
 
-## Blues
+## Set Class
 
 * [Instructions](https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/#assignments)
 * Due: Thu, Feb 9
 
-## Bebop
+## Debussy
 
 * [Instructions](https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/#assignments)
 * Due: Thu, Mar 9
 * [Example tunes](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EWGPlGIcGJ5LincLGm0elcwBwgEaYqe-wGhiQQ82gZ6_aQ?e=ZXxIUt)
 
-## Wedding arrangement
+## Final project
 
 * [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ESezbpGaM1dKtrGedA-YX3cB0ebfepNG3qbbaLr_1sQhuA?e=ODFk9u)
 * Due: Thu, Apr 13
 * [Example arrangement](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EsFrMTwDQvBEiaArzjdEqykB22X3Y6bgnEAnJx4R0BnOaA?e=piwhFQ)
-
-## Songwriting
-
-* [Instructions](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/Ecu9DjxumaJHlsIwz8b-Pl4BVglynGzMpofEH-p44X7Zdg?e=yj2nXD)
-* [Analysis worksheet](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EUyFzC9kF9BJp363ZDFc_hUBNDUOwIM1_Du3GiLYw37yJQ?e=w1qwpA)
-* Due: May 5–8<br/>Finals week
-
-## Submitting and revising
-
-All compositions should be submitted on Blackboard as **PDFs**. You may also submit sound files.
-
-Feedback is given on Blackboard via the rubric. [Watch a video on how to access this rubric feedback.](https://gmuedu-my.sharepoint.com/:v:/g/personal/mlavengo_gmu_edu/EQThiI-cg1FPlNtTbaWl7NYBghj4hZeMUYlFZCWci1c7XA)
-All compositions may be revised to address the issues identified in the feedback. See [Syllabus](/syllabus/#graded-projects) for more information.
