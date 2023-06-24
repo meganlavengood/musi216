@@ -138,7 +138,7 @@ Grading
 
 1. [Set theory]({set_url}): 20 points
 2. [Debussy-style]({debussy_url}): 30 points
-3. [Music and Media]({mm_url}): 50 points
+3. [Music and Media]({final_url}): 50 points
 
 This is visualized in the pie chart below.
 
@@ -216,7 +216,7 @@ The following course outline is a general overview of how I anticipate the class
 * {debussy_date}: [Debussy-style composition project due]({debussy_url})
 * Nov 23: Thanksgiving
 * Nov 30 (last class): Song performances
-* {mm_date}: [Music and Media project due]({mm_url})
+* {final_date}: [Music and Media project due]({final_url})
 * Dec 12: **Hard deadline** for submitting any coursework
 
 Mason Policies

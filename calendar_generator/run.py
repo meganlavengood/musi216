@@ -104,7 +104,7 @@ def parse_composition_keywords(template):
     result = []
     for line in template.split("\n"):
         if line.startswith("##"):
-            kw = line.split(" ")[1].lower()
+            kw = line.split(" ")[1].split('-')[0].lower()
             if kw != "submitting":
                 result.append(kw)
     return result
