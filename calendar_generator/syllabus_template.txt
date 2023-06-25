@@ -140,15 +140,6 @@ Grading
 2. [Debussy-style]({debussy_url}): 30 points
 3. [Music and Media]({final_url}): 50 points
 
-This is visualized in the pie chart below.
-
-```mermaid!
-pie title Grade calculation
-  "Set theory" : 20
-  "Debussy-style" : 30
-  "Music and Media" : 50
-```
-
 Letter grades are given as follows:
 
 | Percentage/Points | Letter Grade |
