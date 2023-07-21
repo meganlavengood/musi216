@@ -317,6 +317,15 @@ a.button-fill:hover {
 	text-decoration-style: dotted;
 }
 
+/*
+*
+* Video embeds */
+
+iframe {
+	display: block;
+	margin: auto;
+}
+
 
 /* smooth scroll anchor links */
 html {
