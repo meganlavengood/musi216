@@ -6,11 +6,15 @@ title:  "Thu, Dec 7"
 
 ## Homework due
 
-[Final projects: optional revisions](0)
+[Final project](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 
 ## Class topic
 
 Final projects due
+
+## Homework assigned
+
+[(Optional) revisions for final projects](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 
 ## Notes
 
