@@ -5,6 +5,7 @@
 	--accent: #9EA300;
 	--accent-bright: #D9E000;
 	--accent-dark: #636600;
+	--accent-darker: #404200;
 	--footer-gray: #8e8a79;
 	--light-gray: rgb(142, 138, 121, .2);
 	--accent-textbox: rgba(204, 206, 148, 0.6);
@@ -326,6 +327,7 @@ a.button-fill:hover {
 .textbox--key-takeaways {
 	background-color: var(--accent-textbox);
 	margin: 2em 0;
+	border-left: 4px solid var(--accent-dark);
 }
 
 .textbox--key-takeaways .textbox__header {
@@ -336,6 +338,7 @@ a.button-fill:hover {
 
 .textbox--key-takeaways .textbox__title {
 	margin-bottom: 0;
+	color: var(--accent-darker);
 	text-transform: uppercase;
 	font-weight: 700;
 }
@@ -346,12 +349,13 @@ a.button-fill:hover {
 
 /*
 *
-* Video/iframe embeds */
+* Media styling */
 
-iframe {
+iframe, img {
 	display: block;
 	margin: auto;
 }
+
 
 /*
 *
@@ -375,7 +379,7 @@ figcaption i {
 ol {
 	display: block;
 	background-color: var(--light-gray);
-	padding: 2em 1em 2em 4em;
+	padding: 2em 2em 2em 4em;
 }
 
 ol li {

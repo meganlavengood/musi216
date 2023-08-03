@@ -6,7 +6,7 @@ toc: false
 order: 4
 ---
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
 - [Inclusivity in Learning](#inclusivity-in-learning)
   - [Community Agreements](#community-agreements)
@@ -85,9 +85,12 @@ Instructor Information
 
 ### One-on-one appointments
 
-* Drop-in hours are Tuesdays/Thursdays from 11:45–1 PM.
-* If you need a time outside of those hours, [schedule a time here](https://outlook.office.com/bookwithme/user/882671bfd88f4695a4db9c4a51e3b369@gmu.edu?anonymous&ep=plink). (You can also schedule a time during regular office hours.)
-* If you want to meet via Zoom/Teams, email me and let me know.
+* You may drop in without an appointment during my **office hours**:
+  * Tuesdays, 1:00–2:30
+  * Wednesdays, 1:30–2:30
+* If you like, [you can book time with me](https://meganlavengood.com/office-hours) to let me know that you'll be coming.
+* If you want to meet virtually instead of in-person, please [book in advance](https://meganlavengood.com/office-hours) so I know to be online.
+* If you are not available during my office hours, email me to schedule a special appointment time.
 
 Course Information
 ------------------

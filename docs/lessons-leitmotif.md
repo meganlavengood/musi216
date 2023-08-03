@@ -8,9 +8,8 @@ order: 3
 
 ![Princess Leia](/images/leia.jpg)
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
-- [Table of Contents](#table-of-contents)
 - [Example Analysis: *Lord of the Rings*](#example-analysis-lord-of-the-rings)
 	- [4̂ in *Lord of the Rings* themes](#4̂-in-lord-of-the-rings-themes)
 	- [Into the West](#into-the-west)

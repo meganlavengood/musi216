@@ -8,9 +8,8 @@ order: 1
 
 ![Screengrab from Jurassic Park kitchen velociraptor scene](/images/jurassic-header.jpg)
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
-- [Table of Contents](#table-of-contents)
 - [Diegetic and non-diegetic music](#diegetic-and-non-diegetic-music)
   - [Non-diegetic music](#non-diegetic-music)
   - [Diegetic Music](#diegetic-music)
