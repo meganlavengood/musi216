@@ -208,8 +208,8 @@ The following course outline is a general overview of how I anticipate the class
 * {set_date}: [Set class composition project due]({set_url})
 * Oct 10: No class (conversion day; Monday classes meet)
 * {debussy_date}: [Debussy-style composition project due]({debussy_url})
-* Nov 23: Thanksgiving
-* Nov 30 (last class): Song performances
+* Thu, Nov 23: Thanksgiving
+* Thu, Nov 30 (last class): Song performances
 * {final_date}: [Music and Media project due]({final_url})
 * Dec 12: **Hard deadline** for submitting any coursework
 
