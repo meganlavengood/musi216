@@ -208,9 +208,9 @@ The following course outline is a general overview of how I anticipate the class
 * Tue, Sep 12: [Set class composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/#assignments)
 * Oct 10: No class (conversion day; Monday classes meet)
 * Tue, Oct 10: [Debussy-style composition project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
-* Nov 23: Thanksgiving
-* Nov 30 (last class): Song performances
-* Tue, Nov 21: [Music and Media project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+* Thu, Nov 23: Thanksgiving
+* Thu, Nov 30 (last class): Song performances
+* Thu, Dec 7: [Music and Media project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 * Dec 12: **Hard deadline** for submitting any coursework
 
 Mason Policies

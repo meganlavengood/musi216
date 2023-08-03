@@ -19,7 +19,7 @@ order: 3
 ## Final project (Music and Media)
 
 * [Instructions](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
-* Due: Tue, Nov 21
+* Due: Thu, Dec 7
 * [Example arrangement](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EsFrMTwDQvBEiaArzjdEqykB22X3Y6bgnEAnJx4R0BnOaA?e=piwhFQ)
 
 ## Submitting and revising
