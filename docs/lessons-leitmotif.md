@@ -39,21 +39,21 @@ This analysis summarizes Bribitzer-Stull (2015), 294-299.
 
 **Example 1** below gives simple transcriptions of the melody and harmony of several prominent themes in the *Lord of the Rings* soundtrack which emphasize *fi* (♯4̂) in the melody. There are still other themes that also emphasize *fi* not included here—”Sorrow of the Elves” and “Dwarves of Yore.”
 
-![Notation](image.png)
+![Notation](/images/lotr-s4.png)
 
 <figcaption>**Example 1.** *Fi* in various themes from *Lord of the Rings*.</figcaption>
 
-![Ring audio](audio.mp3) ![Lothlórien audio](audio.mp3) ![Andúril audio](audio.mp3)
+![Ring audio](/audio/ring-theme.mp3) ![Lothlórien audio](/audio/lothlorien-theme.mp3) ![Andúril audio](/audio/anduril-theme.mp3)
 
 As we discussed in the [Topic Theory](/mm-lessons/topics) chapter, *fi* is often topically associated with magic. Indeed, each of the themes in **Example 1** are associated with something magical, and with a “more-than-human race” (296). The Ring of course is imbued with evil magic; Lothlórien is an enchanted forest (tied to the magic of another Ring of Power) and home of a clan of elves; Andúril is an enchanted and legendary sword wielded by the Númenórean hero Aragorn. These themes also all feature non-functional triadic harmony, favoring planing and chromatic mediants over tonic–dominant relationships.
 
-![Lothlórien](image.png)
+![Lothlórien](/images/lothlorien.png)
 
 Contrast this with [the “Shire” theme](https://www.youtube.com/watch?v=IlmiRndxkU8), which represents the hobbits. The hobbits are the main protagonists of *The Lord of the Rings*; we are meant to identify with them as regular folk (as opposed to the elves, dwarves, orcs, and even humans in the *Lord of the Rings* universe). The harmony is simple and functional; the melody is firmly major. Notably, it avoids *fa* (4̂) except as a brief upper neighbor embellishment.
 
 These themes saturate the first two films, and even most of the third, creating a sound world in which fa is reliably raised to fi in several themes signifying the supernatural, and the most down-to-earth theme—that of the Hobbits—avoids fa and fi alike.
 
-![The Shire](image.png)
+![The Shire](/images/shire.png)
 
 ### Into the West
 
@@ -65,7 +65,7 @@ The final leitmotif of the Lord of the Rings trilogy is “Into the West” (**E
 
 The leitmotif appears in full during the emotional scene when [Frodo sails into the West](https://youtu.be/qTstBMkeAH8?t=235), leaving behind the other Hobbits (most importantly, Sam, his closest companion) to journey to the Undying Lands, where the Elves live out their days after their time on Middle Earth.
 
-![Sailing into the West](image.png)
+![Sailing into the West](/images/the-west.png)
 
 This theme is foreshadowed only twice before its full statement at the very end of the film. During a battle, [the wizard Gandalf tells the Hobbit Pippin what happens after death](https://www.youtube.com/watch?v=r-odIIQORQ4); the leitmotif here signifies the heavenly afterlife that Gandalf describes. A fragment of the theme is heard again when [Sam carries Frodo on Mount Doom](https://www.youtube.com/watch?v=BKIgv8AhffA). Here, the narrative significance of the leitmotif is more ambiguous: perhaps it is foreshadowing their eventual parting.
 
