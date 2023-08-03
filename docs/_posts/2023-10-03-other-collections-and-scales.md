@@ -6,7 +6,7 @@ title:  "Tue, Oct 3"
 
 ## Homework due
 
-[Debussy Analysis](https://www.google.com)
+[Debussy composition prep](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
 
 ## Class topic
 
@@ -14,5 +14,5 @@ title:  "Tue, Oct 3"
 
 ## Homework assigned
 
-[Worksheet on collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
+[Collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
 

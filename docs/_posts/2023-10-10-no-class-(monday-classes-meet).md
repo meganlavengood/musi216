@@ -6,7 +6,7 @@ title:  "Tue, Oct 10"
 
 ## Homework due
 
-[https://www.google.com](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
+[Debussy Composition Project](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
 
 ## Class topic
 
@@ -14,5 +14,5 @@ No class (Monday classes meet)
 
 ## Homework assigned
 
-[Debussy Composition Project](https://www.google.com)
+[Debussy Composition Project](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
 

@@ -6,7 +6,7 @@ title:  "Tue, Dec 12"
 
 ## Homework due
 
-[Final projects: optional revisions](0)
+[<DELETE>](0)
 
 ## Class topic
 

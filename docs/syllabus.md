@@ -31,7 +31,6 @@ order: 4
   - [Title IX](#title-ix)
   - [Privacy](#privacy)
 
-
 ---
 
 ## Inclusivity in Learning
@@ -141,7 +140,7 @@ Grading
 **Your grade in this course will be based solely on three [composition projects](/compositions) that correspond to the three main units in our course.** Compositions get progressively more involved, so each is worth progressively more than the last, as follows: 
 
 1. [Set theory](https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/#assignments): 20 points
-2. [Debussy-style](https://www.google.com): 30 points
+2. [Debussy-style](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8): 30 points
 3. [Music and Media](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9): 50 points
 
 Letter grades are given as follows:
@@ -208,10 +207,10 @@ The following course outline is a general overview of how I anticipate the class
 
 * Tue, Sep 12: [Set class composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/#assignments)
 * Oct 10: No class (conversion day; Monday classes meet)
-* Thu, Oct 12: [Debussy-style composition project due](https://www.google.com)
+* Tue, Oct 10: [Debussy-style composition project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
 * Nov 23: Thanksgiving
 * Nov 30 (last class): Song performances
-* Thu, Nov 23: [Music and Media project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+* Tue, Nov 21: [Music and Media project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 * Dec 12: **Hard deadline** for submitting any coursework
 
 Mason Policies

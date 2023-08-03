@@ -1,7 +1,7 @@
 ---
 layout: post
-date:   2023-11-02 00:00:00 -0500
-title:  "Thu, Nov 2"
+date:   2023-10-31 00:00:00 -0500
+title:  "Tue, Oct 31"
 ---
 
 ## Homework due
@@ -10,12 +10,9 @@ title:  "Thu, Nov 2"
 
 ## Class topic
 
-Topic Theory and Leitmotif in Animal Crossing
+[Topic Theory and Leitmotif in Animal Crossing](http://www.smt-v.org/archives/volume9.html#variations-on-a-theme-by-k-k-slider-memory-and-play-in-animal-crossing-new-horizons)
 
 ## Homework assigned
 
 [AC:NH Museum Variations](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 
-## Notes
-
-Password for the video is mitchell

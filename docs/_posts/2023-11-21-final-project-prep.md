@@ -6,7 +6,7 @@ title:  "Tue, Nov 21"
 
 ## Homework due
 
-[Final Fantasy VI Leitmotif Analysis](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+[Final Project Prep worksheet](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 
 ## Class topic
 

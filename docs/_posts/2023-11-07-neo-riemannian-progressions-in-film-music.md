@@ -6,7 +6,7 @@ title:  "Tue, Nov 7"
 
 ## Homework due
 
-[AC:NH Museum Variations](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+[LOTR Theme Analysis](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 
 ## Class topic
 
@@ -18,4 +18,4 @@ title:  "Tue, Nov 7"
 
 ## Notes
 
-Async class. Go vote!
+Async class. Go vote! Also: watch Lord of the Rings! Video file is available in Teams :) and they are also streaming on HBO.

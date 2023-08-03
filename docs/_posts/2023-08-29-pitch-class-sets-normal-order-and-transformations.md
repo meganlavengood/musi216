@@ -10,7 +10,7 @@ title:  "Tue, Aug 29"
 
 ## Class topic
 
-Pitch Class Sets, Normal Order, and Transformations
+[Pitch Class Sets, Normal Order, and Transformations](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations/)
 
 ## Homework assigned
 

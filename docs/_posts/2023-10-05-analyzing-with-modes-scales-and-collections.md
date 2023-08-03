@@ -6,7 +6,7 @@ title:  "Thu, Oct 5"
 
 ## Homework due
 
-[Worksheet on collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
+[Collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
 
 ## Class topic
 
@@ -14,5 +14,5 @@ title:  "Thu, Oct 5"
 
 ## Homework assigned
 
-[https://www.google.com](https://viva.pressbooks.pub/openmusictheory/chapter/collections/#assignments)
+[Debussy Composition Project](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
 

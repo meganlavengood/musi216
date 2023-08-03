@@ -1,7 +1,7 @@
 ---
 layout: post
-date:   2023-10-31 00:00:00 -0500
-title:  "Tue, Oct 31"
+date:   2023-10-26 00:00:00 -0500
+title:  "Thu, Oct 26"
 ---
 
 ## Homework due
@@ -10,7 +10,7 @@ title:  "Tue, Oct 31"
 
 ## Class topic
 
-[Topic Theory in Video Game Music](https://musi216.meganlavengood.com/topic-theory/)
+[Topic Theory in Video Game Music](https://musi216.meganlavengood.com/mm-lessons/topics/)
 
 ## Homework assigned
 
