@@ -24,16 +24,25 @@ order: 1
 
 ----
 
-**Key Takeaways**
+<div class="textbox textbox--key-takeaways"><header class="textbox__header">
+<p class="textbox__title">Key Takeaways</p>
+</header>
+<div class="textbox__content">
 
-This chapter will cover the following terms/concepts:
+<p>This chapter will cover the following terms/concepts:</p>
 
-* Kinds of music within film:
-    * diegetic (happening in the film) vs. non-diegetic (only heard by the audience) music
-    * pre-existing vs. newly composed
-* functions of non-diegetic music
+<ul>
+<li>Kinds of music within film:
 
-----
+<ul>
+<li>diegetic (happening in the film) vs. non-diegetic (only heard by the audience) music</li>
+<li>pre-existing vs. newly composed</li>
+</ul></li>
+<li>functions of non-diegetic music</li>
+</ul>
+
+</div>
+</div>
 
 Before we can analyze film music, you will need to be equipped with some specialized terminology for analyzing these media (film + music) together. Becoming familiar with this vocabulary will help you to better articulate your arguments about film music.
 

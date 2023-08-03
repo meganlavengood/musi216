@@ -6,6 +6,8 @@
 	--accent-bright: #D9E000;
 	--accent-dark: #636600;
 	--footer-gray: #8e8a79;
+	--light-gray: rgb(142, 138, 121, .2);
+	--accent-textbox: rgba(204, 206, 148, 0.6);
 	--main-bg: #F9F7F1;
 	--text: #1b2021;
 	
@@ -319,13 +321,62 @@ a.button-fill:hover {
 
 /*
 *
-* Video embeds */
+* Key Takeaways */
+
+.textbox--key-takeaways {
+	background-color: var(--accent-textbox);
+	margin: 2em 0;
+}
+
+.textbox--key-takeaways .textbox__header {
+	background-color: var(--accent);
+	padding: 1em;
+	
+}
+
+.textbox--key-takeaways .textbox__title {
+	margin-bottom: 0;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.textbox--key-takeaways .textbox__content {
+	padding: 1em 2em;
+}
+
+/*
+*
+* Video/iframe embeds */
 
 iframe {
 	display: block;
 	margin: auto;
 }
 
+/*
+*
+* Caption styling */
+
+figcaption {
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 1em;
+}
+
+figcaption i {
+	font-style: normal;
+}
+
+
+/*
+*
+* ordered list styling */
+
+ol {
+	display: block;
+	background-color: var(--light-gray);
+	padding: 2em 1em 2em 4em;
+}
 
 /* smooth scroll anchor links */
 html {

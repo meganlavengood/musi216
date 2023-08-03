@@ -8,6 +8,17 @@ order: 3
 
 ![Princess Leia](/images/leia.jpg)
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Example Analysis: *Lord of the Rings*](#example-analysis-lord-of-the-rings)
+	- [4̂ in *Lord of the Rings* themes](#4̂-in-lord-of-the-rings-themes)
+	- [Into the West](#into-the-west)
+- [Unifying Music and Narrative](#unifying-music-and-narrative)
+- [Development of Leitmotifs](#development-of-leitmotifs)
+- [Bibliography](#bibliography)
+
+
 ----
 
 <div class="textbox textbox--key-takeaways"><header class="textbox__header">
@@ -15,35 +26,38 @@ order: 3
 </header>
 <div class="textbox__content">
 
-* This chapter is based on Bribitzer-Stull (2015).
-* A leitmotif is a theme that is associated with (often) a character in a piece of media that develops alongside the character’s own development.
-* Not every prominent theme is a leitmotif: the theme must be developed to be a true leitmotif.
-* Leitmotivic analysis must address both musical content and dramatic content.
+<ul>
+<li>This chapter is based on Bribitzer-Stull (2015).</li>
+<li>A leitmotif is a theme that is associated with (often) a character in a piece of media that develops alongside the character’s own development.</li>
+<li>Not every prominent theme is a leitmotif: the theme must be developed to be a true leitmotif.</li>
+<li>Leitmotivic analysis must address both musical content and dramatic content.</li>
+</ul>
+
 
 </div>
 </div>
-
----
 
 Leitmotifs, originally associated with Wagner, are defined by Bribitzer-Stull (2015) as a musical theme composed of musical and emotional elements that gets developed alongside the dramatic development within the film.
 
 Many media scores nowadays will assign important characters their own musical themes that recur each time the character is featured. This practice went in and out of fashion for a time, but resurged in the mid-1970s thanks to films like Star Wars, and has remained a popular approach to media scoring.
 
-## Example Analysis: Lord of the Rings
+## Example Analysis: *Lord of the Rings*
 
-Before defining in detail what a leitmotif is and how it is used in film, we will begin with a concrete example of a leitmotif in a well-known film trilogy: the “Into the West” leitmotif from Lord of the Rings.
+Before defining in detail what a leitmotif is and how it is used in film, we will begin with a concrete example of a leitmotif in a well-known film trilogy: the “Into the West” leitmotif from *Lord of the Rings*.
 
 This analysis summarizes Bribitzer-Stull (2015), 294-299.
 
-###4̂ in Lord of the Rings themes
+### 4̂ in *Lord of the Rings* themes
 
 **Example 1** below gives simple transcriptions of the melody and harmony of several prominent themes in the *Lord of the Rings* soundtrack which emphasize *fi* (♯4̂) in the melody. There are still other themes that also emphasize *fi* not included here—”Sorrow of the Elves” and “Dwarves of Yore.”
 
 ![Notation](/images/lotr-s4.png)
 
-<figcaption>**Example 1.** *Fi* in various themes from *Lord of the Rings*.</figcaption>
+<figcaption><b>Example 1.</b> <i>Fi</i> in various themes from <i>Lord of the Rings</i>.</figcaption>
 
-![Ring audio](/audio/ring-theme.mp3) ![Lothlórien audio](/audio/lothlorien-theme.mp3) ![Andúril audio](/audio/anduril-theme.mp3)
+* Ring: ![Ring audio](/audio/ring-theme.mp3) 
+* Lothlórien: ![Lothlórien audio](/audio/lothlorien-theme.mp3) 
+* Andúril: ![Andúril audio](/audio/anduril-theme.mp3)
 
 As we discussed in the [Topic Theory](/mm-lessons/topics) chapter, *fi* is often topically associated with magic. Indeed, each of the themes in **Example 1** are associated with something magical, and with a “more-than-human race” (296). The Ring of course is imbued with evil magic; Lothlórien is an enchanted forest (tied to the magic of another Ring of Power) and home of a clan of elves; Andúril is an enchanted and legendary sword wielded by the Númenórean hero Aragorn. These themes also all feature non-functional triadic harmony, favoring planing and chromatic mediants over tonic–dominant relationships.
 
@@ -51,17 +65,17 @@ As we discussed in the [Topic Theory](/mm-lessons/topics) chapter, *fi* is often
 
 Contrast this with [the “Shire” theme](https://www.youtube.com/watch?v=IlmiRndxkU8), which represents the hobbits. The hobbits are the main protagonists of *The Lord of the Rings*; we are meant to identify with them as regular folk (as opposed to the elves, dwarves, orcs, and even humans in the *Lord of the Rings* universe). The harmony is simple and functional; the melody is firmly major. Notably, it avoids *fa* (4̂) except as a brief upper neighbor embellishment.
 
-These themes saturate the first two films, and even most of the third, creating a sound world in which fa is reliably raised to fi in several themes signifying the supernatural, and the most down-to-earth theme—that of the Hobbits—avoids fa and fi alike.
+These themes saturate the first two films, and even most of the third, creating a sound world in which *fa* is reliably raised to *fi* in several themes signifying the supernatural, and the most down-to-earth theme—that of the Hobbits—avoids *fa* and *fi* alike.
 
 ![The Shire](/images/shire.png)
 
 ### Into the West
 
-The final leitmotif of the Lord of the Rings trilogy is “Into the West” (**Example 2**), introduced in the third film, *The Lord of the Rings: Return of the King* (2003). Note that this leitmotif repeatedly uses fa–mi as a melodic motive—”inverting the earlier ♯4̂–5̂ motive and filling in the ‘Shire’ theme’s missing 4̂” (298). Emotionally, this leitmotif signifies the end of the central good-versus-evil drama of the trilogy and a return to normalcy for the Hobbits (and everyone else).
+The final leitmotif of the *Lord of the Rings* trilogy is “Into the West” (**Example 2**), introduced in the third film, *The Lord of the Rings: Return of the King* (2003). Note that this leitmotif repeatedly uses fa–mi as a melodic motive—”inverting the earlier ♯4̂–5̂ motive and filling in the ‘Shire’ theme’s missing 4̂” (298). Emotionally, this leitmotif signifies the end of the central good-versus-evil drama of the trilogy and a return to normalcy for the Hobbits (and everyone else).
 
 <iframe loading="lazy" width="100%" height="394" src="https://musescore.com/user/32728834/scores/7085858/embed" frameborder="0" allowfullscreen="" allow="autoplay; fullscreen" style="max-width: 100%; max-height: 2403px;"></iframe>
 
-<figcaption>**Example 2.** "Into the West" emphasizes *fa*.</figcaption>
+<figcaption><b>Example 2.</b> "Into the West" emphasizes <i>fa</i>.</figcaption>
 
 The leitmotif appears in full during the emotional scene when [Frodo sails into the West](https://youtu.be/qTstBMkeAH8?t=235), leaving behind the other Hobbits (most importantly, Sam, his closest companion) to journey to the Undying Lands, where the Elves live out their days after their time on Middle Earth.
 
@@ -77,7 +91,7 @@ In terms of musical features, a leitmotif will be a recognizable theme or motive
 
 In terms of emotional features, a leitmotif will have a blend of emotions comparable to the blend of emotions that exist within a single character at any given time, as shown through dramatic, textual, and visual (that is, non-musical) contexts. The emotions of the film will develop throughout the narrative.
 
-When these two sets of features are blended together, it yields “musico-dramatic statements” and associations that “develop in tandem with musical and dramatic developments” Bribitzer-Stull, 2015 12).
+When these two sets of features are blended together, it yields “musico-dramatic statements” and associations that “develop in tandem with musical and dramatic developments” (Bribitzer-Stull, 2015 12).
 
 When defining the leitmotifs of a piece of media, it may be helpful to separate the musical and emotional features that are coming together to create the leitmotif by asking the following questions (**Example 3**):
 
@@ -85,7 +99,7 @@ When defining the leitmotifs of a piece of media, it may be helpful to separate 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | • What is the musical theme/motive?<br>• What are the tonal, formal, and textural contexts that define this theme/motive?<br>• How is this theme/motive musically developed through its iterations? | • What is the blend of emotions being projected in the film when the leitmotif is sounded? <br>• What are the dramatic, textual, and visual cues indicating these emotions?<br>• How do the emotions change through the fillm? |
 
-<figcaption>**Example 3.** Questions to ask when defining a leitmotif.</figcaption>
+<figcaption><b>Example 3.</b> Questions to ask when defining a leitmotif.</figcaption>
 
 ## Development of Leitmotifs
 
