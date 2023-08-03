@@ -378,6 +378,22 @@ ol {
 	padding: 2em 1em 2em 4em;
 }
 
+ol li {
+	margin-bottom: 1rem;
+}
+
+ol ol {
+	background-color: transparent;
+	padding: 0;
+	list-style-type: lower-alpha;
+	margin-top: 1rem;
+}
+
+ol ol li {
+	margin-bottom: 0;
+}
+
+
 /* smooth scroll anchor links */
 html {
 	scroll-behavior: smooth;
