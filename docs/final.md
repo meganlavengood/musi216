@@ -7,6 +7,25 @@ order: 1
 
 ## Table of contents <!-- omit in toc -->
 
+- [Option 1: Leitmotif Composition](#option-1-leitmotif-composition)
+  - [Composition](#composition)
+  - [Analysis and Self-Evaluation](#analysis-and-self-evaluation)
+  - [Submission (Dec 6–7)](#submission-dec-67)
+  - [Rubric](#rubric)
+  - [Example project](#example-project)
+- [Option 2: Film Score Composition](#option-2-film-score-composition)
+  - [Composition](#composition-1)
+  - [Analysis and Self-Evaluation](#analysis-and-self-evaluation-1)
+  - [Submission (Dec 6–7)](#submission-dec-67-1)
+  - [Rubric](#rubric-1)
+  - [Example project](#example-project-1)
+- [Late submissions](#late-submissions)
+- [Revisions (optional; due Dec 12)](#revisions-optional-due-dec-12)
+- [Collaboration (optional)](#collaboration-optional)
+- [Composition Format](#composition-format)
+- [Extra Credit](#extra-credit)
+
+
 For your final project, you can choose to either compose and develop a leitmotif or to compose a score for a film clip. These options are explained further below.
 
 * On Blackboard, go to Final Project Signup to indicate your choice.
