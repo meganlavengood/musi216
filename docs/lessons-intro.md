@@ -89,7 +89,7 @@ Note that pre-existing and newly composed film music can both function either as
 These different kinds of film scoring techniques lend themselves to different modes of analysis, which we will study in our course.
 
 * For pre-existing music like the examples from The Americans or Guardians of the Galaxy, one should consider the intertextual associations that the audience may make between the music in its original context versus how it is deployed within the film, and what the filmmaker is communicating with that choice of music.
-* For newly-composed music like the examples from Jurassic Park, Dreamgirls, and Parasite, we might consider a [topical analysis](/mm-lessons/topic-theory) or a [leitmotivic analysis](/mm-lessons/leitmotif) to specify what is being suggested about the narrative through the music.
+* For newly-composed music like the examples from Jurassic Park, Dreamgirls, and Parasite, we might consider a [topical analysis](/mm-lessons/topics) or a [leitmotivic analysis](/mm-lessons/leitmotif) to specify what is being suggested about the narrative through the music.
 
 ## Functions of non-diegetic film music
 
