@@ -10,7 +10,7 @@ title:  "Thu, Oct 26"
 
 ## Class topic
 
-[Topic Theory in Video Game Music](https://musi216.meganlavengood.com/mm-lessons/topics/)
+[Topic Theory in Video Game Music](/mm-lessons/topics)
 
 ## Homework assigned
 

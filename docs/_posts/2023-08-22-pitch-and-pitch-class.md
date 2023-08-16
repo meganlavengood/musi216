@@ -6,7 +6,7 @@ title:  "Tue, Aug 22"
 
 ## Homework due
 
-[Getting to Know You survey](Getting to Know You survey)
+[Getting to Know You survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VXKFnlffR0ygwAVGRgOAy-R6DEGoI95Pu0sh7qW5mvpURDk0UUE5SEtJNFJGWlk0OElGSFNINUNaSC4u)
 
 ## Class topic
 

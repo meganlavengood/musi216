@@ -10,7 +10,7 @@ title:  "Thu, Oct 19"
 
 ## Class topic
 
-[Topic Theory](https://musi216.meganlavengood.com/topic-theory/)
+[Topic Theory](/mm-lessons/topics)
 
 ## Homework assigned
 

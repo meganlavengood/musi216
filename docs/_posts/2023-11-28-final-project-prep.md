@@ -10,7 +10,7 @@ title:  "Tue, Nov 28"
 
 ## Class topic
 
-[Final project prep](https://musi216.meganlavengood.com/final-project/)
+[Final project prep](/compositions/final)
 
 ## Homework assigned
 

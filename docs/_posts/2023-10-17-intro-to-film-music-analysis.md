@@ -10,7 +10,7 @@ title:  "Tue, Oct 17"
 
 ## Class topic
 
-[Intro to Film Music Analysis](https://musi216.meganlavengood.com/mm-lessons/intro/)
+[Intro to Film Music Analysis](/mm-lessons/intro)
 
 ## Homework assigned
 

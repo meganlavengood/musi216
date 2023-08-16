@@ -10,7 +10,7 @@ title:  "Thu, Nov 2"
 
 ## Class topic
 
-[Leitmotif](https://musi216.meganlavengood.com/mm-lessons/leitmotif/)
+[Leitmotif](/mm-lessons/leitmotif)
 
 ## Homework assigned
 
