@@ -9,7 +9,7 @@ order: 4
 ## Table of Contents <!-- omit in toc -->
 
 - [Inclusivity in Learning](#inclusivity-in-learning)
-  - [Community Agreements](#community-agreements)
+  - [Community Values](#community-values)
 - [Instructor Information](#instructor-information)
   - [One-on-one appointments](#one-on-one-appointments)
 - [Course Information](#course-information)
@@ -39,7 +39,7 @@ Your success in this class is important to me. We will all need accommodations b
 
 I encourage you to visit Disability Services to determine how you could improve your learning as well. If you need official accommodations, you have a right to have these met. If you have a documented learning disability or other condition that may affect academic performance you should: 1) make sure this documentation is on file with Disability Services (SUB I, Rm. 4205; 993-2474; [http://ds.gmu.edu](http://ds.gmu.edu/)) to determine the accommodations you need; and 2) talk with me to discuss your accommodation needs.
 
-### Community Agreements
+### Community Values
 
 _[Adopted by Mason School of Music faculty on August 17, 2022](https://music.gmu.edu/about/diversity-equity-and-inclusion)_
 
@@ -106,9 +106,9 @@ If you have to miss class, you are welcome to attend the other class if that tim
 
 ### Learning Objectives
 
-1.  Students will label and recognize musical elements using set theory terminology, topic theory, leitmotivic analysis, and other 20th-/21st-century compositional approaches.
-2.  Students will articulate the impact of analytical interpretations on performance practice.
-3.  Students will compose music using specific music-theoretical concepts.
+* Students will label and recognize musical elements using set theory terminology, topic theory, leitmotivic analysis, and other 20th-/21st-century compositional approaches.
+* Students will articulate the impact of analytical interpretations on performance practice.
+* Students will compose music using specific music-theoretical concepts.
 
 ### Course Materials
 
@@ -201,7 +201,7 @@ The following course outline is a general overview of how I anticipate the class
 | --- | --- | --- |
 | 1–4 | Atonality | Set Theory composition project |
 | 5–9 | Triadic Post-Tonality | Debussy-style composition project | 
-| 10–15 | Music and Media | Music and Media project |
+| 10–15 | Music and Media | Final project |
 
 ### Important Dates
 
@@ -210,7 +210,7 @@ The following course outline is a general overview of how I anticipate the class
 * Tue, Oct 10: [Debussy-style composition project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
 * Thu, Nov 23: Thanksgiving
 * Thu, Nov 30 (last class): Song performances
-* Thu, Dec 7: [Music and Media project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+* Thu, Dec 7: [Final project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 * Dec 12: **Hard deadline** for submitting any coursework
 
 Mason Policies
