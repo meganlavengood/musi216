@@ -10,8 +10,8 @@ order: 1
 For your final project, you can choose to either compose and develop a leitmotif or to compose a score for a film clip. These options are explained further below.
 
 * On Blackboard, go to Final Project Signup to indicate your choice.
-* Projects are due anytime between Dec 6–8.
-* Optional revisions are due December 13.
+* Projects are due anytime between Dec 6–7.
+* Optional revisions are due Dec 12.
 
 ## Option 1: Leitmotif Composition
 
@@ -21,7 +21,7 @@ For your final project, compose a melodic leitmotif for a game/film character, a
 
 -   **Length:** Your leitmotif should be around 8 measures long.
 -   **Musical topic:** In the original leitmotif, clearly evoke at least one [musical topic](/mm-lessons/topics) that is appropriate to the character.
--   **Development:** Create two additional variations of your leitmotif that each use a different [leitmotivic development technique](/mm-lessons/leitmotif/#development-of-leitmotifs), choosing from numbers 1--5 only. The original melody should be recognizable in each development.
+-   **Development:** Create two additional variations of your leitmotif that each use a different [leitmotivic development technique](/mm-lessons/leitmotif/#development-of-leitmotifs), choosing from numbers 1–5 only. The original melody should be recognizable in each development.
 -   **Harmonic language:** In one of your leitmotif versions (original or developed), make use of one of the several compositional techniques we've discussed in our class:
     -   [pitch class sets](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations/)
     -   [Neo-Riemannian progressions](https://viva.pressbooks.pub/openmusictheory/chapter/neo-riemannian-triadic-progressions/)
@@ -47,9 +47,9 @@ Answer each of the following questions. Your responses will guide me in giving c
     -   [other collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/) (octatonic, hexatonic, whole tone, pentatonic, acoustic)
     -   [metrical dissonance](https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/)
 
-### Submission (Dec 6–8)
+### Submission (Dec 6–7)
 
-Upload your project on Blackboard **sometime between Dec 6–8.**
+Upload your project on Blackboard **sometime between Dec 6–7.**
 
 Your submission should have three files:
 
@@ -105,9 +105,9 @@ Answer each of the following questions. Your responses will guide me in giving c
     -   [other collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/) (octatonic, hexatonic, whole tone, pentatonic, acoustic)
     -   [metrical dissonance](https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/))
 
-### Submission (Dec 6–8)
+### Submission (Dec 6–7)
 
-Upload your project on Blackboard **sometime between Dec 6–8.**
+Upload your project on Blackboard **sometime between Dec 6–7.**
 
 Your submission should have three files:
 
@@ -139,11 +139,11 @@ Late submissions are okay and will not result in a reduced grade directly.
 
 Late submissions are ineligible for revisions, however.
 
-## Revisions (optional)
+## Revisions (optional; due Dec 12)
 
 Those who submit their final projects on time will receive quick feedback so they may make revisions. As with the other compositions all semester, revised grades are averaged together with your first attempt grade to yield your final grade for the project. This means you can earn back up to half the points you lost on your initial attempt.
 
-Revisions absolutely must be submitted by **December 13** at the very latest.
+Revisions absolutely must be submitted by **Dec 12** at the very latest.
 
 ## Collaboration (optional)
 

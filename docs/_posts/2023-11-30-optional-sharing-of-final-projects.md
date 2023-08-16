@@ -6,7 +6,7 @@ title:  "Thu, Nov 30"
 
 ## Homework due
 
-[none—work on projects](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+[none—work on projects](/compositions/final)
 
 ## Class topic
 
@@ -14,7 +14,7 @@ Optional sharing of final projects
 
 ## Homework assigned
 
-[Final project](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+[Final project](/compositions/final)
 
 ## Notes
 

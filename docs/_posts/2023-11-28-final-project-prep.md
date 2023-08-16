@@ -6,7 +6,7 @@ title:  "Tue, Nov 28"
 
 ## Homework due
 
-[none—work on projects](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+[none—work on projects](/compositions/final)
 
 ## Class topic
 
@@ -14,5 +14,5 @@ title:  "Tue, Nov 28"
 
 ## Homework assigned
 
-[Final project](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+[Final project](/compositions/final)
 

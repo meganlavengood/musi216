@@ -6,7 +6,7 @@ title:  "Thu, Dec 7"
 
 ## Homework due
 
-[Final project](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+[Final project](/compositions/final)
 
 ## Class topic
 
@@ -14,7 +14,7 @@ Final projects due
 
 ## Homework assigned
 
-[(Optional) revisions for final projects](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+[(Optional) revisions for final projects](/compositions/final)
 
 ## Notes
 

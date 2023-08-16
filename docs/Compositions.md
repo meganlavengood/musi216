@@ -17,7 +17,7 @@ order: 3
 
 ## Final project (Music and Media)
 
-* [Instructions](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+* [Instructions](/compositions/final)
 * Due: Thu, Dec 7
 
 ## Submitting and revising

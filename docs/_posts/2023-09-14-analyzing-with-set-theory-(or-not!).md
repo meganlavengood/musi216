@@ -14,7 +14,7 @@ title:  "Thu, Sep 14"
 
 ## Homework assigned
 
-[Open-ended set theory analysis](https://viva.pressbooks.pub/openmusictheory/chapter/analyzing-with-set-theory/#assignments)
+[Atonal analysis using pc sets](https://viva.pressbooks.pub/openmusictheory/chapter/analyzing-with-set-theory/#assignments)
 
 ## Notes
 

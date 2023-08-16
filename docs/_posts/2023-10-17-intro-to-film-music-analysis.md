@@ -16,6 +16,3 @@ title:  "Tue, Oct 17"
 
 [Film analysis intro](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 
-## Notes
-
-view "remaining" tab to find links
