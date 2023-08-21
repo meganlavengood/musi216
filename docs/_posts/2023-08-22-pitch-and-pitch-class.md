@@ -10,7 +10,7 @@ title:  "Tue, Aug 22"
 
 ## Class topic
 
-[Pitch and Pitch Class](https://viva.pressbooks.pub/openmusictheory/chapter/pitch-and-pitch-class/#assignments)
+[Pitch and Pitch Class](https://viva.pressbooks.pub/openmusictheory/chapter/pitch-and-pitch-class/)
 
 ## Homework assigned
 
