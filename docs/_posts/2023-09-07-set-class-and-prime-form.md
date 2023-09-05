@@ -6,7 +6,7 @@ title:  "Thu, Sep 7"
 
 ## Homework due
 
-[Interval class vectors](https://viva.pressbooks.pub/openmusictheory/chapter/interval-class-vectors/#assignments)
+[Guided analysis of Webern Op. 5 mvt. III](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EXVPEo49EqtHn9-Iv23zHu0B795jlyAsnV3MUHYHG6YVow?e=A1cXNC)
 
 ## Class topic
 
