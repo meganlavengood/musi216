@@ -16,3 +16,6 @@ title:  "Tue, Sep 12"
 
 [Interval class vectors](https://viva.pressbooks.pub/openmusictheory/chapter/interval-class-vectors/#assignments)
 
+## Notes
+
+Composition performances today!

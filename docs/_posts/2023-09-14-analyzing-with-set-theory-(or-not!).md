@@ -16,6 +16,3 @@ title:  "Thu, Sep 14"
 
 [Guided analysis of “Wie bin ich Froh!” by Anton Webern](https://viva.pressbooks.pub/openmusictheory/chapter/analyzing-with-set-theory/#assignments)
 
-## Notes
-
-Composition performances today!
