@@ -6,7 +6,7 @@ title:  "Thu, Oct 12"
 
 ## Homework due
 
-[Debussy Composition Project](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
+none (your project was due Tuesday)
 
 ## Class topic
 
