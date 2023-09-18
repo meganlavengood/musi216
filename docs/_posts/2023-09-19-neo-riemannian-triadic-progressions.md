@@ -6,7 +6,7 @@ title:  "Tue, Sep 19"
 
 ## Homework due
 
-[Guided analysis of “Wie bin ich Froh!” by Anton Webern](https://viva.pressbooks.pub/openmusictheory/chapter/analyzing-with-set-theory/#assignments)
+[Atonal analysis using pc sets](https://viva.pressbooks.pub/openmusictheory/chapter/analyzing-with-set-theory/#assignments)
 
 ## Class topic
 
