@@ -12,6 +12,7 @@ order: 4
   - [Community Values](#community-values)
 - [Instructor Information](#instructor-information)
   - [One-on-one appointments](#one-on-one-appointments)
+  - [Tutoring](#tutoring)
 - [Course Information](#course-information)
   - [Meetings](#meetings)
   - [Learning Objectives](#learning-objectives)
