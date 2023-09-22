@@ -92,6 +92,10 @@ Instructor Information
 * If you want to meet virtually instead of in-person, please [book in advance](https://meganlavengood.com/office-hours) so I know to be online.
 * If you are not available during my office hours, email me to schedule a special appointment time.
 
+### Tutoring
+
+If you need extra help, [download this semester's tutor information](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ETeNXHPppU5Amf8-NacWvLsBeYbwhi4SUqET2FEiHlYHiw) and reach out to one of the tutors I have designated for this course.
+
 Course Information
 ------------------
 
@@ -137,7 +141,7 @@ Smartphones, tablets, and computers are welcome in the classroom since you need 
 Grading
 -------
 
-**Your grade in this course will be based solely on three [composition projects](/compositions) that correspond to the three main units in our course.** Compositions get progressively more involved, so each is worth progressively more than the last, as follows: 
+**Your grade in this course will be based solely on three [composition projects](#composition-projects) that correspond to the three main units in our course.** Compositions get progressively more involved, so each is worth progressively more than the last, as follows: 
 
 1. [Set theory]({set_url}): 20 points
 2. [Debussy-style]({debussy_url}): 30 points
