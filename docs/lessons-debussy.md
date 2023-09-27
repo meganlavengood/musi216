@@ -22,4 +22,4 @@ order: 4
 * Because fourths and fifths are inversions of each other, quartal and quintal harmonies sound similar (just as harmonies built with thirds and sixths do).
 * Quartal/quintal harmony fits easily within diatonic and pentatonic collections, both of which are built with fifths.
 
-<iframe width="100%" height="394" src="https://musescore.com/user/32728834/scores/12374263/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
+<iframe width="100%" height="570" src="https://musescore.com/user/32728834/scores/12374263/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe>
