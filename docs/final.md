@@ -45,7 +45,7 @@ For your final project, compose a melodic leitmotif for a game/film character, a
     -   [pitch class sets](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations/)
     -   [Neo-Riemannian progressions](https://viva.pressbooks.pub/openmusictheory/chapter/neo-riemannian-triadic-progressions/)
     -   [diatonic modes](https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-modes/)
-    -   [Debussy-style planing](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EUrfdVG0rDRFpoeUptTTPXoB7JrRo65lBH9cA_xi5h82WQ?e=V1miVp)
+    -   [Debussy-style planing](/mm-lessons/debussy)
     -   [other collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/) (octatonic, hexatonic, whole tone, pentatonic, acoustic)
     -   [metrical dissonance](https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/)
 
@@ -62,7 +62,7 @@ Answer each of the following questions. Your responses will guide me in giving c
     -   [pitch class sets](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations/)
     -   [Neo-Riemannian progressions](https://viva.pressbooks.pub/openmusictheory/chapter/neo-riemannian-triadic-progressions/)
     -   [diatonic modes](https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-modes/)
-    -   [Debussy-style planing](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EUrfdVG0rDRFpoeUptTTPXoB7JrRo65lBH9cA_xi5h82WQ?e=V1miVp)
+    -   [Debussy-style planing](/mm-lessons/debussy)
     -   [other collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/) (octatonic, hexatonic, whole tone, pentatonic, acoustic)
     -   [metrical dissonance](https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/)
 
@@ -104,7 +104,7 @@ Your submission should have three files:
     -   [pitch class sets](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations/)
     -   [Neo-Riemannian progressions](https://viva.pressbooks.pub/openmusictheory/chapter/neo-riemannian-triadic-progressions/)
     -   [diatonic modes](https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-modes/)
-    -   [Debussy-style planing](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EUrfdVG0rDRFpoeUptTTPXoB7JrRo65lBH9cA_xi5h82WQ?e=V1miVp)
+    -   [Debussy-style planing](/mm-lessons/debussy)
     -   [other collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/) (octatonic, hexatonic, whole tone, pentatonic, acoustic)
     -   [metrical dissonance](https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/)
 
@@ -120,7 +120,7 @@ Answer each of the following questions. Your responses will guide me in giving c
     -   [pitch class sets](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations/)
     -   [Neo-Riemannian progressions](https://viva.pressbooks.pub/openmusictheory/chapter/neo-riemannian-triadic-progressions/)
     -   [diatonic modes](https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-modes/)
-    -   [Debussy-style planing](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/EUrfdVG0rDRFpoeUptTTPXoB7JrRo65lBH9cA_xi5h82WQ?e=V1miVp)
+    -   [Debussy-style planing](/mm-lessons/debussy)
     -   [other collections](https://viva.pressbooks.pub/openmusictheory/chapter/collections/) (octatonic, hexatonic, whole tone, pentatonic, acoustic)
     -   [metrical dissonance](https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/))
 
