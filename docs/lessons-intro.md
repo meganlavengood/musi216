@@ -64,6 +64,8 @@ As an example, consider this scene from *Jurassic Park* (1993). The characters i
 
 ![Closing scene from The Americans](https://youtu.be/PJlmYh27MHg)
 
+![](//https://youtu.be/PJlmYh27MHg)
+
 In [the closing scene from the finale of the TV series *The Americans*](https://www.youtube.com/watch?v=UcvZFfuEP7U) (2013–2018), “With or Without You” by U2 plays as we see the characters for the final time. The song is heard by the audience, but no one within the TV show is playing the song on a record player or radio.
 
 Non-diegetic music can be more subtle. Underscoring—”music at a low volume that serves as a sort of aural cushion for dialogue” (Levinson 2006, 145)—is another common manifestation of non-diegetic music, as in this Baroque-styled music composed for [a scene in Parasite](https://www.youtube.com/watch?v=egieAUXfc7Y) (2019). The focus here is on the dialogue, not the music underneath, and the music is not happening in the narrative.
