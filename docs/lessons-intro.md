@@ -60,11 +60,9 @@ Film music can be divided into two broad categories based on whether or not it e
 
 More colloquially, this might be referred to as the film’s soundtrack. A more specific definition is music whose source is not in the story (or diegesis) being conveyed by the film’s sequence of images (Levinson 2006, 143-144).
 
-As an example, consider this scene from *Jurassic Park* (1993). The characters in this scene aren’t actually hearing this music; there is no orchestra on the island. This music is non-diegetic.
+As an example, consider [this scene from *Jurassic Park* (1993)](https://youtu.be/PJlmYh27MHg). The characters in this scene aren’t actually hearing this music; there is no orchestra on the island. This music is non-diegetic.
 
-![Closing scene from The Americans](https://youtu.be/PJlmYh27MHg)
-
-![](//https://youtu.be/PJlmYh27MHg)
+[![Screengrab from Jurassic Park first dinosaur scene](/images/jurassic-park.png)](https://youtu.be/PJlmYh27MHg)
 
 In [the closing scene from the finale of the TV series *The Americans*](https://www.youtube.com/watch?v=UcvZFfuEP7U) (2013–2018), “With or Without You” by U2 plays as we see the characters for the final time. The song is heard by the audience, but no one within the TV show is playing the song on a record player or radio.
 
@@ -80,7 +78,7 @@ Diegetic music is especially common in musicals as in the song [“Love You I Do
 
 Some music may best be considered **quasi-diegetic**; for example, maybe the music transitions between categories, or maybe it is heard by the characters in the story but not in the same way that it’s being played in a story. For example, in [a scene from *Avatar: The Last Airbender*](https://www.youtube.com/watch?v=f56Cbjwwv-E) (2005–2008), a character sings a song within the narrative, but we also hear backing strings and a [pipa](https://en.wikipedia.org/wiki/Pipa) that do not seem to exist in the narrative world. This example blends diegetic and non-diegetic in a single instance.
 
-![Screengrab from Avatar Soldier Boy scene](/images/soldier-boy.png)
+[![Screengrab from Avatar Soldier Boy scene](/images/soldier-boy.png)](https://www.youtube.com/watch?v=f56Cbjwwv-E)
 
 ## Pre-existing and newly composed music
 
@@ -116,7 +114,7 @@ The following brief analyses of nondiegetic music show how these functions may b
 
 ### Jurassic Park
 
-![Screengrab from Jurassic Park scene linked earlier](/images/jurassic-park.png)
+[![Screengrab from Jurassic Park scene linked earlier](/images/jurassic-park.png)](https://youtu.be/PJlmYh27MHg)
 
 This newly composed score performs several functions during the scene when the characters first encounter a dinosaur. It both underlines the characters’ feelings of awe and wonder (function #2), and suggests the viewer should feel the same way (function #7). Along these same lines, it projects a general mood of wonderment onto the scene (function #5).
 
@@ -124,7 +122,7 @@ The effect of wonderment is created through the use of a massive ensemble of orc
 
 ### Parasite
 
-![Screengrab from Parasite showing lower-class family rehearsing](/images/parasite.png)
+[![Screengrab from Parasite showing lower-class family rehearsing](/images/parasite.png)](https://www.youtube.com/watch?v=egieAUXfc7Y)
 
 The score in the peach-fuzz montage clearly evokes a Vivaldi-esque Baroque orchestral style (though it is actually newly composed specifically for this scene). Due to the rapid rhythms and polyphonic style, the music suggests that the composer put in difficult work to create an intricate piece of music with many moving parts working together to create a pleasing sound.
 
@@ -134,7 +132,7 @@ Another more practical function of the score is to bring unity to the montage (f
 
 ### The Americans
 
-![Screengrab from The Americans showing daughter standing on train platform](/images/americans.png)
+[![Screengrab from The Americans showing daughter standing on train platform](/images/americans.png)](https://www.youtube.com/watch?v=phLY3eLefDs)
 
 In the finale of the final season of this TV show, the main characters, who are [sleeper agents](https://en.wikipedia.org/wiki/Sleeper_agent) for the USSR, have run out their luck and need to evade arrest and flee to the USSR after living undercover in the US for decades. We see the family in disguises on a train to the airport, seated separately rather than as a family. They offer identification to police (the viewers, like the characters, are unsure whether the police are specifically looking for them). After the identification is accepted, the officers move on and the train begins moving again. The mother is idly looking out the window when she suddenly sees the daughter standing on the train platform, leaving her family to stay behind in the US by herself. The father sees her too, then promptly rises and quickly walks to sit next to the mother as a sense of shared grief overtakes the need to be discreet and avoid detection as a group.
 

@@ -61,10 +61,11 @@ Many of these features are based on the characteristics of historical field sign
 
 <figcaption><b>Example 1.</b> A selection of field signals to be performed on the trumpet (Monelle 2006, figure 9.3).</figcaption>
 
-The military topic is reliably found in victory music, such as the *Final Fantasy* series’s victory fanfare (**Example 2**). Listen for the prominent trumpets and snare drum, triplet rhythms, quadruple meter, and moderate tempo, clearly signifying the military topic.
+The military topic is reliably found in victory music. *Chrono Trigger* (1994) has three separate victory fanfares that players hear after winning a battle. Listen for the commonalities between them all: prominent trumpets and snare drum, triplet rhythms, quadruple meter, and moderate tempo. These features are clearly signifying the military topic.
 
-![Final Fantasy 6 Victory Fanfare](https://soundcloud.com/starheaven07/final-fantasy-6-victory)
-<figcaption><b>Example 2.</b> The <i>Final Fantasy</i> victory fanfare is an example of the military topic.</figcaption>
+* [Fanfare 1](https://fi.zophar.net/soundfiles/nintendo-snes-spc/chrono-trigger/120%20Fanfare%201.mp3)
+* [Fanfare 2](https://fi.zophar.net/soundfiles/nintendo-snes-spc/chrono-trigger/212%20Fanfare%202.mp3)
+* [Fanfare 3](https://fi.zophar.net/soundfiles/nintendo-snes-spc/chrono-trigger/215%20Fanfare%203.mp3)
 
 ## Summary of semiotics
 
@@ -83,7 +84,7 @@ Music can likewise signify in varying degrees of abstract or literal representat
 
 ## Topics in Film and Video Game Music
 
-Following is a list of many common topics found in film and video game music (**Example 3**). This list is by no means exhaustive! You can probably think of more topics yourself.
+Following is a list of many common topics found in film and video game music (**Example 2**). This list is by no means exhaustive! You can probably think of more topics yourself.
 
 | topic | musical features | example |
 | --- | --- | --- |
@@ -95,7 +96,7 @@ Following is a list of many common topics found in film and video game music (**
 | Wonder | Triadic but highly chromatic harmony, frequent modulations, unstable sense of tonic, major chords, lydian ♯4 | [*Wall-E*, The "Axiom"](https://youtu.be/sdk0FZ982_I?t=157) (2008) |
 | Mystic/Magic/Gothic | celeste, female vocals, recorder, minor mode, chromaticism | [Main theme from ](https://www.youtube.com/watch?v=m-h5i5IvGyE)*[Edward Scissorhands](https://www.youtube.com/watch?v=m-h5i5IvGyE)* (1990) |
 
-<figcaption><b>Example 3.</b> Some musical topics that appear frequently in film and video game music  (Atkinson 2019; Monelle 2006; Lehman 2018; van Elferen 2013; [TVTropes.org](https://tvtropes.org)).</figcaption>
+<figcaption><b>Example 2.</b> Some musical topics that appear frequently in film and video game music  (Atkinson 2019; Monelle 2006; Lehman 2018; van Elferen 2013; [TVTropes.org](https://tvtropes.org)).</figcaption>
 
 Again, there are far more possible topics to discuss; an exhaustive list would be impractically large. The website [TV Tropes has a list of musical tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/ScoreAndMusicTropes) that in many cases can also function as musical topics, if you would like to get a sense of the breadth of these phenomena.
 
@@ -103,11 +104,11 @@ Again, there are far more possible topics to discuss; an exhaustive list would b
 
 Topic analysis of film music often relies on genres of music, but not all genres of film or video game music seem to be equally suggestive of musical topics. The norm for film music is a Western classical (small-‘c’) tonal idiom, so if we hear bowed strings playing tonal music, like [this theme from Pig (2021)](https://www.youtube.com/watch?v=aG2CWzoZ2bE), we may not make any particular topical associations.
 
-Other ensembles or other music traditions besides tonal orchestral music can readily suggest a specific musical topic. While using another musical culture can be useful for evoking a setting or a character, using music from a marginalized culture as a musical topic can feel tokenizing if not done carefully. For example, using the double-harmonic minor scale to signify Middle-Easternness or Jewishness (**Example 4a**), using the “oriental riff” to signify Asianness (**Example 4b**), or using generic drumming to signify Africanness the flattens the nuances of the music cultures from that region. These musical topics often have their roots not in the authentic music of those regions, but in 19th- or early-20th-century Western entertainment like vaudeville and minstrel shows. While a modern composer may know better than to use the “oriental riff,” similar problems can arise when composing using DAWs, virtual instruments, and sample packs marketed as representing various countries.
+Other ensembles or other music traditions besides tonal orchestral music can readily suggest a specific musical topic. While using another musical culture can be useful for evoking a setting or a character, using music from a marginalized culture as a musical topic can feel tokenizing if not done carefully. For example, using the double-harmonic minor scale to signify Middle-Easternness or Jewishness (**Example 3a**), using the “oriental riff” to signify Asianness (**Example 3b**), or using generic drumming to signify Africanness the flattens the nuances of the music cultures from that region. These musical topics often have their roots not in the authentic music of those regions, but in 19th- or early-20th-century Western entertainment like vaudeville and minstrel shows. While a modern composer may know better than to use the “oriental riff,” similar problems can arise when composing using DAWs, virtual instruments, and sample packs marketed as representing various countries.
 
 ![Notation](/images/problematic-topics.png){: width="300" }
 
-<figcaption><b>Example 4.</b> Some topics used to signify other cultures are inauthentic and tokenizing.</figcaption>
+<figcaption><b>Example 3.</b> Some topics used to signify other cultures are inauthentic and tokenizing.</figcaption>
 
 As composers, music analysts, performers, and even consumers of media, it is important to be aware of these issues and how they shape our perceptions of unfamiliar cultures. Many scholars have critiqued topic theory for contributing to essentialism and colonialism. When using topic theory to analyze a soundtrack, keep these issues in mind and be sensitive to them.
 
