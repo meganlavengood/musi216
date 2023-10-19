@@ -10,9 +10,16 @@ title:  "Tue, Oct 24"
 
 ## Class topic
 
-[Topic Theory: Copland Americana](http://www.smt-v.org/archives/volume8.html#appropriating-coplands-fanfare)
+9am: [Topic Theory: Copland Americana](http://www.smt-v.org/archives/volume8.html#appropriating-coplands-fanfare)
+
+10:30am: [Topic Theory](/mm-lessons/topics)
+
+(There weren't enough students logged on for 10:30 so I cancelled last Thursday's Zoom class.)
 
 ## Homework assigned
 
-[The Fanfare Topic](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+9am: [The Fanfare Topic](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+
+10:30am: [Film topics](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
+
 
