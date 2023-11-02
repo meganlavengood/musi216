@@ -16,3 +16,6 @@ title:  "Thu, Nov 2"
 
 [LOTR Theme Analysis](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)
 
+## Notes
+
+[Star Wars thematic catalogue!](https://franklehman.com/starwars/)
