@@ -18,4 +18,4 @@ title:  "Thu, Nov 2"
 
 ## Notes
 
-[Star Wars thematic catalogue!](https://franklehman.com/starwars/)
+[Star Wars leitmotif catalogue](https://franklehman.com/starwars/)

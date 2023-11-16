@@ -54,9 +54,9 @@ This analysis summarizes Bribitzer-Stull (2015), 294-299.
 
 <figcaption><b>Example 1.</b> <i>Fi</i> in various themes from <i>Lord of the Rings</i>.</figcaption>
 
-* Ring: ![Ring audio](/audio/ring-theme.mp3) 
-* Lothlórien: ![Lothlórien audio](/audio/lothlorien-theme.mp3) 
-* Andúril: ![Andúril audio](/audio/anduril-theme.mp3)
+* [Ring audio](audio/ring-theme.mp3) 
+* [Lothlórien audio](audio/lothlorien-theme.mp3) 
+* [Andúril audio](audio/anduril-theme.mp3)
 
 As we discussed in the [Topic Theory](/mm-lessons/topics) chapter, *fi* is often topically associated with magic. Indeed, each of the themes in **Example 1** are associated with something magical, and with a “more-than-human race” (296). The Ring of course is imbued with evil magic; Lothlórien is an enchanted forest (tied to the magic of another Ring of Power) and home of a clan of elves; Andúril is an enchanted and legendary sword wielded by the Númenórean hero Aragorn. These themes also all feature non-functional triadic harmony, favoring planing and chromatic mediants over tonic–dominant relationships.
 
