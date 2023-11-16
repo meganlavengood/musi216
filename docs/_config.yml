@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Theory for 20th/21st-c. Music
+author: Megan Lavengood
 email: mlavengo@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Course website for MUSI 216. Fall 2023.
