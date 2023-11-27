@@ -18,4 +18,4 @@ Final projects due
 
 ## Notes
 
-Projects may be submitted anytime Dec 6–8
+Projects may be submitted anytime Dec 6–7
