@@ -1,21 +1,78 @@
 /* global styles */
 
 :root {
+	/* Canvas variables */
+    --ic-brand-primary-darkened-5: #156131;
+    --ic-brand-primary-darkened-10: #145C2E;
+    --ic-brand-primary-darkened-15: #13572C;
+    --ic-brand-primary-lightened-5: #216D3D;
+    --ic-brand-primary-lightened-10: #2D7547;
+    --ic-brand-primary-lightened-15: #387C51;
+    --ic-brand-button--primary-bgd-darkened-5: #156131;
+    --ic-brand-button--primary-bgd-darkened-15: #13572C;
+    --ic-brand-button--secondary-bgd-darkened-5: #F3B511;
+    --ic-brand-button--secondary-bgd-darkened-15: #D9A20F;
+    --ic-brand-font-color-dark-lightened-15: #4C5860;
+    --ic-brand-font-color-dark-lightened-28: #677179;
+    --ic-link-color-darkened-10: #000000;
+    --ic-link-color-lightened-10: #191919;
+    --ic-brand-primary: #166633;
+    --ic-brand-font-color-dark: #2D3B45;
+    --ic-link-color: #000000;
+    --ic-brand-button--primary-bgd: var(--ic-brand-primary);
+    --ic-brand-button--primary-text: #ffffff;
+    --ic-brand-button--secondary-bgd: #ffbe11;
+    --ic-brand-button--secondary-text: #ffffff;
+    --ic-brand-global-nav-bgd: #005239;
+    --ic-brand-global-nav-ic-icon-svg-fill: #ffffff;
+    --ic-brand-global-nav-ic-icon-svg-fill--active: #005239;
+    --ic-brand-global-nav-menu-item__text-color: #ffffff;
+    --ic-brand-global-nav-menu-item__text-color--active: #005239;
+    --ic-brand-global-nav-avatar-border: #ffffff;
+    --ic-brand-global-nav-menu-item__badge-bgd: #ffbe11;
+    --ic-brand-global-nav-menu-item__badge-bgd--active: #005239;
+    --ic-brand-global-nav-menu-item__badge-text: #000000;
+    --ic-brand-global-nav-menu-item__badge-text--active: #ffffff;
+    --ic-brand-global-nav-logo-bgd: #005239;
+    --ic-brand-header-image: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/57513/mason-logo3.png');
+    --ic-brand-mobile-global-nav-logo: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/940/mason-logo.png');
+    --ic-brand-watermark-opacity: 1.0;
+    --ic-brand-favicon: url('https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico');
+    --ic-brand-apple-touch-icon: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/938/cropped-MasonM_4C.png');
+    --ic-brand-msapplication-tile-color: #ffffff;
+    --ic-brand-msapplication-tile-square: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/939/cropped-MasonM_4C.png');
+    --ic-brand-msapplication-tile-wide: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/941/mason-logo.png');
+    --ic-brand-Login-body-bgd-color: #394B58;
+    --ic-brand-Login-body-bgd-image: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/943/gmucampus.jpeg');
+    --ic-brand-Login-body-bgd-shadow-color: #2D3B45;
+    --ic-brand-Login-logo: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/942/mason-logo.png');
+    --ic-brand-Login-Content-bgd-color: #176633;
+    --ic-brand-Login-Content-border-color: none;
+    --ic-brand-Login-Content-inner-bgd: none;
+    --ic-brand-Login-Content-inner-border: none;
+    --ic-brand-Login-Content-inner-body-bgd: none;
+    --ic-brand-Login-Content-inner-body-border: none;
+    --ic-brand-Login-Content-label-text-color: #ffffff;
+    --ic-brand-Login-Content-password-text-color: #ffffff;
+    --ic-brand-Login-footer-link-color: #ffffff;
+    --ic-brand-Login-footer-link-color-hover: #ffffff;
+    --ic-brand-Login-instructure-logo: #ffffff;
+	/* my variables */
 	--preset-box-shadow: 2px 2px 5px gray;
-	--accent: #9EA300;
-	--accent-bright: #D9E000;
-	--accent-dark: #636600;
-	--accent-darker: #404200;
-	--footer-gray: #8e8a79;
-	--light-gray: rgb(142, 138, 121, .2);
-	--accent-textbox: rgba(204, 206, 148, 0.6);
-	--main-bg: #F9F7F1;
-	--text: #1b2021;
-	
+	--accent: var(--ic-brand-primary);
+	--accent-bright: var(--ic-brand-primary-lightened-15);
+	--accent-dark: var(--ic-brand-primary-darkened-15);
+	--footer-gray: var(--ic-brand-button--secondary-bgd);
+	--light-gray: rgba(103, 113, 121, 0.4);
+	--accent-textbox: rgba(56, 124, 81, .6);  /* based on ic-brand-primary */
+	--main-bg: #fff;
+	/* --off-white: #F9F7F1; */
+	--text: var(--ic-brand-font-color-dark);
 }
 
 body {
 	background-color: var(--main-bg);
+	color:  var(--ic-brand-font-color-dark);
 }
 
 hr {
@@ -66,9 +123,9 @@ a:visited {
 	color: inherit;
 }
 
-.footer-col-wrapper a {
+.footer-col-wrapper a, .footer-col-wrapper {
 font-size: 15px;
-color: #8e8a79;
+color: var(--ic-brand-font-color-dark-lightened-28);
 }
 
 /*
@@ -193,12 +250,26 @@ table th {
 *
 * card */
 
+
 .card {
+	/* mine
 	box-shadow: var(--preset-box-shadow);
-	background: white;
+	background: var(--off-white);
+	border-radius: 5px; */
 	padding: 1em;
-	border-radius: 5px;
 	margin-bottom: 3em;
+	border-left: 6px solid var(--ic-brand-button--secondary-bgd);
+
+	/* Canvas */
+	background: #fff;
+	box-shadow: 0 2px 5px rgba(0,0,0,.3);
+	border-radius: 4px;
+	/* overflow: hidden;
+	box-sizing: border-box;
+	width: 262px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 36px 0 0 36px; */
 }
 
 .card p {
@@ -358,7 +429,7 @@ a.button-fill:hover {
 
 .textbox--key-takeaways .textbox__title {
 	margin-bottom: 0;
-	color: var(--accent-darker);
+	color: var(--ic-brand-button--primary-text);
 	text-transform: uppercase;
 	font-weight: 700;
 }
