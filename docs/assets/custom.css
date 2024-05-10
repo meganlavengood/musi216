@@ -87,6 +87,11 @@ html {
 		scroll-behavior: auto;
 	}
 }
+
+.site-header {
+	border-top: none;
+}
+
 :target:before {
     content: "";
     display: block;
