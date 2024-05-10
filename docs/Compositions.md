@@ -18,7 +18,7 @@ order: 3
 ## Final project (Music and Media)
 
 * [Instructions](/compositions/final)
-* Due: Thu, Dec 7
+* Due: Thu, Dec 5
 
 ## Submitting and revising
 

@@ -215,7 +215,7 @@ The following course outline is a general overview of how I anticipate the class
 * Tue, Oct 8: [Debussy-style composition project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
 * Thu, Nov 23: Thanksgiving
 * Thu, Nov 30 (last class): Song performances
-* Thu, Dec 7: [Final project due](/compositions/final)
+* Thu, Dec 5: [Final project due](/compositions/final)
 * Dec 12: **Hard deadline** for submitting any coursework
 
 Mason Policies
