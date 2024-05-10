@@ -1,9 +1,9 @@
-<header class="site-header hide-on-embed" role="banner">
+<header class="site-header" role="banner">
   <div class="header-wrapper">
     <div class="flex-row justify-around header">
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
-      <div class="col">
+      <div class="col hide-on-embed" id="branding">
         <div class="flex-row align-center no-wrap">
           <div class="col">
             <a class="site-title" rel="author" href="{{ '/' | relative_url }}"><img class="favicon" src="{{ '/favicon.png' | relative_url }}" height="36px" width="36px"></a>
