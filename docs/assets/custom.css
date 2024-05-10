@@ -170,6 +170,7 @@ li > ol {
 /*
 *
 * nav menu */
+
 .site-nav div {
 	font-size: 0.9rem;
 	font-weight: 300;
@@ -204,6 +205,26 @@ li > ol {
 		display:none;
 	}
 }
+
+@media screen and (max-width: 768px) {	
+	.site-nav {
+		background-color: var(--ic-brand-global-nav-bgd);
+		border-radius: 4px;
+		border-color: var(--main-bg);
+	}
+
+	.site-nav .menu-icon > svg {
+		fill: var(--ic-brand-global-nav-ic-icon-svg-fill);
+	}
+	.site-nav .page-link {
+		color: var(--ic-brand-global-nav-menu-item__text-color);
+	}
+	.site-nav a:hover {
+		text-decoration-color:  var(--ic-brand-global-nav-menu-item__text-color);
+		text-decoration-style: dotted;
+	}
+}
+
 
 /* 
 * 
