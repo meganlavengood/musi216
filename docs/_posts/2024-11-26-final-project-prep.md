@@ -1,7 +1,7 @@
 ---
 layout: post
-date:   2023-11-23 00:00:00 -0500
-title:  "Thu, Nov 23"
+date:   2024-11-26 00:00:00 -0500
+title:  "Tue, Nov 26"
 ---
 
 ## Homework due
@@ -10,7 +10,7 @@ title:  "Thu, Nov 23"
 
 ## Class topic
 
-No class 🦃
+[Final project prep](/compositions/final)
 
 ## Homework assigned
 

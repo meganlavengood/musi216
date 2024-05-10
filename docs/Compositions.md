@@ -8,12 +8,12 @@ order: 3
 ## Set Class
 
 * [Instructions](https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/#assignments)
-* Due: Tue, Sep 12
+* Due: Tue, Sep 10
 
 ## Debussy-style
 
 * [Instructions](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
-* Due: Tue, Oct 10
+* Due: Tue, Oct 8
 
 ## Final project (Music and Media)
 

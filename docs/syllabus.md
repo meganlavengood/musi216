@@ -210,9 +210,9 @@ The following course outline is a general overview of how I anticipate the class
 
 ### Important Dates
 
-* Tue, Sep 12: [Set class composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/#assignments)
+* Tue, Sep 10: [Set class composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/#assignments)
 * Oct 10: No class (conversion day; Monday classes meet)
-* Tue, Oct 10: [Debussy-style composition project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
+* Tue, Oct 8: [Debussy-style composition project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
 * Thu, Nov 23: Thanksgiving
 * Thu, Nov 30 (last class): Song performances
 * Thu, Dec 7: [Final project due](/compositions/final)

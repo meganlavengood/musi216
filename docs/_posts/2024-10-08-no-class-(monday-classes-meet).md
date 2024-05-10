@@ -1,7 +1,7 @@
 ---
 layout: post
-date:   2023-10-10 00:00:00 -0500
-title:  "Tue, Oct 10"
+date:   2024-10-08 00:00:00 -0500
+title:  "Tue, Oct 8"
 ---
 
 ## Homework due
