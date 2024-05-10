@@ -2,7 +2,8 @@ $(function () {
 	// create an object with the date of one week ago
 	var yesterday = new Date();
 	yesterday.setDate(yesterday.getDate() - 1);
-	// var yesterday = new Date('January 25, 2023 00:00:00 GMT-5:00'); (for fudging date for testing)
+	// fudging dates for testing
+	// var yesterday = new Date('September 25, 2024 00:00:00 GMT-5:00');
 	let yesterdayEpoch = Date.parse(yesterday);
 	console.log(yesterday);
 	console.log(yesterdayEpoch);
@@ -26,3 +27,9 @@ $(function () {
 		.attr("target", "_blank");
 
 });
+
+// hide things in iframe view 
+if (window.location.href.indexOf("iframe=true") > -1) {
+	let els = document.getElementsByClassName("hide-on-embed");
+	for (let el of els) el.style.display = "none";
+}

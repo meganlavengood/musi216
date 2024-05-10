@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Syllabus
+embed-hide-title: true
 permalink: /syllabus/
 toc: false
 order: 4
@@ -8,29 +9,29 @@ order: 4
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Inclusivity in Learning](#inclusivity-in-learning)
-  - [Community Values](#community-values)
-- [Instructor Information](#instructor-information)
-  - [One-on-one appointments](#one-on-one-appointments)
-  - [Tutoring](#tutoring)
-- [Course Information](#course-information)
-  - [Meetings](#meetings)
-  - [Learning Objectives](#learning-objectives)
-  - [Course Materials](#course-materials)
-- [Grading](#grading)
-- [Attendance](#attendance)
-- [Assignments](#assignments)
-  - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
-  - [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
-  - [Composition projects](#composition-projects)
-- [Course Overview](#course-overview)
-  - [Brief Calendar](#brief-calendar)
-  - [Important Dates](#important-dates)
-- [Mason Policies](#mason-policies)
-  - [Honor Code](#honor-code)
-  - [ChatGPT and other AI tools](#chatgpt-and-other-ai-tools)
-  - [Title IX](#title-ix)
-  - [Privacy](#privacy)
+1. [Inclusivity in Learning](#inclusivity-in-learning)
+   1. [Community Values](#community-values)
+2. [Instructor Information](#instructor-information)
+   1. [One-on-one appointments](#one-on-one-appointments)
+   2. [Tutoring](#tutoring)
+3. [Course Information](#course-information)
+   1. [Meetings](#meetings)
+   2. [Learning Objectives](#learning-objectives)
+   3. [Course Materials](#course-materials)
+4. [Grading](#grading)
+5. [Attendance](#attendance)
+6. [Assignments](#assignments)
+   1. [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
+   2. [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
+   3. [Composition projects](#composition-projects)
+7. [Course Overview](#course-overview)
+   1. [Brief Calendar](#brief-calendar)
+   2. [Important Dates](#important-dates)
+8. [Mason Policies](#mason-policies)
+   1. [Honor Code](#honor-code)
+   2. [ChatGPT and other AI tools](#chatgpt-and-other-ai-tools)
+   3. [Title IX](#title-ix)
+   4. [Privacy](#privacy)
 
 ---
 
