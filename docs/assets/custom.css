@@ -1,6 +1,7 @@
 /* global styles */
 
 :root {
+	/* Set this n minima.scss as well */
 	/* Canvas variables */
     --ic-brand-primary-darkened-5: #156131;
     --ic-brand-primary-darkened-10: #145C2E;
@@ -63,16 +64,11 @@
 	--accent-bright: var(--ic-brand-primary-lightened-15);
 	--accent-dark: var(--ic-brand-primary-darkened-15);
 	--footer-gray: var(--ic-brand-button--secondary-bgd);
-	--light-gray: rgba(103, 113, 121, 0.4);
-	--accent-textbox: rgba(56, 124, 81, .6);  /* based on ic-brand-primary */
+	--light-gray: rgba(103, 113, 121, 0.2);
+	--accent-textbox: rgba(56, 124, 81, .2);  /* based on ic-brand-primary */
 	--main-bg: #fff;
 	/* --off-white: #F9F7F1; */
 	--text: var(--ic-brand-font-color-dark);
-}
-
-body {
-	background-color: var(--main-bg);
-	color:  var(--ic-brand-font-color-dark);
 }
 
 hr {
@@ -141,7 +137,7 @@ h2 {
 
 pre,
 code {
-	background-color: #f2f2f2;
+	background-color: #f5f5f5;
 }
 
 .class-title {
@@ -436,6 +432,7 @@ a.button-fill:hover {
 
 .textbox--key-takeaways .textbox__content {
 	padding: 1em 2em;
+	color: #000;
 }
 
 /*
