@@ -6,8 +6,10 @@ authors = ["Evan <e.williams@digital-science.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.9,<=3.11"
-pandas = "^1.5.2"
+python = ">=3.9,<=3.12"
+pandas = ">1,<2"
+jinja2 = "^3.1.4"
+numpy = "^1.26.4"
 
 
 [build-system]

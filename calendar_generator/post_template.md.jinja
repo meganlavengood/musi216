@@ -1,0 +1,23 @@
+---
+layout: post
+date:   {{ date }} 00:00:00 -0500
+title:  "{{ post_name }}"
+---
+
+{% if homework_due_links %}
+## Homework due
+
+{{ homework_due_links|join('\n\n') }}
+{% endif %}{% if class_topic_links %}
+## Class topic
+
+{{ class_topic_links|join('\n\n') }}
+{% endif %}{% if homework_assigned_links %}
+## Homework assigned
+
+{{ homework_assigned_links|join('\n\n') }}
+{% endif %}{% if notes %}
+## Notes
+
+{{ notes}}
+{% endif %}
