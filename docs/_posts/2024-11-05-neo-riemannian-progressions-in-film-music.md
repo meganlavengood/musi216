@@ -4,6 +4,7 @@ date:   2024-11-05 00:00:00 -0500
 title:  "Tue, Nov 5"
 ---
 
+
 ## Homework due
 
 [LOTR Theme Analysis](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/EnXH-XQ_-uVKtw5tJz6xe1gB_LD7aB9uzB5G344iTHaZNg?e=qwVNA9)

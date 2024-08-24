@@ -4,6 +4,7 @@ date:   2024-11-26 00:00:00 -0500
 title:  "Tue, Nov 26"
 ---
 
+
 ## Homework due
 
 [none—work on projects](/compositions/final)
@@ -15,4 +16,3 @@ title:  "Tue, Nov 26"
 ## Homework assigned
 
 [Final project](/compositions/final)
-

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Syllabus
-embed-hide-title: true
 permalink: /syllabus/
 toc: false
 order: 4
@@ -9,29 +8,29 @@ order: 4
 
 ## Table of Contents <!-- omit in toc -->
 
-1. [Inclusivity in Learning](#inclusivity-in-learning)
-   1. [Community Values](#community-values)
-2. [Instructor Information](#instructor-information)
-   1. [One-on-one appointments](#one-on-one-appointments)
-   2. [Tutoring](#tutoring)
-3. [Course Information](#course-information)
-   1. [Meetings](#meetings)
-   2. [Learning Objectives](#learning-objectives)
-   3. [Course Materials](#course-materials)
-4. [Grading](#grading)
-5. [Attendance](#attendance)
-6. [Assignments](#assignments)
-   1. [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
-   2. [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
-   3. [Composition projects](#composition-projects)
-7. [Course Overview](#course-overview)
-   1. [Brief Calendar](#brief-calendar)
-   2. [Important Dates](#important-dates)
-8. [Mason Policies](#mason-policies)
-   1. [Honor Code](#honor-code)
-   2. [ChatGPT and other AI tools](#chatgpt-and-other-ai-tools)
-   3. [Title IX](#title-ix)
-   4. [Privacy](#privacy)
+- [Inclusivity in Learning](#inclusivity-in-learning)
+  - [Community Values](#community-values)
+- [Instructor Information](#instructor-information)
+  - [One-on-one appointments](#one-on-one-appointments)
+  - [Tutoring](#tutoring)
+- [Course Information](#course-information)
+  - [Meetings](#meetings)
+  - [Learning Objectives](#learning-objectives)
+  - [Course Materials](#course-materials)
+- [Grading](#grading)
+- [Attendance](#attendance)
+- [Assignments](#assignments)
+  - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
+  - [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
+  - [Composition projects](#composition-projects)
+- [Course Overview](#course-overview)
+  - [Brief Calendar](#brief-calendar)
+  - [Important Dates](#important-dates)
+- [Mason Policies](#mason-policies)
+  - [Honor Code](#honor-code)
+  - [ChatGPT and other AI tools](#chatgpt-and-other-ai-tools)
+  - [Title IX](#title-ix)
+  - [Privacy](#privacy)
 
 ---
 
@@ -122,21 +121,21 @@ If you have to miss class, you are welcome to attend the other class if that tim
 * Our textbook is [*Open Music Theory*](https://viva.pressbooks.pub/openmusictheory/), which is free. 
 * You will also need to reference some [extra "chapters" on music and media](/mm-lessons) outside the OMT book, which are on this website.
 
-#### Required 
-  
-  * Internet access for [_Open Music Theory_](https://viva.pressbooks.pub/openmusictheory/), Blackboard, etc.
-  * A three-ring binder for homework packets
-  * Staff paper, pens, pencils, etc. 
-  * [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat). I still find MuseScore 4 quite buggy, and I personally use [MuseScore 3](https://musescore.org/en/3.6.2) instead.
+#### Required
 
+* Internet access for [_Open Music Theory_](https://viva.pressbooks.pub/openmusictheory/), Blackboard, etc.
+* A three-ring binder for homework packets
+* Staff paper, pens, pencils, etc. 
+* [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat). I still find MuseScore 4 quite buggy, and I personally use [MuseScore 3](https://musescore.org/en/3.6.2) instead.
 
 #### Recommended
-*  An app for making black-and-white .pdf scans from your phone.
-   *  I recommend [ABBYY FineScanner](http://www.finescanner.com/en/), which has a free version suitable for our purposes. 
-   *  I have also used [CamScanner](https://www.camscanner.com/). 
-   *  Most phones have them built in natively, too.
-   *  [Scanning Tutorials available here](https://meganlavengood.com/how-to-scan/).
-*   [Spotify](https://viva.pressbooks.pub/openmusictheory/front-matter/statement-on-spotify-usage/) is also useful for accessing worksheet playlists.
+
+* An app for making black-and-white .pdf scans from your phone.
+  * I recommend [ABBYY FineScanner](http://www.finescanner.com/en/), which has a free version suitable for our purposes. 
+  * I have also used [CamScanner](https://www.camscanner.com/). 
+  * Most phones have them built in natively, too.
+  * [Scanning Tutorials available here](https://meganlavengood.com/how-to-scan/).
+* [Spotify](https://viva.pressbooks.pub/openmusictheory/front-matter/statement-on-spotify-usage/) is also useful for accessing worksheet playlists.
 
 Smartphones, tablets, and computers are welcome in the classroom since you need them to access the textbook.
 
@@ -152,17 +151,17 @@ Grading
 Letter grades are given as follows:
 
 | Percentage/Points | Letter Grade |
-| --- | --- |
-| 93–100% | A |
-| 90–92% | A– | 
-| 87–89% | B+ | 
-| 83–86% | B |
-| 80–82% | B– |
-| 77–79% | C+ | 
-| 73–76% | C |
-| 70–72% | C– |
-| 60–69% | D |
-| 0–59% | F |
+| ----------------- | ------------ |
+| 93–100%           | A            |
+| 90–92%            | A–           |
+| 87–89%            | B+           |
+| 83–86%            | B            |
+| 80–82%            | B–           |
+| 77–79%            | C+           |
+| 73–76%            | C            |
+| 70–72%            | C–           |
+| 60–69%            | D            |
+| 0–59%             | F            |
 
 Attendance
 ----------
@@ -182,19 +181,19 @@ I am very fussy about scanned documents. Whenever you are sending me a scan, ple
 
 ### Daily Homework (not for a grade)
 
-*   You will have homework daily. 
-*   Homework is assigned via the [course website](../). 
-*   Homework is **not required and does not contribute to your grade.** Instead the homework is a way for you to check your understanding of a topic. 
-*   If you want feedback on your homework, you may turn it in for me to look over.
-*   You can email me homework if you won’t be in class (not projects, though—please always submit those on Blackboard).
+* You will have homework daily. 
+* Homework is assigned via the [course website](../). 
+* Homework is **not required and does not contribute to your grade.** Instead the homework is a way for you to check your understanding of a topic. 
+* If you want feedback on your homework, you may turn it in for me to look over.
+* You can email me homework if you won’t be in class (not projects, though—please always submit those on Blackboard).
 
 ### Composition projects
 
-*   **About the projects:** Three model compositions are used to demonstrate your understanding of the theory concepts we learn in this class. [View project instructions.](/compositions)
-*   **Prep work:** Projects have preparatory assignments that are designed to help you succeed in your graded submission. These assignments are especially important to complete, even though they are still not counted toward your final grade.
-*   **Submitting, revising, and earning a grade:** Each project will be graded and returned; next, you are given the option to revise or expand as directed and submit a second version. The two grades are averaged for your total grade. All revisions are given a “best by” date, one week after the original due date. If you wait longer than this to submit, that’s okay, but I might not grade it promptly.
-*   **Late work:** If you need to submit a project late, discuss this with me, ideally before the due date. Be aware that I may not be able to give feedback for revisions in a timely manner if you submit late, especially if we didn’t discuss in advance.
-*   **Composition creativity and following instructions (or not):** I give a lot of restrictions on composition assignments because these are meant to test your ability to apply theory concepts, rather than to test your creativity. If you are excited to compose and want to do things more in your own way instead, that’s great and I look forward to hearing it! _But I need you to still fulfill the requirements of the assignment._ So if you choose to deliberately do something other than what I’ve asked you to do, submit additional commentary in which you self-evaluate against the grading rubric. Explain how you have achieved each of the objectives of the assignment.
+* **About the projects:** Three model compositions are used to demonstrate your understanding of the theory concepts we learn in this class. [View project instructions.](/compositions)
+* **Prep work:** Projects have preparatory assignments that are designed to help you succeed in your graded submission. These assignments are especially important to complete, even though they are still not counted toward your final grade.
+* **Submitting, revising, and earning a grade:** Each project will be graded and returned; next, you are given the option to revise or expand as directed and submit a second version. The two grades are averaged for your total grade. All revisions are given a “best by” date, one week after the original due date. If you wait longer than this to submit, that’s okay, but I might not grade it promptly.
+* **Late work:** If you need to submit a project late, discuss this with me, ideally before the due date. Be aware that I may not be able to give feedback for revisions in a timely manner if you submit late, especially if we didn’t discuss in advance.
+* **Composition creativity and following instructions (or not):** I give a lot of restrictions on composition assignments because these are meant to test your ability to apply theory concepts, rather than to test your creativity. If you are excited to compose and want to do things more in your own way instead, that’s great and I look forward to hearing it! _But I need you to still fulfill the requirements of the assignment._ So if you choose to deliberately do something other than what I’ve asked you to do, submit additional commentary in which you self-evaluate against the grading rubric. Explain how you have achieved each of the objectives of the assignment.
 
 Course Overview
 ---------------
@@ -203,11 +202,11 @@ Course Overview
 
 The following course outline is a general overview of how I anticipate the class will progress. For a detailed list of topics and assignments, see the [course website](../).
 
-| Weeks | Unit | [Composition Projects](/compositions) |
-| --- | --- | --- |
-| 1–4 | Atonality | Set Theory composition project |
-| 5–9 | Triadic Post-Tonality | Debussy-style composition project | 
-| 10–15 | Music and Media | Final project |
+| Weeks | Unit                  | [Composition Projects](/compositions) |
+| ----- | --------------------- | ------------------------------------- |
+| 1–4   | Atonality             | Set Theory composition project        |
+| 5–9   | Triadic Post-Tonality | Debussy-style composition project     |
+| 10–15 | Music and Media       | Final project                         |
 
 ### Important Dates
 

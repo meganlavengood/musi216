@@ -4,6 +4,7 @@ date:   2024-09-03 00:00:00 -0500
 title:  "Tue, Sep 3"
 ---
 
+
 ## Homework due
 
 [Composition Prep Worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations/#assignments)

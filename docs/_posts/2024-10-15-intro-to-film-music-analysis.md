@@ -4,6 +4,7 @@ date:   2024-10-15 00:00:00 -0500
 title:  "Tue, Oct 15"
 ---
 
+
 ## Homework due
 
 [Grouping Dissonance Composition Exercise](https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/#assignments)

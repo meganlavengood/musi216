@@ -4,6 +4,7 @@ date:   2024-08-22 00:00:00 -0500
 title:  "Thu, Aug 22"
 ---
 
+
 ## Homework due
 
 [Pitch and pitch class](https://viva.pressbooks.pub/openmusictheory/chapter/pitch-and-pitch-class/#assignments)

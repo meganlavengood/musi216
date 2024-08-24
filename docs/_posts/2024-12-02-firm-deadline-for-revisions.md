@@ -4,6 +4,7 @@ date:   2024-12-02 00:00:00 -0500
 title:  "Tue, Dec 10"
 ---
 
+
 ## Homework due
 
 [(Optional) revisions for final projects](/compositions/final)

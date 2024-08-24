@@ -4,6 +4,7 @@ date:   2024-08-29 00:00:00 -0500
 title:  "Thu, Aug 29"
 ---
 
+
 ## Homework due
 
 [Normal form and transformations](https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations/#assignments)
