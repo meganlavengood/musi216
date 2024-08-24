@@ -11,11 +11,11 @@ order: 2
 
 ## Table of Contents <!-- omit in toc -->
 
-- [The Military Topic](#the-military-topic)
-- [Summary of semiotics](#summary-of-semiotics)
-- [Topics in Film and Video Game Music](#topics-in-film-and-video-game-music)
-- [Exoticism and Colonialism in Film and Video Game Music](#exoticism-and-colonialism-in-film-and-video-game-music)
-- [Bibliography](#bibliography)
+1. [The Military Topic](#the-military-topic)
+2. [Summary of semiotics](#summary-of-semiotics)
+3. [Topics in Film and Video Game Music](#topics-in-film-and-video-game-music)
+4. [Exoticism and Colonialism in Film and Video Game Music](#exoticism-and-colonialism-in-film-and-video-game-music)
+5. [Bibliography](#bibliography)
 
 
 ----

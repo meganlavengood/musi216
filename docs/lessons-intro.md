@@ -10,15 +10,15 @@ order: 1
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Diegetic and non-diegetic music](#diegetic-and-non-diegetic-music)
-  - [Non-diegetic music](#non-diegetic-music)
-  - [Diegetic Music](#diegetic-music)
-- [Pre-existing and newly composed music](#pre-existing-and-newly-composed-music)
-- [Functions of non-diegetic film music](#functions-of-non-diegetic-film-music)
-  - [Jurassic Park](#jurassic-park)
-  - [Parasite](#parasite)
-  - [The Americans](#the-americans)
-  - [Bibliography](#bibliography)
+1. [Diegetic and non-diegetic music](#diegetic-and-non-diegetic-music)
+   1. [Non-diegetic music](#non-diegetic-music)
+   2. [Diegetic Music](#diegetic-music)
+2. [Pre-existing and newly composed music](#pre-existing-and-newly-composed-music)
+3. [Functions of non-diegetic film music](#functions-of-non-diegetic-film-music)
+   1. [Jurassic Park](#jurassic-park)
+   2. [Parasite](#parasite)
+   3. [The Americans](#the-americans)
+   4. [Bibliography](#bibliography)
 
 
 ----

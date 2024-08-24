@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+  <header class="post-header">
+  {%- if page.title -%}
+
+  <h1 class="post-title">{{ page.title }}</h1>
+  {% else %}
+  <h1 class="post-title">Upcoming Classes</h1>
+</header>
+  {%- endif -%}
+
+  {{ content }}
+
+  <div class="flex-row justify-space responsive">
+    <!-- {% assign filtered_posts = site.posts | where_exp: "post", "post.date >= site.time" %} -->
+    {% assign sorted-posts = site.posts | sort: 'date' %}
+    {% for post in sorted-posts %}
+    <div class="col-40 card" date="{{ post.date | date: '%F' }}">
+      <div class="class-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      {{ post.content }}
+    </div>
+    {% endfor %}
+  </div>
+
+</div>
