@@ -18,7 +18,8 @@ order: 1
    1. [Jurassic Park](#jurassic-park)
    2. [Parasite](#parasite)
    3. [The Americans](#the-americans)
-   4. [Bibliography](#bibliography)
+4. [More examples for discussion](#more-examples-for-discussion)
+5. [Bibliography](#bibliography)
 
 
 ----
@@ -101,7 +102,7 @@ Following is an extensive list of possible functions of non-diegetic film music,
 2.  **Modifying, qualifying, underlining, or corroborating a character's psychological condition** that is independently grounded by other elements of the film; in other words, the music emphasizes something that was already fully evident from other elements of the film (e.g., when the music tells you that a character's grief over a loss is intense)
 3.  **Signifying of some fact in the film world** *other than* the psychological condition of some character (e.g. a certain evil deed has occurred offscreen)
 4.  **Foreshadowing** a dramatic development in a situation being depicted on screen
-5.  Projecting a story-appropriate mood onto the scene as a whole
+5.  **Projecting a story-appropriate mood onto the scene as a whole**
 6.  **Showing the viewer that events in the film are more important than those of ordinary life**---the emotions magnified, the stakes higher, the significances deeper
 7.  **Suggesting how the viewer should feel** about some aspect of the story (e.g., compassionately)
 8.  **Revealing how the presenter of the story or the filmmaker feels** about some aspect of the story (e.g., sympathetically)
@@ -140,6 +141,11 @@ The song “With or Without You” by U2 serves a few functions here. Most pract
 
 The song also imparts a lot of emotional weight when the parents see their daughter on the platform (#2): at this moment, the lyrics in the song are replaced by vocalizations on “oh,” suggesting emotions that are too raw to be communicated verbally. When the lyrics do return, the [meaning of the lyrics](https://genius.com/U2-with-or-without-you-lyrics) suggests several themes that can easily apply to the internal dialogue of the characters (#1): “you give yourself away”; “I can’t live with or without you” are sentiments that may be expressed either from the parents to the daughter or vice-versa.
 
-### Bibliography
+## More examples for discussion
+
+* [Pippin's song in *Return of the King* (2003)](https://www.youtube.com/watch?v=zmj25u5mVvg)
+* [*How to Train Your Dragon* (2010) test flight scene](https://www.youtube.com/watch?v=LECmyZB-cgM)
+
+## Bibliography
 
 Levinson, Jerrold. 2006. “Film Music and Narrative Agency.” In Contemplating Art, 143–83. New York: Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199206179.001.0001.
