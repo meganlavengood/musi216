@@ -10,8 +10,8 @@ order: 3
 
 ## Table of Contents <!-- omit in toc -->
 
-1. [Example Analysis: *Lord of the Rings*](#example-analysis-lord-of-the-rings)
-	1. [4̂ in *Lord of the Rings* themes](#4̂-in-lord-of-the-rings-themes)
+1. [Designing leitmotifs: *Lord of the Rings*](#designing-leitmotifs-lord-of-the-rings)
+	1. [4̂ in *Lord of the Rings* leitmotifs](#4̂-in-lord-of-the-rings-leitmotifs)
 	2. [Into the West](#into-the-west)
 2. [Unifying Music and Narrative](#unifying-music-and-narrative)
 3. [Development of Leitmotifs](#development-of-leitmotifs)
@@ -40,13 +40,13 @@ Leitmotifs, originally associated with Wagner, are defined by Bribitzer-Stull (2
 
 Many media scores nowadays will assign important characters their own musical themes that recur each time the character is featured. This practice went in and out of fashion for a time, but resurged in the mid-1970s thanks to films like Star Wars, and has remained a popular approach to media scoring.
 
-## Example Analysis: *Lord of the Rings*
+## Designing leitmotifs: *Lord of the Rings*
 
-Before defining in detail what a leitmotif is and how it is used in film, we will begin with a concrete example of a leitmotif in a well-known film trilogy: the “Into the West” leitmotif from *Lord of the Rings*.
+Before defining in detail what a leitmotif is and how it is used in film, we will begin with some concrete examples of leitmotifs in a well-known film trilogy: *Lord of the Rings*.
 
 This analysis summarizes Bribitzer-Stull (2015), 294-299.
 
-### 4̂ in *Lord of the Rings* themes
+### 4̂ in *Lord of the Rings* leitmotifs
 
 **Example 1** below gives simple transcriptions of the melody and harmony of several prominent themes in the *Lord of the Rings* soundtrack which emphasize *fi* (♯4̂) in the melody. There are still other themes that also emphasize *fi* not included here—”Sorrow of the Elves” and “Dwarves of Yore.”
 
@@ -102,7 +102,7 @@ When defining the leitmotifs of a piece of media, it may be helpful to separate 
 
 ## Development of Leitmotifs
 
-Again, an important characteristic of leitmotifs is their musical development. Following is a list of developmental techniques common in leitmotifs (Bribitzer-Stull 2015, 284-294), given in order from most to least common. Notice that many of the techniques have emotionally suggestive names—this is because leitmotivic development always signifies an emotional development in the narrative.
+Again, an important characteristic of leitmotifs is their musical development. Following is a list of developmental techniques common in film music leitmotifs (Bribitzer-Stull 2015, 284-294), given in order from most to least common. Notice that many of the techniques have emotionally suggestive names—this is because leitmotivic development always signifies an emotional development in the narrative.
 
 1. **Change of mode.** A leitmotif that was initially introduced in major may be recast in minor, or vice-versa. This may accompany a development from a negative to a positive emotional state.
 1. **Harmonic recontextualization.** Leitmotifs are frequently reharmonized from their initial presentations. Certain recontextualizations are especially salient and emotionally charged:
@@ -111,12 +111,8 @@ Again, an important characteristic of leitmotifs is their musical development. F
 1. **Change of texture.** A change in texture can accompany a similar change in the character; for example, a richly accompanied theme may be stripped down to a monophonic statement to show loneliness.
 1. **Thematic truncation.** Leitmotifs can be cut short dramatically, especially to signify death, fainting, or failure.
 1. **Thematic fragmentation.** A fragment of a leitmotif may sound to mark the introduction or departure of a significant dramatic element. In the former case, the fragmentation may foreshadow a later statement of the full leitmotif; in the latter, it recalls a full statement.
-1. **Thematic evolution.** An earlier leitmotif can be thematically tied to a leitmotif introduced later that shares emotional qualities with the first theme.
-1. **Associative transposition.** A leitmotif can be transposed to indicate some change in emotional state. Associative transposition can be ineffective and/or hard to identify in film scores, though, since they frequently modulate anyway.
-1. **Thematic complex.** Leitmotifs are sometimes designed to be combined at a later point to create a more complex emotional narrative. When three or more are combined in this way, they form a thematic complex.
-1. **Thematic irony.** A leitmotif may be used ironically and thus communicate something unstated to the audience.
 
-Other developments of leitmotifs may be possible, but this list enumerates several possibilities to help start an analytical investigation. What’s always important is that the transformation has both musical and emotional components.
+Other developments of leitmotifs are possible, but this list enumerates several possibilities to help start an analytical investigation. What’s always important is that the transformation has both musical and emotional components.
 
 ## Bibliography
 
