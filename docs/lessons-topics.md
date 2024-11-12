@@ -88,15 +88,15 @@ Following is a list of many common topics found in film and video game music (**
 
 | topic | musical features | example |
 | --- | --- | --- |
-| Military | brass instruments, especially trumpet; percussion, especially snare drum; melodies based on fanfares and field signals; duple/quadruple meter; moderate tempo | [*Final Fantasy* victory fanfare](https://youtu.be/-YCN-a0NsNk) |
-| Flying | rapid, repetitive high-range gestures; rising arpeggiations; large leaps upward; instrumentation of strings, woodwinds, and harp | ["The Sky" from *Legend of Zelda: Skyward Sword*](https://www.youtube.com/watch?v=nRbROTdOgj0) (2011) |
+| Military | brass instruments, especially trumpet; percussion, especially snare drum; melodies based on fanfares and field signals; duple/quadruple meter; moderate tempo | [*Final Fantasy* victory fanfare](https://fi.zophar.net/soundfiles/playstation-psf/final-fantasy-ix/119%20Fanfare.mp3) |
+| Flying | rapid, repetitive high-range gestures; rising arpeggiations; large leaps upward; instrumentation of strings, woodwinds, and harp | ["Flying Theme" from *E.T.: The Extra Terrestrial*](https://mtosmt.org/issues/mto.19.25.2/atkinson_examples.php?id=2&nonav=true) (1982) |
 | Ominous Chant | use of Latin or Latin-sounding syllables; choir; heavy reverb | [Battle scene from *Chronicles of Narnia: The Lion, The Witch, and the Wardrobe*](https://youtu.be/f_sMuo8Lujg?t=100) (2005) |
 | Epic | large performing forces (orchestra, choir, etc.), fast/heavy percussion, major chords, dissonance, melody in the brass | [*Batman: The Dark Knight Rises* theme](https://www.youtube.com/watch?v=eHFA_wEK_00) (2012) |
 | Pastoral | Woodwind instruments, strings, compound meter, slow-to-moderate tempo, drones, simple/folk-like melodies and harmonies | [*The Legend of Zelda: Wind Waker*, "Korok Festival"](https://www.youtube.com/watch?v=sCs1fKXk2Ug) (2003) |
-| Wonder | Triadic but highly chromatic harmony, frequent modulations, unstable sense of tonic, major chords, lydian ♯4 | [*Wall-E*, The "Axiom"](https://youtu.be/sdk0FZ982_I?t=157) (2008) |
+| Wonder | Triadic but highly chromatic harmony, frequent modulations, unstable sense of tonic, major chords, lydian ♯4 | [Universal Studios opening fanfare](https://www.youtube.com/watch?v=KHx7KTN7KdM) (1990–1997) |
 | Mystic/Magic/Gothic | celeste, female vocals, recorder, minor mode, chromaticism | [Main theme from ](https://www.youtube.com/watch?v=m-h5i5IvGyE)*[Edward Scissorhands](https://www.youtube.com/watch?v=m-h5i5IvGyE)* (1990) |
 
-<figcaption><b>Example 2.</b> Some musical topics that appear frequently in film and video game music  (Atkinson 2019; Monelle 2006; Lehman 2018; van Elferen 2013; [TVTropes.org](https://tvtropes.org)).</figcaption>
+<figcaption><b>Example 2.</b> Some musical topics that appear frequently in film and video game music  \(Atkinson 2019; Monelle 2006; Lehman 2018; van Elferen 2013; [TVTropes.org](https://tvtropes.org)\).</figcaption>
 
 Again, there are far more possible topics to discuss; an exhaustive list would be impractically large. The website [TV Tropes has a list of musical tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/ScoreAndMusicTropes) that in many cases can also function as musical topics, if you would like to get a sense of the breadth of these phenomena.
 
