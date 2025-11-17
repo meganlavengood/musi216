@@ -8,7 +8,7 @@ order: 2
 
 ## Group A
 
-<div class="flex-row justify-space align-center">
+<div class="flex-row responsive justify-space align-center">
 <figure class="audio-example">
   <figcaption>Example A1</figcaption>
   <audio controls src="/audio/vgm-topics/A1.mp3"></audio>
@@ -33,6 +33,7 @@ order: 2
 
 ## Group B
 
+<div class="flex-row responsive justify-space align-center">
 <figure class="audio-example">
   <figcaption>Example B1</figcaption>
   <audio controls src="/audio/vgm-topics/B1.mp3"></audio>
@@ -53,9 +54,11 @@ order: 2
   <figcaption>Example B5</figcaption>
   <audio controls src="/audio/vgm-topics/B5.mp3"></audio>
 </figure>
+</div>
 
 ## Group C
 
+<div class="flex-row responsive justify-space align-center">
 <figure class="audio-example">
   <figcaption>Example C1</figcaption>
   <audio controls src="/audio/vgm-topics/C1.mp3"></audio>
@@ -76,9 +79,11 @@ order: 2
   <figcaption>Example C5</figcaption>
   <audio controls src="/audio/vgm-topics/C5.mp3"></audio>
 </figure>
+</div>
 
 ## Group D
 
+<div class="flex-row responsive justify-space align-center">
 <figure class="audio-example">
   <figcaption>Example D1</figcaption>
   <audio controls src="/audio/vgm-topics/D1.mp3"></audio>
@@ -99,3 +104,4 @@ order: 2
   <figcaption>Example D5</figcaption>
   <audio controls src="/audio/vgm-topics/D5.mp3"></audio>
 </figure>
+</div>
