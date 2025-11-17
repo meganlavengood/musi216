@@ -6,6 +6,28 @@ toc: false
 order: 2
 ---
 
+## Instructions
+
+The examples below are organized into four groups (A, B, C, and D). Although each group has music from five different video games, each group also represents a single type of location across those video games.
+
+Listen to all 5 songs in each group and determine:
+
+1. Which location-based topic is being represented
+2. Three (3) specific musical features that support that topic (instrumentation, tonality, etc.)
+
+Each group will represent one of the following locations:
+
+-   Air/Flying
+-   Beach
+-   Cave
+-   Factory
+-   Field
+-   Forest
+-   Lava
+-   Outer space
+-   Town
+-   Winter
+
 ## Group A
 
 <div class="flex-row responsive justify-around align-center">
@@ -105,3 +127,10 @@ order: 2
   <audio controls src="/audio/vgm-topics/D5.mp3"></audio>
 </figure>
 </div>
+
+| Group | Location | List 3 musical features (instruments, meter, etc.) supporting the topic. |
+| ----- | -------- | ------------------------------------------------------------------------ |
+| A     |          | 1.<br/>2.<br/>3.                                                         |
+| B     |          | 1.<br/>2.<br/>3.                                                         |
+| C     |          | 1.<br/>2.<br/>3.                                                         |
+| D     |          | 1.<br/>2.<br/>3.                                                         |

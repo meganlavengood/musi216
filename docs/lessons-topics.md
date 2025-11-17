@@ -10,12 +10,13 @@ order: 2
 
 ## Table of Contents <!-- omit in toc -->
 
--   [The Military Topic](#the-military-topic)
--   [Summary of semiotics](#summary-of-semiotics)
--   [Topics in Film Music](#topics-in-film-music)
--   [Location-based Video Game Music Topics](#location-based-video-game-music-topics)
--   [Exoticism and Colonialism in Film and Video Game Music](#exoticism-and-colonialism-in-film-and-video-game-music)
--   [Bibliography](#bibliography)
+- [The Military Topic](#the-military-topic)
+- [Summary of semiotics](#summary-of-semiotics)
+- [Topics in Film Music](#topics-in-film-music)
+- [Location-based Video Game Music Topics](#location-based-video-game-music-topics)
+- [Exoticism and Colonialism in Film and Video Game Music](#exoticism-and-colonialism-in-film-and-video-game-music)
+- [Bibliography](#bibliography)
+- [Assignments](#assignments)
 
 ---
 
@@ -134,3 +135,7 @@ As composers, music analysts, performers, and even consumers of media, it is imp
 -   Monelle, Raymond. 2006. _The Musical Topic: Hunt, Military and Pastoral_. Bloomington: Indiana University Press.
 -   Elferen, Isabella van. 2013. “Fantasy Music: Epic Soundtracks, Magical Instruments, Musical Metaphysics.” _Journal of the Fantastic in the Arts_ 24 (1): 4–24.
 -   Atkinson, Sean E. 2019. “Soaring Through the Sky: Topics and Tropes in Video Game Music.” _Music Theory Online_ 25 (2). https://doi.org/10.30535/mto.25.2.1.
+
+## Assignments
+
+[Listening to Topics in Video Game Music](https://musi216.meganlavengood.com/mm-assignments/vgm-topics/https://musi216.meganlavengood.com/mm-assignments/vgm-topics/)
