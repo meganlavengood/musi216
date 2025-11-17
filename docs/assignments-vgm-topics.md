@@ -8,7 +8,7 @@ order: 2
 
 ## Group A
 
-<div class="flex-row responsive justify-space align-center">
+<div class="flex-row responsive justify-around align-center">
 <figure class="audio-example">
   <figcaption>Example A1</figcaption>
   <audio controls src="/audio/vgm-topics/A1.mp3"></audio>
@@ -33,7 +33,7 @@ order: 2
 
 ## Group B
 
-<div class="flex-row responsive justify-space align-center">
+<div class="flex-row responsive justify-around align-center">
 <figure class="audio-example">
   <figcaption>Example B1</figcaption>
   <audio controls src="/audio/vgm-topics/B1.mp3"></audio>
@@ -58,7 +58,7 @@ order: 2
 
 ## Group C
 
-<div class="flex-row responsive justify-space align-center">
+<div class="flex-row responsive justify-around align-center">
 <figure class="audio-example">
   <figcaption>Example C1</figcaption>
   <audio controls src="/audio/vgm-topics/C1.mp3"></audio>
@@ -83,7 +83,7 @@ order: 2
 
 ## Group D
 
-<div class="flex-row responsive justify-space align-center">
+<div class="flex-row responsive justify-around align-center">
 <figure class="audio-example">
   <figcaption>Example D1</figcaption>
   <audio controls src="/audio/vgm-topics/D1.mp3"></audio>
