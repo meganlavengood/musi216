@@ -270,6 +270,10 @@ table th {
 	border-bottom: 2px solid var(--accent);
 }
 
+table.bordered td {
+	border: 2px solid lightgray;
+}
+
 /*
 *
 * card */

@@ -28,6 +28,40 @@ Each group will represent one of the following locations:
 -   Town
 -   Winter
 
+<div style="overflow-x:auto;">
+<table class="bordered">
+<thead>
+<tr>
+<th>Group</th>
+<th>Location</th>
+<th>List 3 musical features (instruments, meter, etc.) supporting the topic.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td></td>
+<td>1.<br/>2.<br/>3.</td>
+</tr>
+<tr>
+<td>B</td>
+<td></td>
+<td>1.<br/>2.<br/>3.</td>
+</tr>
+<tr>
+<td>C</td>
+<td></td>
+<td>1.<br/>2.<br/>3.</td>
+</tr>
+<tr>
+<td>D</td>
+<td></td>
+<td>1.<br/>2.<br/>3.</td>
+</tr>
+</tbody>
+</table>
+</div>
+
 ## Group A
 
 <div class="flex-row responsive justify-around align-center">
@@ -127,10 +161,3 @@ Each group will represent one of the following locations:
   <audio controls src="/audio/vgm-topics/D5.mp3"></audio>
 </figure>
 </div>
-
-| Group | Location | List 3 musical features (instruments, meter, etc.) supporting the topic. |
-| ----- | -------- | ------------------------------------------------------------------------ |
-| A     |          | 1.<br/>2.<br/>3.                                                         |
-| B     |          | 1.<br/>2.<br/>3.                                                         |
-| C     |          | 1.<br/>2.<br/>3.                                                         |
-| D     |          | 1.<br/>2.<br/>3.                                                         |
