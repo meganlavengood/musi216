@@ -96,7 +96,7 @@ Following is a list of many common topics found in film music (**Example 2**). T
 | Wonder              | Triadic but highly chromatic harmony, frequent modulations, unstable sense of tonic, major chords, lydian ♯4                                                  | [Universal Studios opening fanfare](https://coursemedia.gmu.edu/media/Universal+Studios+title+1990%E2%80%931997/1_yngzyd1o) (1990–1997)                                |
 | Mystic/Magic/Gothic | celeste, female vocals, recorder, minor mode, chromaticism                                                                                                    | [Main theme from *Edward Scissorhands*](https://coursemedia.gmu.edu/media/Edward+Scissorhands+Soundtrack+-+Main+Theme+%28Danny+Elfman%29/1_t6ap2740) (1990)            |
 
-<figcaption><b>Example 2.</b> Some musical topics that appear frequently in film and video game music  (Atkinson 2019; Monelle 2006; Lehman 2018; van Elferen 2013; [TVTropes.org](https://tvtropes.org)).</figcaption>
+<figcaption><b>Example 2.</b> Some musical topics that appear frequently in film and video game music  (Atkinson 2019; Monelle 2006; Lehman 2018; van Elferen 2013; <a href="https://tvtropes.org">TVTropes.org</a>).</figcaption>
 
 Again, there are far more possible topics to discuss; an exhaustive list would be impractically large. The website [TV Tropes has a list of musical tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/ScoreAndMusicTropes) that in many cases can also function as musical topics, if you would like to get a sense of the breadth of these phenomena.
 

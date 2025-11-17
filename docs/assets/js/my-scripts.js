@@ -25,11 +25,23 @@ $(function () {
 			return this.hostname != window.location.hostname;
 		})
 		.attr("target", "_blank");
-
 });
 
-// hide things in iframe view 
+// hide things in iframe view
 if (window.location.href.indexOf("iframe=true") > -1) {
 	let els = document.getElementsByClassName("hide-on-embed");
 	for (let el of els) el.style.display = "none";
 }
+
+// wrap tables in divs for responsive behavior
+
+function wrap(el) {
+	const wrappingElement = document.createElement("div");
+	wrappingElement.style = "overflow-x:auto;";
+	el.replaceWith(wrappingElement);
+	wrappingElement.appendChild(el);
+}
+
+document.querySelectorAll("table").forEach(function (table) {
+	wrap(table);
+});
