@@ -3,61 +3,61 @@
 :root {
 	/* Set this n minima.scss as well */
 	/* Canvas variables */
-    --ic-brand-primary-darkened-5: #156131;
-    --ic-brand-primary-darkened-10: #145C2E;
-    --ic-brand-primary-darkened-15: #13572C;
-    --ic-brand-primary-lightened-5: #216D3D;
-    --ic-brand-primary-lightened-10: #2D7547;
-    --ic-brand-primary-lightened-15: #387C51;
-    --ic-brand-button--primary-bgd-darkened-5: #156131;
-    --ic-brand-button--primary-bgd-darkened-15: #13572C;
-    --ic-brand-button--secondary-bgd-darkened-5: #F3B511;
-    --ic-brand-button--secondary-bgd-darkened-15: #D9A20F;
-    --ic-brand-font-color-dark-lightened-15: #4C5860;
-    --ic-brand-font-color-dark-lightened-28: #677179;
-    --ic-link-color-darkened-10: #000000;
-    --ic-link-color-lightened-10: #191919;
-    --ic-brand-primary: #166633;
-    --ic-brand-font-color-dark: #2D3B45;
-    --ic-link-color: #000000;
-    --ic-brand-button--primary-bgd: var(--ic-brand-primary);
-    --ic-brand-button--primary-text: #ffffff;
-    --ic-brand-button--secondary-bgd: #ffbe11;
-    --ic-brand-button--secondary-text: #ffffff;
-    --ic-brand-global-nav-bgd: #005239;
-    --ic-brand-global-nav-ic-icon-svg-fill: #ffffff;
-    --ic-brand-global-nav-ic-icon-svg-fill--active: #005239;
-    --ic-brand-global-nav-menu-item__text-color: #ffffff;
-    --ic-brand-global-nav-menu-item__text-color--active: #005239;
-    --ic-brand-global-nav-avatar-border: #ffffff;
-    --ic-brand-global-nav-menu-item__badge-bgd: #ffbe11;
-    --ic-brand-global-nav-menu-item__badge-bgd--active: #005239;
-    --ic-brand-global-nav-menu-item__badge-text: #000000;
-    --ic-brand-global-nav-menu-item__badge-text--active: #ffffff;
-    --ic-brand-global-nav-logo-bgd: #005239;
-    --ic-brand-header-image: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/57513/mason-logo3.png');
-    --ic-brand-mobile-global-nav-logo: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/940/mason-logo.png');
-    --ic-brand-watermark-opacity: 1.0;
-    --ic-brand-favicon: url('https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico');
-    --ic-brand-apple-touch-icon: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/938/cropped-MasonM_4C.png');
-    --ic-brand-msapplication-tile-color: #ffffff;
-    --ic-brand-msapplication-tile-square: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/939/cropped-MasonM_4C.png');
-    --ic-brand-msapplication-tile-wide: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/941/mason-logo.png');
-    --ic-brand-Login-body-bgd-color: #394B58;
-    --ic-brand-Login-body-bgd-image: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/943/gmucampus.jpeg');
-    --ic-brand-Login-body-bgd-shadow-color: #2D3B45;
-    --ic-brand-Login-logo: url('https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/942/mason-logo.png');
-    --ic-brand-Login-Content-bgd-color: #176633;
-    --ic-brand-Login-Content-border-color: none;
-    --ic-brand-Login-Content-inner-bgd: none;
-    --ic-brand-Login-Content-inner-border: none;
-    --ic-brand-Login-Content-inner-body-bgd: none;
-    --ic-brand-Login-Content-inner-body-border: none;
-    --ic-brand-Login-Content-label-text-color: #ffffff;
-    --ic-brand-Login-Content-password-text-color: #ffffff;
-    --ic-brand-Login-footer-link-color: #ffffff;
-    --ic-brand-Login-footer-link-color-hover: #ffffff;
-    --ic-brand-Login-instructure-logo: #ffffff;
+	--ic-brand-primary-darkened-5: #156131;
+	--ic-brand-primary-darkened-10: #145c2e;
+	--ic-brand-primary-darkened-15: #13572c;
+	--ic-brand-primary-lightened-5: #216d3d;
+	--ic-brand-primary-lightened-10: #2d7547;
+	--ic-brand-primary-lightened-15: #387c51;
+	--ic-brand-button--primary-bgd-darkened-5: #156131;
+	--ic-brand-button--primary-bgd-darkened-15: #13572c;
+	--ic-brand-button--secondary-bgd-darkened-5: #f3b511;
+	--ic-brand-button--secondary-bgd-darkened-15: #d9a20f;
+	--ic-brand-font-color-dark-lightened-15: #4c5860;
+	--ic-brand-font-color-dark-lightened-28: #677179;
+	--ic-link-color-darkened-10: #000000;
+	--ic-link-color-lightened-10: #191919;
+	--ic-brand-primary: #166633;
+	--ic-brand-font-color-dark: #2d3b45;
+	--ic-link-color: #000000;
+	--ic-brand-button--primary-bgd: var(--ic-brand-primary);
+	--ic-brand-button--primary-text: #ffffff;
+	--ic-brand-button--secondary-bgd: #ffbe11;
+	--ic-brand-button--secondary-text: #ffffff;
+	--ic-brand-global-nav-bgd: #005239;
+	--ic-brand-global-nav-ic-icon-svg-fill: #ffffff;
+	--ic-brand-global-nav-ic-icon-svg-fill--active: #005239;
+	--ic-brand-global-nav-menu-item__text-color: #ffffff;
+	--ic-brand-global-nav-menu-item__text-color--active: #005239;
+	--ic-brand-global-nav-avatar-border: #ffffff;
+	--ic-brand-global-nav-menu-item__badge-bgd: #ffbe11;
+	--ic-brand-global-nav-menu-item__badge-bgd--active: #005239;
+	--ic-brand-global-nav-menu-item__badge-text: #000000;
+	--ic-brand-global-nav-menu-item__badge-text--active: #ffffff;
+	--ic-brand-global-nav-logo-bgd: #005239;
+	--ic-brand-header-image: url("https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/57513/mason-logo3.png");
+	--ic-brand-mobile-global-nav-logo: url("https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/940/mason-logo.png");
+	--ic-brand-watermark-opacity: 1;
+	--ic-brand-favicon: url("https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico");
+	--ic-brand-apple-touch-icon: url("https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/938/cropped-MasonM_4C.png");
+	--ic-brand-msapplication-tile-color: #ffffff;
+	--ic-brand-msapplication-tile-square: url("https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/939/cropped-MasonM_4C.png");
+	--ic-brand-msapplication-tile-wide: url("https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/941/mason-logo.png");
+	--ic-brand-Login-body-bgd-color: #394b58;
+	--ic-brand-Login-body-bgd-image: url("https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/943/gmucampus.jpeg");
+	--ic-brand-Login-body-bgd-shadow-color: #2d3b45;
+	--ic-brand-Login-logo: url("https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_223010000000000001/attachments/942/mason-logo.png");
+	--ic-brand-Login-Content-bgd-color: #176633;
+	--ic-brand-Login-Content-border-color: none;
+	--ic-brand-Login-Content-inner-bgd: none;
+	--ic-brand-Login-Content-inner-border: none;
+	--ic-brand-Login-Content-inner-body-bgd: none;
+	--ic-brand-Login-Content-inner-body-border: none;
+	--ic-brand-Login-Content-label-text-color: #ffffff;
+	--ic-brand-Login-Content-password-text-color: #ffffff;
+	--ic-brand-Login-footer-link-color: #ffffff;
+	--ic-brand-Login-footer-link-color-hover: #ffffff;
+	--ic-brand-Login-instructure-logo: #ffffff;
 	/* my variables */
 	--preset-box-shadow: 2px 2px 5px gray;
 	--accent: var(--ic-brand-primary);
@@ -65,18 +65,18 @@
 	--accent-dark: var(--ic-brand-primary-darkened-15);
 	--footer-gray: var(--ic-brand-button--secondary-bgd);
 	--light-gray: rgba(103, 113, 121, 0.2);
-	--accent-textbox: rgba(56, 124, 81, .2);  /* based on ic-brand-primary */
+	--accent-textbox: rgba(56, 124, 81, 0.2); /* based on ic-brand-primary */
 	--main-bg: #fff;
 	/* --off-white: #F9F7F1; */
 	--text: var(--ic-brand-font-color-dark);
 }
 
 hr {
-border: 0;
-height: 0;
-border-bottom: 3px solid var(--accent);
-width: 50%;
-margin: 3em auto;
+	border: 0;
+	height: 0;
+	border-bottom: 3px solid var(--accent);
+	width: 50%;
+	margin: 3em auto;
 }
 
 html {
@@ -93,10 +93,10 @@ html {
 }
 
 :target:before {
-    content: "";
-    display: block;
-    height: 100px;
-    margin: -100px 0 0;
+	content: "";
+	display: block;
+	height: 100px;
+	margin: -100px 0 0;
 }
 
 /*
@@ -125,9 +125,10 @@ a:visited {
 	color: inherit;
 }
 
-.footer-col-wrapper a, .footer-col-wrapper {
-font-size: 15px;
-color: var(--ic-brand-font-color-dark-lightened-28);
+.footer-col-wrapper a,
+.footer-col-wrapper {
+	font-size: 15px;
+	color: var(--ic-brand-font-color-dark-lightened-28);
 }
 
 /*
@@ -190,24 +191,23 @@ li > ol {
 	margin-right: 0.5rem;
 }
 
-
 @media screen and (max-width: 600px) {
 	.header:nth-child(1) {
 		max-width: 75% !important;
 	}
 	.site-title {
 		line-height: normal;
-		margin-left:1rem;
+		margin-left: 1rem;
 	}
 }
 
 @media screen and (max-width: 500px) {
 	.header-wrapper .favicon {
-		display:none;
+		display: none;
 	}
 }
 
-@media screen and (max-width: 768px) {	
+@media screen and (max-width: 768px) {
 	.site-nav {
 		background-color: var(--ic-brand-global-nav-bgd);
 		border-radius: 4px;
@@ -221,11 +221,10 @@ li > ol {
 		color: var(--ic-brand-global-nav-menu-item__text-color);
 	}
 	.site-nav a:hover {
-		text-decoration-color:  var(--ic-brand-global-nav-menu-item__text-color);
+		text-decoration-color: var(--ic-brand-global-nav-menu-item__text-color);
 		text-decoration-style: dotted;
 	}
 }
-
 
 /* 
 * 
@@ -259,20 +258,21 @@ li > ol {
 }
 
 /* tables */
-table, table th, table td {
+table,
+table th,
+table td {
 	border-style: solid hidden;
 }
 
 table th {
 	background-color: transparent;
 	border-top: hidden;
-	border-bottom: 2px solid var(--accent); 
+	border-bottom: 2px solid var(--accent);
 }
 
 /*
 *
 * card */
-
 
 .card {
 	/* mine
@@ -285,7 +285,7 @@ table th {
 
 	/* Canvas */
 	background: #fff;
-	box-shadow: 0 2px 5px rgba(0,0,0,.3);
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 	border-radius: 4px;
 	/* overflow: hidden;
 	box-sizing: border-box;
@@ -447,7 +447,6 @@ a.button-fill:hover {
 .textbox--key-takeaways .textbox__header {
 	background-color: var(--accent);
 	padding: 1em;
-	
 }
 
 .textbox--key-takeaways .textbox__title {
@@ -466,11 +465,11 @@ a.button-fill:hover {
 *
 * Media styling */
 
-iframe, img {
+iframe,
+img {
 	display: block;
 	margin: auto;
 }
-
 
 /*
 *
@@ -485,7 +484,6 @@ figcaption {
 figcaption i {
 	font-style: normal;
 }
-
 
 /*
 *
@@ -512,7 +510,6 @@ ol ol li {
 	margin-bottom: 0;
 }
 
-
 /* smooth scroll anchor links */
 html {
 	scroll-behavior: smooth;
@@ -520,5 +517,20 @@ html {
 @media screen and (prefers-reduced-motion: reduce) {
 	html {
 		scroll-behavior: auto;
+	}
+}
+
+figure.audio-example {
+	padding: 1rem;
+	border: 1px solid lightgray;
+	background-color: lightgray;
+	border-radius: 5px;
+	max-width: 20em;
+	text-align: center;
+	margin-bottom: 2em;
+	& figcaption {
+		font-style: inherit;
+		font-weight: bold;
+		font-size: inherit;
 	}
 }
