@@ -86,15 +86,52 @@ Music can likewise signify in varying degrees of abstract or literal representat
 
 Following is a list of many common topics found in film music (**Example 2**). This list is by no means exhaustive! You can probably think of more topics yourself.
 
-| topic               | musical features                                                                                                                                              | example                                                                                                                                                                |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Military            | brass instruments, especially trumpet; percussion, especially snare drum; melodies based on fanfares and field signals; duple/quadruple meter; moderate tempo | [_Final Fantasy_ victory fanfare](https://fi.zophar.net/soundfiles/playstation-psf/final-fantasy-ix/119%20Fanfare.mp3)                                                 |
-| Flying              | rapid, repetitive high-range gestures; rising arpeggiations; large leaps upward; instrumentation of strings, woodwinds, and harp                              | ["Flying Theme" from *E.T.: The Extra Terrestrial*](https://mtosmt.org/issues/mto.19.25.2/atkinson_examples.php?id=2&nonav=true) (1982)                                |
-| Ominous Chant       | use of Latin or Latin-sounding syllables; choir; heavy reverb                                                                                                 | [Battle scene from *Chronicles of Narnia: The Lion, The Witch, and the Wardrobe*](https://coursemedia.gmu.edu/media/Narnia+-+The+Battle+Song/1_b254wvbn?st=100) (2005) |
-| Epic                | large performing forces (orchestra, choir, etc.), fast/heavy percussion, major chords, dissonance, melody in the brass                                        | [*Batman: The Dark Knight Rises* theme](https://coursemedia.gmu.edu/media/The+Dark+Knight+Rises+-+Main+Theme/1_khln8abd) (2012)                                        |
-| Pastoral            | Woodwind instruments, strings, compound meter, slow-to-moderate tempo, drones, simple/folk-like melodies and harmonies                                        | [_The Legend of Zelda: Wind Waker_, "Korok Festival"](https://coursemedia.gmu.edu/media/The+Wind+Waker+HD%3A+Korok+Festival/1_c8ln32vt) (2003)                         |
-| Wonder              | Triadic but highly chromatic harmony, frequent modulations, unstable sense of tonic, major chords, lydian ♯4                                                  | [Universal Studios opening fanfare](https://coursemedia.gmu.edu/media/Universal+Studios+title+1990%E2%80%931997/1_yngzyd1o) (1990–1997)                                |
-| Mystic/Magic/Gothic | celeste, female vocals, recorder, minor mode, chromaticism                                                                                                    | [Main theme from *Edward Scissorhands*](https://coursemedia.gmu.edu/media/Edward+Scissorhands+Soundtrack+-+Main+Theme+%28Danny+Elfman%29/1_t6ap2740) (1990)            |
+<table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
+<thead>
+<tr>
+<th>topic</th>
+<th>musical features</th>
+<th>example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Military</td>
+<td>brass instruments, especially trumpet; percussion, especially snare drum; melodies based on fanfares and field signals; duple/quadruple meter; moderate tempo</td>
+<td><a href="https://fi.zophar.net/soundfiles/playstation-psf/final-fantasy-ix/119%20Fanfare.mp3"><em>Final Fantasy</em> victory fanfare</a></td>
+</tr>
+<tr>
+<td>Flying</td>
+<td>rapid, repetitive high-range gestures; rising arpeggiations; large leaps upward; instrumentation of strings, woodwinds, and harp</td>
+<td><a href="https://mtosmt.org/issues/mto.19.25.2/atkinson_examples.php?id=2&amp;nonav=true">&quot;Flying Theme&quot; from <em>E.T.: The Extra Terrestrial</em></a> (1982)</td>
+</tr>
+<tr>
+<td>Ominous Chant</td>
+<td>use of Latin or Latin-sounding syllables; choir; heavy reverb</td>
+<td><a href="https://coursemedia.gmu.edu/media/Narnia+-+The+Battle+Song/1_b254wvbn?st=100">Battle scene from <em>Chronicles of Narnia: The Lion, The Witch, and the Wardrobe</em></a> (2005)</td>
+</tr>
+<tr>
+<td>Epic</td>
+<td>large performing forces (orchestra, choir, etc.), fast/heavy percussion, major chords, dissonance, melody in the brass</td>
+<td><a href="https://coursemedia.gmu.edu/media/The+Dark+Knight+Rises+-+Main+Theme/1_khln8abd"><em>Batman: The Dark Knight Rises</em> theme</a> (2012)</td>
+</tr>
+<tr>
+<td>Pastoral</td>
+<td>Woodwind instruments, strings, compound meter, slow-to-moderate tempo, drones, simple/folk-like melodies and harmonies</td>
+<td><a href="https://coursemedia.gmu.edu/media/The+Wind+Waker+HD%3A+Korok+Festival/1_c8ln32vt"><em>The Legend of Zelda: Wind Waker</em>, &quot;Korok Festival&quot;</a> (2003)</td>
+</tr>
+<tr>
+<td>Wonder</td>
+<td>Triadic but highly chromatic harmony, frequent modulations, unstable sense of tonic, major chords, lydian ♯4</td>
+<td><a href="https://coursemedia.gmu.edu/media/Universal+Studios+title+1990%E2%80%931997/1_yngzyd1o">Universal Studios opening fanfare</a> (1990–1997)</td>
+</tr>
+<tr>
+<td>Mystic/Magic/Gothic</td>
+<td>celeste, female vocals, recorder, minor mode, chromaticism</td>
+<td><a href="https://coursemedia.gmu.edu/media/Edward+Scissorhands+Soundtrack+-+Main+Theme+%28Danny+Elfman%29/1_t6ap2740">Main theme from <em>Edward Scissorhands</em></a> (1990)</td>
+</tr>
+</tbody>
+</table>
 
 <figcaption><b>Example 2.</b> Some musical topics that appear frequently in film and video game music  (Atkinson 2019; Monelle 2006; Lehman 2018; van Elferen 2013; <a href="https://tvtropes.org">TVTropes.org</a>).</figcaption>
 
@@ -104,17 +141,62 @@ Again, there are far more possible topics to discuss; an exhaustive list would b
 
 Video game music and film music share many topics, but video game music topics are often tied specifically to the location/biome in which the action is taking place in a way that is less common for film music. Following is a list of common video game locations and their associated musical features.
 
-| topic                    | musical features                                                                                                                                                                       | example                                                                                                                                                                                                  |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Air/flying               | ascending melodies; large ascending leaps; strings, harps, winds; motor rhythm, consistent rhythm;                                                                                     | [FFVII Airship Theme)](https://fi.zophar.net/soundfiles/playstation-psf/final-fantasy-vii/403%20The%20Highwind%20Takes%20to%20the%20Skies.mp3)                                                           |
-| Beach                    | steel pan, xylophone, marimba; ukulele/guitar-family instruments; simple harmonies; hand drums; shaker;                                                                                | ["On the Beach" from _Yoshi's Story_ (1997)](https://fi.zophar.net/soundfiles/nintendo-64-usf/yoshis-story/04a%20On%20The%20Beach.mp3)                                                                   |
-| Cave                     | lower-activity; heavy reverb; minor; marimba, xylophone; thinner texture; low-range instruments; low-pitched percussion; chromaticism;                                                 | ["Cavern on the Lake" from _Pokemon Diamond_](https://fi.zophar.net/soundfiles/nintendo-ds-2sf/pokemon-diamond/236%20Cavern%20on%20the%20Lake.mp3)                                                       |
-| Factory                  | heavy percussion, especially high-range; syncopation; high rhythmic activity, ostinati; active bass line; tinks, clanks; modern/industrial/urban styles;                               | ["Chemical Plant Zone" from _Sonic the Hedgehog 2_](https://fi.zophar.net/soundfiles/sega-mega-drive-genesis/sonic-the-hedgehog-2/05%20-%20Chemical%20Plant%20Zone.mp3)                                  |
-| Field (travel/world map) | woodwind/string runs; snare drums; motor rhythm; galloping rhythms, military rhythms; major; fanfare, antiphony;                                                                       | ["Hyrule Field Main Theme" from _Legend of Zelda: Ocarina of Time_ (1998)](https://fi.zophar.net/soundfiles/nintendo-64-usf/legend-of-zelda-the-ocarina-of-time/19a%20Hyrule%20Field%20Main%20Theme.mp3) |
-| Forest                   | woodwinds (especially flutes); strings; wooden instruments (marimba, xylo); high and low frequency, but not much middle; sustained notes, pedal tones; heavy reverb; minorish, dorian; | ["Ymir Forest" from _Tales of Symphonia_ (2004)](https://fi.zophar.net/soundfiles/playstation2-psf2/tales-of-symphonia/BGM_D007.mp3)                                                                     |
-| Lava                     | quasi-Indian-classical: sitar, tabla, tambura; low-pitched percussion; marimba; gamelan-esque sounds; generally south Asian (hot countries) timbres                                    | ["Lethal Lava Land" from _Super Mario 64_ (1996)](https://www.zophar.net/music/nintendo-64-usf/super-mario-64)                                                                                           |
-| Town                     | hand drums; tambourine; woodwinds, strings; major mode; lilting rhythms; all pastoral things; moderate or slow tempo                                                                   | ["Welcome to Our Town!" from _Final Fantasy IV_ (1991)](https://www.zophar.net/music/nintendo-snes-spc/final-fantasy-iv)                                                                                 |
-| Winter                   | sleigh bells; all metallic percussion, marimba/xylo; glockenspiel, glass harmonica, celeste; heavy reverb; no drums; high woodwinds, strings; arpeggiation; - plucked strings          | ["Shiver Star" from _Kirby 64: The Crystal Shards_ (2000)](https://fi.zophar.net/soundfiles/nintendo-64-usf/kirby-64-the-crystal-shards/025b%20Shiver%20Star.mp3)                                        |
+<table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
+<thead>
+<tr>
+<th>topic</th>
+<th>musical features</th>
+<th>example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Air/flying</td>
+<td>ascending melodies; large ascending leaps; strings, harps, winds; motor rhythm, consistent rhythm;</td>
+<td><a href="https://fi.zophar.net/soundfiles/playstation-psf/final-fantasy-vii/403%20The%20Highwind%20Takes%20to%20the%20Skies.mp3">FFVII Airship Theme)</a></td>
+</tr>
+<tr>
+<td>Beach</td>
+<td>steel pan, xylophone, marimba; ukulele/guitar-family instruments; simple harmonies; hand drums; shaker;</td>
+<td><a href="https://fi.zophar.net/soundfiles/nintendo-64-usf/yoshis-story/04a%20On%20The%20Beach.mp3">&quot;On the Beach&quot; from <em>Yoshi's Story</em> (1997)</a></td>
+</tr>
+<tr>
+<td>Cave</td>
+<td>lower-activity; heavy reverb; minor; marimba, xylophone; thinner texture; low-range instruments; low-pitched percussion; chromaticism;</td>
+<td><a href="https://fi.zophar.net/soundfiles/nintendo-ds-2sf/pokemon-diamond/236%20Cavern%20on%20the%20Lake.mp3">&quot;Cavern on the Lake&quot; from <em>Pokemon Diamond</em></a></td>
+</tr>
+<tr>
+<td>Factory</td>
+<td>heavy percussion, especially high-range; syncopation; high rhythmic activity, ostinati; active bass line; tinks, clanks; modern/industrial/urban styles;</td>
+<td><a href="https://fi.zophar.net/soundfiles/sega-mega-drive-genesis/sonic-the-hedgehog-2/05%20-%20Chemical%20Plant%20Zone.mp3">&quot;Chemical Plant Zone&quot; from <em>Sonic the Hedgehog 2</em></a></td>
+</tr>
+<tr>
+<td>Field (travel/world map)</td>
+<td>woodwind/string runs; snare drums; motor rhythm; galloping rhythms, military rhythms; major; fanfare, antiphony;</td>
+<td><a href="https://fi.zophar.net/soundfiles/nintendo-64-usf/legend-of-zelda-the-ocarina-of-time/19a%20Hyrule%20Field%20Main%20Theme.mp3">&quot;Hyrule Field Main Theme&quot; from <em>Legend of Zelda: Ocarina of Time</em> (1998)</a></td>
+</tr>
+<tr>
+<td>Forest</td>
+<td>woodwinds (especially flutes); strings; wooden instruments (marimba, xylo); high and low frequency, but not much middle; sustained notes, pedal tones; heavy reverb; minorish, dorian;</td>
+<td><a href="https://fi.zophar.net/soundfiles/playstation2-psf2/tales-of-symphonia/BGM_D007.mp3">&quot;Ymir Forest&quot; from <em>Tales of Symphonia</em> (2004)</a></td>
+</tr>
+<tr>
+<td>Lava</td>
+<td>quasi-Indian-classical: sitar, tabla, tambura; low-pitched percussion; marimba; gamelan-esque sounds; generally south Asian (hot countries) timbres</td>
+<td><a href="https://www.zophar.net/music/nintendo-64-usf/super-mario-64">&quot;Lethal Lava Land&quot; from <em>Super Mario 64</em> (1996)</a></td>
+</tr>
+<tr>
+<td>Town</td>
+<td>hand drums; tambourine; woodwinds, strings; major mode; lilting rhythms; all pastoral things; moderate or slow tempo</td>
+<td><a href="https://www.zophar.net/music/nintendo-snes-spc/final-fantasy-iv">&quot;Welcome to Our Town!&quot; from <em>Final Fantasy IV</em> (1991)</a></td>
+</tr>
+<tr>
+<td>Winter</td>
+<td>sleigh bells; all metallic percussion, marimba/xylo; glockenspiel, glass harmonica, celeste; heavy reverb; no drums; high woodwinds, strings; arpeggiation; - plucked strings</td>
+<td><a href="https://fi.zophar.net/soundfiles/nintendo-64-usf/kirby-64-the-crystal-shards/025b%20Shiver%20Star.mp3">&quot;Shiver Star&quot; from <em>Kirby 64: The Crystal Shards</em> (2000)</a></td>
+</tr>
+</tbody>
+</table>
 
 ## Exoticism and Colonialism in Film and Video Game Music
 

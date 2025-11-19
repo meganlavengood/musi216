@@ -35,13 +35,13 @@ if (window.location.href.indexOf("iframe=true") > -1) {
 
 // wrap tables in divs for responsive behavior
 
-function wrap(el) {
-	const wrappingElement = document.createElement("div");
-	wrappingElement.style = "overflow-x:auto;";
-	el.replaceWith(wrappingElement);
-	wrappingElement.appendChild(el);
-}
+// function wrap(el) {
+// 	const wrappingElement = document.createElement("div");
+// 	wrappingElement.style = "overflow-x:auto;";
+// 	el.replaceWith(wrappingElement);
+// 	wrappingElement.appendChild(el);
+// }
 
-document.querySelectorAll("table").forEach(function (table) {
-	wrap(table);
-});
+// document.querySelectorAll("table").forEach(function (table) {
+// 	wrap(table);
+// });

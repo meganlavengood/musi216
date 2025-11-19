@@ -125,7 +125,7 @@ Each group will represent one of the following locations:
 -   Town
 -   Winter
 
-<table class="bordered">
+<table class="tablesaw tablesaw-stack bordered" data-tablesaw-mode="stack">
 <thead>
 <tr>
 <th>Group</th>

@@ -10,12 +10,12 @@ order: 3
 
 ## Table of Contents <!-- omit in toc -->
 
--   [Designing leitmotifs: _Lord of the Rings_](#designing-leitmotifs-lord-of-the-rings)
-    -   [4̂ in _Lord of the Rings_ leitmotifs](#4̂-in-lord-of-the-rings-leitmotifs)
-    -   [Into the West](#into-the-west)
--   [Unifying Music and Narrative](#unifying-music-and-narrative)
--   [Development of Leitmotifs](#development-of-leitmotifs)
--   [Bibliography](#bibliography)
+- [Designing leitmotifs: _Lord of the Rings_](#designing-leitmotifs-lord-of-the-rings)
+  - [4̂ in _Lord of the Rings_ leitmotifs](#4̂-in-lord-of-the-rings-leitmotifs)
+  - [Into the West](#into-the-west)
+- [Unifying Music and Narrative](#unifying-music-and-narrative)
+- [Development of Leitmotifs](#development-of-leitmotifs)
+- [Bibliography](#bibliography)
 
 ---
 
@@ -92,9 +92,20 @@ When these two sets of features are blended together, it yields “musico-dramat
 
 When defining the leitmotifs of a piece of media, it may be helpful to separate the musical and emotional features that are coming together to create the leitmotif by asking the following questions (**Example 3**):
 
-| Musical features                                                                                                                                                                                    | Emotional features                                                                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| • What is the musical theme/motive?<br>• What are the tonal, formal, and textural contexts that define this theme/motive?<br>• How is this theme/motive musically developed through its iterations? | • What is the blend of emotions being projected in the film when the leitmotif is sounded? <br>• What are the dramatic, textual, and visual cues indicating these emotions?<br>• How do the emotions change through the fillm? |
+<table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
+<thead>
+<tr>
+<th>Musical features</th>
+<th>Emotional features</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><ul><li>What is the musical theme/motive?</li><li>What are the tonal, formal, and textural contexts that define this theme/motive?</li><li>How is this theme/motive musically developed through its iterations?</li></ul></td>
+<td><ul><li>What is the blend of emotions being projected in the film when the leitmotif is sounded? </li><li>What are the dramatic, textual, and visual cues indicating these emotions?</li><li>How do the emotions change through the fillm?</li></ul></td>
+</tr>
+</tbody>
+</table>
 
 <figcaption><b>Example 3.</b> Questions to ask when defining a leitmotif.</figcaption>
 
