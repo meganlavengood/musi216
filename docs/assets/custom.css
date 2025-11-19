@@ -264,14 +264,21 @@ table td {
 	border-style: solid hidden;
 }
 
+table tr {
+	border-bottom: 2px solid var(--light-gray);
+}
+
 table th {
 	background-color: transparent;
 	border-top: hidden;
 	border-bottom: 2px solid var(--accent);
+	color: var(--accent-dark);
+	font-weight: 800;
+	font-size: 1.1rem;
 }
 
 table.bordered td {
-	border: 2px solid lightgray;
+	border: 2px solid var(--light-gray);
 }
 
 /*
