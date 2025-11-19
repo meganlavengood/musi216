@@ -32,21 +32,21 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-toc
-  - jekyll-spaceship
+  # - jekyll-toc  # removed - incompatible with Ruby 3.4+
+  # - jekyll-spaceship
 future: true
 
-# Jekyll-TOC
-toc:
-  min_level: 2
-  max_level: 3
-  ordered_list: true
-  no_toc_section_class: toc-container
-  list_id: toc
-  list_class: section-nav
-  sublist_class: 'toc-sublist'
-  item_class: toc-entry
-  item_prefix: toc-
+# Jekyll-TOC - disabled, plugin removed
+# toc:
+#   min_level: 2
+#   max_level: 3
+#   ordered_list: true
+#   no_toc_section_class: toc-container
+#   list_id: toc
+#   list_class: section-nav
+#   sublist_class: 'toc-sublist'
+#   item_class: toc-entry
+#   item_prefix: toc-
 
 
 # Exclude from processing.
